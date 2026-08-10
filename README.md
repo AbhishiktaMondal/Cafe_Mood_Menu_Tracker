@@ -200,28 +200,9 @@ The analysis provides insights that can help café management:
 
 ---
 
-## 📁 Project Structure
-
-```text
-cafe-mood-menu-tracker/
-│
-├── README.md
-│
-├── Dataset/
-│   └── cafe_orders.csv
-│
-├── SQL/
-│   └── cafe_analysis.sql
-│
-├── PowerBI/
-│   └── cafe_mood_menu_tracker.pbix
-│
-├── Dashboard/
-│   └── cafe_dashboard.png
-│
-└── Insights/
-    └── key_business_insights.md
-
 
 ## 👤 Author
+
 Abhishikta Mondal
+
+Aspiring Data Analyst
