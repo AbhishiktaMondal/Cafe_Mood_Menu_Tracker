@@ -1,0 +1,2001 @@
+order_id,order_date,order_time,customer_id,item_name,category,price,quantity,weather,temperature,humidity,customer_mood,payment_method,dine_type,total_amount
+1,2025-11-24,08:01,C1280,Pasta,Meal,320,3,Sunny,29,46,Romantic,UPI,Takeaway,960
+2,2025-01-17,07:05,C1280,Hot Chocolate,Beverage,220,2,Cloudy,24,73,Relaxed,Card,Dine-In,440
+3,2025-08-18,16:17,C1143,Cold Coffee,Beverage,230,1,Windy,23,61,Stressed,UPI,Dine-In,230
+4,2025-06-22,08:05,C1023,Masala Tea,Tea,120,1,Rainy,22,92,Stressed,Cash,Takeaway,120
+5,2025-10-02,08:59,C1099,Masala Tea,Tea,120,1,Cloudy,28,70,Energetic,Cash,Dine-In,120
+6,2025-01-24,17:14,C1143,Cold Coffee,Beverage,230,3,Hot,35,36,Sad,Card,Takeaway,690
+7,2025-03-25,12:22,C1088,Hot Chocolate,Beverage,220,3,Cloudy,24,74,Romantic,Cash,Dine-In,660
+8,2025-03-25,14:24,C1017,Iced Coffee,Coffee,210,2,Cloudy,24,68,Tired,Card,Takeaway,420
+9,2025-05-18,08:13,C1235,Lemonade,Beverage,150,3,Sunny,31,51,Romantic,UPI,Takeaway,450
+10,2025-03-13,10:47,C1186,Cheesecake,Dessert,240,3,Cloudy,27,74,Sad,UPI,Dine-In,720
+11,2025-09-18,14:05,C1217,Cold Coffee,Beverage,230,1,Hot,35,45,Relaxed,Cash,Dine-In,230
+12,2025-07-17,13:38,C1059,Brownie,Dessert,160,3,Hot,34,45,Romantic,Cash,Takeaway,480
+13,2025-11-25,12:07,C1092,Iced Coffee,Coffee,210,4,Sunny,28,49,Energetic,Cash,Dine-In,840
+14,2025-11-17,11:53,C1272,Chicken Sandwich,Snack,240,2,Sunny,29,53,Tired,UPI,Takeaway,480
+15,2025-09-08,07:07,C1124,Lemonade,Beverage,150,3,Hot,36,38,Happy,Cash,Dine-In,450
+16,2025-02-13,18:31,C1244,Muffin,Dessert,130,1,Hot,38,37,Relaxed,Cash,Dine-In,130
+17,2025-05-16,15:55,C1160,Veg Sandwich,Snack,180,4,Hot,38,38,Romantic,Card,Takeaway,720
+18,2025-08-13,21:33,C1284,Brownie,Dessert,160,1,Sunny,28,50,Happy,UPI,Dine-In,160
+19,2025-01-04,08:45,C1264,Chicken Sandwich,Snack,240,1,Sunny,28,50,Happy,UPI,Takeaway,240
+20,2025-12-09,14:13,C1125,Cheesecake,Dessert,240,2,Cloudy,28,74,Sad,Card,Takeaway,480
+21,2025-04-08,08:06,C1028,Chicken Sandwich,Snack,240,4,Rainy,23,90,Tired,Cash,Dine-In,960
+22,2025-02-01,13:46,C1072,Green Tea,Tea,140,1,Sunny,29,53,Sad,Card,Dine-In,140
+23,2025-05-23,14:15,C1277,Muffin,Dessert,130,1,Rainy,24,84,Happy,UPI,Dine-In,130
+24,2025-05-02,09:26,C1195,Brownie,Dessert,160,4,Sunny,31,45,Relaxed,UPI,Takeaway,640
+25,2025-05-16,21:50,C1250,Cold Coffee,Beverage,230,4,Sunny,32,55,Romantic,UPI,Dine-In,920
+26,2025-06-01,10:03,C1245,Veg Sandwich,Snack,180,1,Cloudy,24,65,Energetic,Cash,Dine-In,180
+27,2025-01-30,15:05,C1121,Muffin,Dessert,130,2,Sunny,28,55,Tired,Card,Dine-In,260
+28,2025-10-19,10:37,C1290,Veg Sandwich,Snack,180,1,Cloudy,27,75,Energetic,Cash,Takeaway,180
+29,2025-05-14,10:42,C1154,Pasta,Meal,320,3,Sunny,31,47,Romantic,Card,Takeaway,960
+30,2025-02-07,07:29,C1068,Veg Sandwich,Snack,180,1,Sunny,29,53,Stressed,Card,Dine-In,180
+31,2025-05-06,12:18,C1271,Espresso,Coffee,150,4,Windy,24,64,Tired,UPI,Takeaway,600
+32,2025-12-06,08:56,C1140,Espresso,Coffee,150,3,Sunny,28,53,Relaxed,Card,Dine-In,450
+33,2025-06-25,10:43,C1217,Chicken Sandwich,Snack,240,3,Cloudy,26,65,Happy,Card,Dine-In,720
+34,2025-01-02,12:49,C1219,Espresso,Coffee,150,3,Sunny,31,53,Romantic,Cash,Dine-In,450
+35,2025-02-27,08:56,C1076,Pasta,Meal,320,2,Cloudy,26,74,Energetic,Card,Dine-In,640
+36,2025-01-22,11:23,C1053,Lemonade,Beverage,150,1,Hot,35,45,Relaxed,Card,Takeaway,150
+37,2025-11-14,18:09,C1092,Lemonade,Beverage,150,2,Hot,35,41,Happy,Cash,Takeaway,300
+38,2025-07-30,19:42,C1020,Muffin,Dessert,130,2,Sunny,28,51,Tired,Card,Dine-In,260
+39,2025-04-13,20:58,C1099,Brownie,Dessert,160,3,Rainy,21,86,Happy,Card,Takeaway,480
+40,2025-05-23,20:04,C1275,Cold Coffee,Beverage,230,3,Rainy,24,89,Romantic,Card,Dine-In,690
+41,2025-03-01,21:16,C1161,Espresso,Coffee,150,3,Sunny,32,51,Stressed,Card,Dine-In,450
+42,2025-07-17,21:36,C1276,Hot Chocolate,Beverage,220,3,Sunny,31,45,Energetic,Cash,Dine-In,660
+43,2025-07-06,13:04,C1159,Chicken Sandwich,Snack,240,3,Cloudy,24,69,Energetic,Cash,Takeaway,720
+44,2025-06-17,13:44,C1090,Iced Coffee,Coffee,210,2,Sunny,31,55,Romantic,Cash,Takeaway,420
+45,2025-07-27,15:53,C1165,Cappuccino,Coffee,180,3,Sunny,31,54,Energetic,Card,Takeaway,540
+46,2025-08-15,17:13,C1146,Cheesecake,Dessert,240,4,Windy,23,65,Happy,Cash,Takeaway,960
+47,2025-02-17,20:48,C1024,Hot Chocolate,Beverage,220,3,Sunny,29,47,Happy,UPI,Takeaway,660
+48,2025-11-09,20:49,C1197,Latte,Coffee,200,4,Rainy,24,86,Romantic,Card,Takeaway,800
+49,2025-05-05,09:41,C1091,Pasta,Meal,320,1,Hot,34,41,Relaxed,Cash,Takeaway,320
+50,2025-01-26,15:15,C1287,Lemonade,Beverage,150,1,Rainy,23,93,Energetic,Cash,Takeaway,150
+51,2025-08-15,16:52,C1244,Pasta,Meal,320,4,Windy,26,62,Relaxed,Card,Takeaway,1280
+52,2025-05-07,20:40,C1147,Iced Coffee,Coffee,210,4,Cloudy,26,72,Happy,UPI,Takeaway,840
+53,2025-06-21,12:57,C1079,Cheesecake,Dessert,240,1,Sunny,29,51,Romantic,Cash,Dine-In,240
+54,2025-02-02,13:26,C1300,Green Tea,Tea,140,4,Rainy,21,89,Sad,Cash,Dine-In,560
+55,2025-10-22,13:30,C1280,Cappuccino,Coffee,180,3,Sunny,31,51,Energetic,Cash,Dine-In,540
+56,2025-09-07,10:17,C1208,Masala Tea,Tea,120,4,Sunny,30,55,Romantic,Cash,Dine-In,480
+57,2025-08-28,21:08,C1014,Veg Sandwich,Snack,180,1,Hot,38,44,Romantic,UPI,Takeaway,180
+58,2025-03-11,20:29,C1168,Espresso,Coffee,150,1,Sunny,30,48,Sad,Card,Takeaway,150
+59,2025-05-23,19:53,C1277,Masala Tea,Tea,120,3,Windy,25,55,Romantic,UPI,Takeaway,360
+60,2025-04-25,17:04,C1011,Cold Coffee,Beverage,230,1,Windy,23,58,Tired,Cash,Dine-In,230
+61,2025-05-03,09:30,C1132,Chicken Sandwich,Snack,240,1,Cloudy,25,72,Romantic,Card,Dine-In,240
+62,2025-11-07,16:47,C1297,Pasta,Meal,320,1,Windy,23,59,Happy,UPI,Takeaway,320
+63,2025-10-22,17:58,C1125,Masala Tea,Tea,120,4,Hot,35,36,Energetic,UPI,Takeaway,480
+64,2025-12-17,16:51,C1036,Latte,Coffee,200,1,Rainy,23,93,Stressed,Cash,Takeaway,200
+65,2025-01-07,20:26,C1236,Muffin,Dessert,130,4,Sunny,30,55,Tired,Cash,Dine-In,520
+66,2025-08-11,09:46,C1224,Cheesecake,Dessert,240,3,Cloudy,28,72,Sad,Cash,Takeaway,720
+67,2025-06-15,20:15,C1238,Muffin,Dessert,130,1,Sunny,31,48,Tired,Cash,Takeaway,130
+68,2025-06-22,07:31,C1133,Muffin,Dessert,130,3,Sunny,29,50,Tired,Card,Takeaway,390
+69,2025-11-02,18:56,C1209,Iced Coffee,Coffee,210,1,Cloudy,25,66,Relaxed,Card,Dine-In,210
+70,2025-12-20,14:41,C1114,Pasta,Meal,320,4,Rainy,20,84,Stressed,Card,Dine-In,1280
+71,2025-06-06,17:37,C1282,Green Tea,Tea,140,4,Cloudy,26,71,Romantic,Card,Takeaway,560
+72,2025-12-26,14:17,C1275,Iced Coffee,Coffee,210,3,Sunny,29,50,Happy,Cash,Dine-In,630
+73,2025-04-09,10:47,C1052,Brownie,Dessert,160,3,Cloudy,28,74,Stressed,UPI,Takeaway,480
+74,2025-04-27,12:11,C1028,Iced Coffee,Coffee,210,1,Cloudy,25,69,Happy,Cash,Takeaway,210
+75,2025-12-24,09:40,C1241,Muffin,Dessert,130,4,Sunny,28,54,Stressed,Card,Takeaway,520
+76,2025-06-24,09:03,C1038,Iced Coffee,Coffee,210,4,Sunny,28,51,Sad,Cash,Dine-In,840
+77,2025-03-19,09:51,C1214,Veg Sandwich,Snack,180,3,Sunny,29,46,Energetic,Cash,Dine-In,540
+78,2025-09-25,13:28,C1292,Lemonade,Beverage,150,4,Sunny,32,51,Stressed,Cash,Dine-In,600
+79,2025-11-09,18:06,C1081,Cold Coffee,Beverage,230,2,Cloudy,26,75,Happy,UPI,Dine-In,460
+80,2025-10-10,08:10,C1017,Cappuccino,Coffee,180,4,Rainy,24,90,Stressed,UPI,Takeaway,720
+81,2025-12-28,11:44,C1102,Muffin,Dessert,130,4,Sunny,29,49,Tired,Card,Dine-In,520
+82,2025-10-06,10:41,C1158,Espresso,Coffee,150,3,Windy,22,55,Relaxed,Cash,Takeaway,450
+83,2025-08-13,08:29,C1253,Pasta,Meal,320,3,Cloudy,26,73,Energetic,Card,Dine-In,960
+84,2025-11-03,07:56,C1295,Masala Tea,Tea,120,3,Cloudy,24,66,Relaxed,Cash,Dine-In,360
+85,2025-12-11,20:17,C1227,Veg Sandwich,Snack,180,1,Windy,23,62,Energetic,Card,Dine-In,180
+86,2025-10-27,13:40,C1171,Muffin,Dessert,130,4,Hot,37,40,Sad,Card,Dine-In,520
+87,2025-03-24,12:26,C1233,Pasta,Meal,320,4,Sunny,31,53,Happy,UPI,Takeaway,1280
+88,2025-05-10,12:07,C1278,Cold Coffee,Beverage,230,4,Hot,34,45,Tired,Card,Takeaway,920
+89,2025-01-28,10:33,C1282,Green Tea,Tea,140,4,Cloudy,24,68,Stressed,UPI,Takeaway,560
+90,2025-08-13,21:44,C1082,Brownie,Dessert,160,1,Sunny,32,48,Romantic,Card,Dine-In,160
+91,2025-10-10,13:05,C1079,Hot Chocolate,Beverage,220,1,Rainy,20,93,Tired,Card,Takeaway,220
+92,2025-09-18,18:17,C1075,Masala Tea,Tea,120,4,Hot,35,42,Energetic,Card,Dine-In,480
+93,2025-11-03,15:47,C1260,Lemonade,Beverage,150,2,Hot,36,41,Stressed,Card,Dine-In,300
+94,2025-05-25,18:19,C1177,Muffin,Dessert,130,4,Hot,37,43,Sad,Card,Takeaway,520
+95,2025-08-22,21:20,C1120,Muffin,Dessert,130,2,Hot,35,44,Sad,Card,Dine-In,260
+96,2025-06-12,18:30,C1065,Pasta,Meal,320,4,Rainy,21,90,Happy,Cash,Takeaway,1280
+97,2025-02-21,20:54,C1074,Brownie,Dessert,160,1,Cloudy,27,65,Romantic,Card,Dine-In,160
+98,2025-02-08,14:50,C1169,Iced Coffee,Coffee,210,3,Cloudy,27,75,Happy,Cash,Takeaway,630
+99,2025-06-12,17:45,C1121,Lemonade,Beverage,150,4,Hot,34,44,Happy,Cash,Takeaway,600
+100,2025-04-27,18:05,C1154,Masala Tea,Tea,120,1,Windy,22,62,Relaxed,UPI,Dine-In,120
+101,2025-06-16,19:03,C1211,Iced Coffee,Coffee,210,3,Rainy,21,86,Energetic,Cash,Dine-In,630
+102,2025-03-29,09:05,C1074,Veg Sandwich,Snack,180,4,Cloudy,25,72,Energetic,UPI,Takeaway,720
+103,2025-11-23,11:29,C1280,Iced Coffee,Coffee,210,1,Hot,37,39,Romantic,UPI,Dine-In,210
+104,2025-08-15,12:37,C1197,Iced Coffee,Coffee,210,4,Cloudy,27,69,Relaxed,Card,Dine-In,840
+105,2025-05-02,13:36,C1203,Green Tea,Tea,140,3,Hot,36,35,Tired,Card,Dine-In,420
+106,2025-10-17,20:43,C1118,Cold Coffee,Beverage,230,1,Hot,37,39,Tired,Cash,Takeaway,230
+107,2025-04-23,17:12,C1021,Veg Sandwich,Snack,180,3,Cloudy,25,75,Happy,Card,Takeaway,540
+108,2025-01-18,16:23,C1213,Pasta,Meal,320,2,Sunny,30,50,Romantic,UPI,Dine-In,640
+109,2025-03-09,19:34,C1247,Lemonade,Beverage,150,3,Cloudy,26,67,Stressed,Card,Takeaway,450
+110,2025-02-28,14:04,C1047,Espresso,Coffee,150,2,Hot,37,43,Stressed,Card,Dine-In,300
+111,2025-05-16,15:07,C1191,Brownie,Dessert,160,3,Cloudy,26,74,Sad,UPI,Dine-In,480
+112,2025-08-30,07:39,C1238,Lemonade,Beverage,150,3,Hot,35,45,Happy,Cash,Takeaway,450
+113,2025-11-29,13:07,C1050,Espresso,Coffee,150,1,Hot,36,42,Happy,UPI,Dine-In,150
+114,2025-07-18,14:23,C1051,Chicken Sandwich,Snack,240,4,Cloudy,25,71,Romantic,Card,Takeaway,960
+115,2025-05-24,07:44,C1189,Green Tea,Tea,140,2,Rainy,21,88,Happy,Cash,Takeaway,280
+116,2025-02-01,13:17,C1109,Hot Chocolate,Beverage,220,1,Hot,37,36,Romantic,Cash,Dine-In,220
+117,2025-01-26,19:21,C1284,Hot Chocolate,Beverage,220,2,Windy,23,56,Tired,UPI,Dine-In,440
+118,2025-04-30,12:49,C1129,Espresso,Coffee,150,1,Sunny,29,47,Energetic,UPI,Dine-In,150
+119,2025-12-05,20:01,C1009,Espresso,Coffee,150,1,Rainy,21,92,Stressed,UPI,Takeaway,150
+120,2025-01-27,09:47,C1186,Masala Tea,Tea,120,1,Cloudy,27,72,Tired,Cash,Dine-In,120
+121,2025-08-20,15:14,C1016,Veg Sandwich,Snack,180,1,Cloudy,28,69,Sad,UPI,Takeaway,180
+122,2025-07-25,13:43,C1165,Latte,Coffee,200,4,Cloudy,27,66,Happy,Cash,Dine-In,800
+123,2025-02-03,09:17,C1233,Veg Sandwich,Snack,180,3,Rainy,24,91,Stressed,Cash,Takeaway,540
+124,2025-02-20,19:44,C1233,Latte,Coffee,200,2,Rainy,21,89,Stressed,Card,Takeaway,400
+125,2025-02-18,12:27,C1035,Green Tea,Tea,140,3,Rainy,21,93,Sad,UPI,Dine-In,420
+126,2025-02-17,13:06,C1288,Pasta,Meal,320,3,Windy,26,55,Energetic,Cash,Takeaway,960
+127,2025-12-10,08:26,C1160,Green Tea,Tea,140,4,Hot,34,39,Energetic,Card,Dine-In,560
+128,2025-10-23,15:13,C1285,Espresso,Coffee,150,4,Sunny,28,50,Tired,Card,Dine-In,600
+129,2025-05-23,16:14,C1286,Cold Coffee,Beverage,230,4,Windy,26,64,Romantic,UPI,Takeaway,920
+130,2025-01-15,09:17,C1074,Pasta,Meal,320,3,Hot,36,35,Relaxed,Cash,Takeaway,960
+131,2025-02-05,09:47,C1215,Chicken Sandwich,Snack,240,1,Sunny,32,48,Sad,Card,Takeaway,240
+132,2025-03-22,12:19,C1027,Pasta,Meal,320,3,Windy,26,64,Happy,UPI,Dine-In,960
+133,2025-11-13,07:43,C1227,Latte,Coffee,200,3,Rainy,23,90,Energetic,Card,Takeaway,600
+134,2025-04-21,19:32,C1250,Latte,Coffee,200,3,Rainy,22,93,Romantic,Cash,Takeaway,600
+135,2025-01-24,10:25,C1071,Veg Sandwich,Snack,180,1,Sunny,30,48,Tired,Card,Takeaway,180
+136,2025-06-17,08:00,C1118,Brownie,Dessert,160,4,Sunny,31,53,Romantic,Cash,Takeaway,640
+137,2025-02-06,13:55,C1161,Pasta,Meal,320,1,Rainy,23,84,Tired,Cash,Takeaway,320
+138,2025-10-21,13:45,C1088,Chicken Sandwich,Snack,240,4,Sunny,31,45,Stressed,Cash,Takeaway,960
+139,2025-12-20,21:23,C1206,Latte,Coffee,200,4,Windy,23,61,Energetic,Cash,Dine-In,800
+140,2025-07-22,20:19,C1059,Pasta,Meal,320,3,Sunny,29,46,Energetic,Cash,Dine-In,960
+141,2025-06-28,12:46,C1089,Muffin,Dessert,130,2,Sunny,29,49,Relaxed,Cash,Dine-In,260
+142,2025-12-02,08:11,C1290,Cold Coffee,Beverage,230,4,Rainy,24,92,Sad,Cash,Takeaway,920
+143,2025-11-18,12:09,C1029,Brownie,Dessert,160,1,Rainy,22,87,Energetic,Card,Dine-In,160
+144,2025-06-08,14:28,C1047,Cappuccino,Coffee,180,1,Rainy,22,84,Romantic,Cash,Takeaway,180
+145,2025-08-25,16:35,C1165,Cold Coffee,Beverage,230,1,Rainy,24,93,Relaxed,Cash,Takeaway,230
+146,2025-09-14,09:03,C1089,Brownie,Dessert,160,1,Windy,24,56,Energetic,UPI,Dine-In,160
+147,2025-12-29,14:28,C1174,Cheesecake,Dessert,240,2,Rainy,22,89,Sad,Cash,Dine-In,480
+148,2025-11-20,17:21,C1077,Latte,Coffee,200,3,Sunny,31,49,Stressed,Card,Dine-In,600
+149,2025-10-26,17:09,C1044,Lemonade,Beverage,150,3,Rainy,23,85,Energetic,Card,Takeaway,450
+150,2025-11-26,19:21,C1217,Muffin,Dessert,130,2,Cloudy,28,66,Romantic,Cash,Takeaway,260
+151,2025-01-10,12:19,C1071,Espresso,Coffee,150,2,Rainy,23,86,Relaxed,UPI,Dine-In,300
+152,2025-06-01,20:50,C1193,Latte,Coffee,200,1,Cloudy,28,67,Energetic,UPI,Dine-In,200
+153,2025-04-03,20:44,C1122,Cold Coffee,Beverage,230,2,Cloudy,24,71,Stressed,Card,Takeaway,460
+154,2025-08-18,10:34,C1293,Hot Chocolate,Beverage,220,3,Hot,37,38,Stressed,Card,Takeaway,660
+155,2025-05-25,19:24,C1129,Cheesecake,Dessert,240,4,Hot,35,44,Relaxed,UPI,Takeaway,960
+156,2025-07-10,15:59,C1263,Latte,Coffee,200,1,Sunny,29,49,Sad,UPI,Takeaway,200
+157,2025-02-16,21:14,C1203,Muffin,Dessert,130,4,Hot,34,41,Happy,Cash,Takeaway,520
+158,2025-05-01,13:05,C1075,Green Tea,Tea,140,2,Sunny,28,55,Stressed,UPI,Dine-In,280
+159,2025-05-27,21:53,C1003,Brownie,Dessert,160,2,Windy,25,62,Energetic,UPI,Dine-In,320
+160,2025-05-12,10:53,C1063,Espresso,Coffee,150,4,Sunny,30,48,Stressed,UPI,Dine-In,600
+161,2025-08-03,17:50,C1009,Veg Sandwich,Snack,180,4,Sunny,31,54,Energetic,Cash,Dine-In,720
+162,2025-03-15,11:27,C1044,Cappuccino,Coffee,180,3,Sunny,31,47,Romantic,Cash,Takeaway,540
+163,2025-02-04,15:34,C1199,Cheesecake,Dessert,240,1,Rainy,23,83,Romantic,Card,Takeaway,240
+164,2025-01-09,12:50,C1171,Latte,Coffee,200,3,Sunny,28,54,Romantic,UPI,Dine-In,600
+165,2025-06-30,15:21,C1094,Muffin,Dessert,130,2,Windy,25,62,Romantic,UPI,Dine-In,260
+166,2025-08-23,07:18,C1264,Hot Chocolate,Beverage,220,1,Windy,22,60,Stressed,Card,Takeaway,220
+167,2025-05-10,07:48,C1140,Chicken Sandwich,Snack,240,2,Sunny,28,55,Stressed,UPI,Takeaway,480
+168,2025-08-12,21:25,C1255,Pasta,Meal,320,4,Hot,37,40,Relaxed,Cash,Takeaway,1280
+169,2025-07-08,21:51,C1093,Cheesecake,Dessert,240,3,Windy,25,56,Sad,Cash,Takeaway,720
+170,2025-06-14,08:05,C1228,Green Tea,Tea,140,3,Rainy,24,89,Relaxed,Card,Takeaway,420
+171,2025-01-22,18:55,C1030,Lemonade,Beverage,150,3,Cloudy,27,69,Romantic,UPI,Takeaway,450
+172,2025-07-06,15:51,C1225,Pasta,Meal,320,2,Hot,35,44,Romantic,UPI,Dine-In,640
+173,2025-02-04,10:49,C1079,Chicken Sandwich,Snack,240,3,Rainy,24,83,Energetic,Cash,Takeaway,720
+174,2025-07-09,12:28,C1161,Cold Coffee,Beverage,230,1,Cloudy,28,70,Sad,Cash,Takeaway,230
+175,2025-05-08,08:01,C1135,Pasta,Meal,320,2,Rainy,23,91,Happy,Card,Takeaway,640
+176,2025-04-20,16:18,C1089,Pasta,Meal,320,4,Sunny,29,46,Sad,Cash,Takeaway,1280
+177,2025-02-14,19:43,C1149,Muffin,Dessert,130,3,Cloudy,24,73,Energetic,Card,Dine-In,390
+178,2025-12-31,18:59,C1103,Pasta,Meal,320,2,Windy,26,58,Happy,UPI,Dine-In,640
+179,2025-09-10,07:23,C1045,Cheesecake,Dessert,240,3,Rainy,24,85,Energetic,UPI,Takeaway,720
+180,2025-07-23,18:46,C1163,Brownie,Dessert,160,4,Windy,26,56,Relaxed,Cash,Dine-In,640
+181,2025-08-19,14:43,C1094,Cheesecake,Dessert,240,3,Sunny,32,55,Energetic,UPI,Takeaway,720
+182,2025-09-15,21:55,C1166,Cappuccino,Coffee,180,1,Cloudy,26,67,Relaxed,Cash,Dine-In,180
+183,2025-06-27,15:57,C1156,Iced Coffee,Coffee,210,1,Sunny,32,49,Relaxed,Cash,Dine-In,210
+184,2025-09-15,17:10,C1289,Veg Sandwich,Snack,180,2,Sunny,32,54,Stressed,UPI,Dine-In,360
+185,2025-02-11,07:41,C1016,Cold Coffee,Beverage,230,3,Cloudy,28,71,Energetic,Card,Takeaway,690
+186,2025-11-25,11:30,C1226,Hot Chocolate,Beverage,220,4,Sunny,28,45,Relaxed,Card,Takeaway,880
+187,2025-08-26,10:21,C1067,Veg Sandwich,Snack,180,2,Rainy,22,88,Sad,Card,Dine-In,360
+188,2025-06-13,10:29,C1149,Latte,Coffee,200,3,Rainy,21,84,Happy,Card,Takeaway,600
+189,2025-05-08,20:57,C1082,Espresso,Coffee,150,3,Hot,36,38,Tired,Card,Takeaway,450
+190,2025-09-13,21:19,C1124,Brownie,Dessert,160,1,Sunny,31,53,Sad,UPI,Takeaway,160
+191,2025-01-25,07:18,C1069,Brownie,Dessert,160,4,Sunny,28,46,Sad,Card,Takeaway,640
+192,2025-07-26,12:02,C1148,Masala Tea,Tea,120,1,Cloudy,25,70,Energetic,UPI,Takeaway,120
+193,2025-09-16,14:48,C1061,Cheesecake,Dessert,240,3,Windy,26,65,Energetic,UPI,Dine-In,720
+194,2025-07-21,12:50,C1206,Green Tea,Tea,140,3,Windy,23,64,Energetic,Cash,Dine-In,420
+195,2025-01-24,07:08,C1264,Pasta,Meal,320,3,Windy,26,62,Relaxed,UPI,Takeaway,960
+196,2025-11-10,12:10,C1251,Masala Tea,Tea,120,3,Cloudy,28,73,Energetic,Cash,Takeaway,360
+197,2025-09-01,20:01,C1014,Green Tea,Tea,140,3,Cloudy,27,74,Stressed,Cash,Takeaway,420
+198,2025-05-16,17:50,C1269,Cold Coffee,Beverage,230,2,Cloudy,28,72,Relaxed,Cash,Takeaway,460
+199,2025-03-17,20:43,C1226,Hot Chocolate,Beverage,220,1,Cloudy,24,68,Happy,Card,Takeaway,220
+200,2025-03-19,13:44,C1032,Hot Chocolate,Beverage,220,4,Cloudy,28,72,Tired,Cash,Dine-In,880
+201,2025-09-23,10:35,C1273,Green Tea,Tea,140,4,Cloudy,26,67,Sad,Card,Takeaway,560
+202,2025-12-13,19:55,C1286,Pasta,Meal,320,3,Cloudy,25,68,Stressed,Card,Dine-In,960
+203,2025-06-02,19:18,C1179,Pasta,Meal,320,2,Cloudy,27,70,Sad,Cash,Takeaway,640
+204,2025-05-28,08:36,C1075,Chicken Sandwich,Snack,240,4,Hot,37,40,Tired,Card,Dine-In,960
+205,2025-05-28,18:05,C1276,Green Tea,Tea,140,4,Cloudy,27,68,Relaxed,Card,Takeaway,560
+206,2025-03-12,08:39,C1120,Pasta,Meal,320,2,Sunny,32,48,Romantic,UPI,Dine-In,640
+207,2025-07-31,12:45,C1081,Brownie,Dessert,160,1,Cloudy,25,65,Energetic,Card,Takeaway,160
+208,2025-09-02,17:12,C1294,Cold Coffee,Beverage,230,3,Rainy,20,84,Romantic,UPI,Dine-In,690
+209,2025-03-31,13:56,C1254,Muffin,Dessert,130,2,Hot,34,41,Tired,UPI,Takeaway,260
+210,2025-01-20,07:19,C1279,Veg Sandwich,Snack,180,1,Hot,36,39,Sad,Cash,Takeaway,180
+211,2025-03-10,20:32,C1235,Brownie,Dessert,160,3,Sunny,28,50,Relaxed,Cash,Takeaway,480
+212,2025-04-06,07:47,C1208,Green Tea,Tea,140,3,Cloudy,25,67,Energetic,Card,Takeaway,420
+213,2025-02-14,13:42,C1004,Latte,Coffee,200,2,Hot,37,40,Relaxed,Card,Takeaway,400
+214,2025-05-01,14:48,C1185,Iced Coffee,Coffee,210,3,Rainy,24,83,Stressed,Cash,Dine-In,630
+215,2025-02-01,17:07,C1061,Brownie,Dessert,160,3,Sunny,32,49,Romantic,Cash,Takeaway,480
+216,2025-07-08,16:14,C1213,Hot Chocolate,Beverage,220,2,Rainy,23,92,Stressed,Cash,Takeaway,440
+217,2025-10-03,19:42,C1229,Muffin,Dessert,130,2,Windy,26,56,Energetic,Cash,Takeaway,260
+218,2025-02-09,21:36,C1275,Latte,Coffee,200,1,Windy,26,58,Energetic,UPI,Dine-In,200
+219,2025-06-17,20:33,C1262,Brownie,Dessert,160,1,Cloudy,28,72,Happy,Card,Dine-In,160
+220,2025-08-21,09:32,C1158,Masala Tea,Tea,120,4,Cloudy,28,72,Romantic,Cash,Dine-In,480
+221,2025-07-22,11:52,C1033,Cappuccino,Coffee,180,2,Cloudy,24,71,Stressed,Cash,Dine-In,360
+222,2025-02-05,21:30,C1216,Cappuccino,Coffee,180,3,Rainy,21,93,Romantic,Card,Takeaway,540
+223,2025-08-18,20:58,C1179,Lemonade,Beverage,150,4,Rainy,24,85,Romantic,UPI,Dine-In,600
+224,2025-10-03,13:33,C1279,Espresso,Coffee,150,2,Windy,22,59,Sad,Card,Takeaway,300
+225,2025-04-28,10:29,C1215,Green Tea,Tea,140,2,Sunny,28,45,Tired,Cash,Dine-In,280
+226,2025-05-04,10:04,C1023,Latte,Coffee,200,1,Rainy,20,86,Romantic,Card,Takeaway,200
+227,2025-04-30,15:13,C1295,Cold Coffee,Beverage,230,1,Sunny,30,48,Tired,Card,Takeaway,230
+228,2025-05-02,11:56,C1090,Espresso,Coffee,150,2,Rainy,22,83,Energetic,Cash,Takeaway,300
+229,2025-10-12,14:03,C1077,Green Tea,Tea,140,4,Windy,24,61,Sad,Card,Takeaway,560
+230,2025-04-05,19:34,C1238,Brownie,Dessert,160,2,Windy,24,57,Tired,UPI,Takeaway,320
+231,2025-08-02,15:33,C1041,Espresso,Coffee,150,4,Sunny,29,50,Romantic,Card,Takeaway,600
+232,2025-02-17,15:46,C1021,Muffin,Dessert,130,2,Sunny,31,55,Energetic,UPI,Dine-In,260
+233,2025-10-28,18:42,C1109,Cheesecake,Dessert,240,2,Rainy,22,87,Happy,UPI,Dine-In,480
+234,2025-09-03,21:15,C1145,Pasta,Meal,320,2,Rainy,21,91,Stressed,Card,Takeaway,640
+235,2025-10-01,17:22,C1241,Iced Coffee,Coffee,210,3,Rainy,23,90,Happy,Card,Dine-In,630
+236,2025-07-09,12:26,C1300,Cappuccino,Coffee,180,2,Cloudy,24,69,Energetic,Cash,Takeaway,360
+237,2025-06-01,09:12,C1173,Green Tea,Tea,140,2,Rainy,21,90,Energetic,Card,Takeaway,280
+238,2025-11-25,18:31,C1280,Brownie,Dessert,160,2,Cloudy,26,67,Relaxed,Card,Dine-In,320
+239,2025-10-05,17:03,C1004,Cheesecake,Dessert,240,1,Windy,22,65,Happy,Card,Dine-In,240
+240,2025-11-19,10:04,C1031,Pasta,Meal,320,2,Sunny,32,52,Stressed,Cash,Takeaway,640
+241,2025-12-04,14:01,C1147,Cappuccino,Coffee,180,4,Sunny,32,49,Energetic,UPI,Takeaway,720
+242,2025-04-02,08:58,C1182,Latte,Coffee,200,2,Sunny,32,53,Stressed,Card,Takeaway,400
+243,2025-02-10,12:25,C1042,Brownie,Dessert,160,2,Hot,35,39,Romantic,Cash,Dine-In,320
+244,2025-02-17,13:24,C1256,Masala Tea,Tea,120,4,Sunny,28,47,Happy,Card,Takeaway,480
+245,2025-10-17,20:06,C1024,Lemonade,Beverage,150,1,Sunny,32,52,Stressed,UPI,Takeaway,150
+246,2025-10-06,16:42,C1074,Cappuccino,Coffee,180,2,Hot,36,35,Relaxed,Cash,Takeaway,360
+247,2025-02-09,11:10,C1170,Veg Sandwich,Snack,180,2,Cloudy,27,75,Energetic,Card,Dine-In,360
+248,2025-12-19,18:05,C1039,Cheesecake,Dessert,240,3,Sunny,31,48,Tired,Card,Takeaway,720
+249,2025-06-17,07:40,C1222,Iced Coffee,Coffee,210,4,Rainy,22,91,Sad,UPI,Takeaway,840
+250,2025-02-13,19:39,C1195,Iced Coffee,Coffee,210,2,Cloudy,24,69,Relaxed,Cash,Dine-In,420
+251,2025-07-19,12:23,C1139,Latte,Coffee,200,1,Sunny,30,52,Stressed,UPI,Dine-In,200
+252,2025-02-14,09:27,C1048,Brownie,Dessert,160,4,Sunny,28,50,Energetic,Cash,Takeaway,640
+253,2025-07-17,07:18,C1267,Masala Tea,Tea,120,4,Windy,26,58,Energetic,UPI,Takeaway,480
+254,2025-03-28,09:17,C1142,Iced Coffee,Coffee,210,3,Rainy,20,85,Sad,Card,Takeaway,630
+255,2025-09-05,19:04,C1101,Green Tea,Tea,140,3,Hot,37,44,Energetic,Card,Dine-In,420
+256,2025-03-11,11:00,C1172,Masala Tea,Tea,120,3,Windy,25,60,Sad,Card,Dine-In,360
+257,2025-06-03,12:38,C1150,Pasta,Meal,320,2,Rainy,21,89,Stressed,Cash,Takeaway,640
+258,2025-10-22,19:15,C1289,Green Tea,Tea,140,4,Sunny,31,50,Happy,UPI,Dine-In,560
+259,2025-12-16,19:35,C1150,Cappuccino,Coffee,180,4,Hot,35,42,Tired,Cash,Dine-In,720
+260,2025-07-29,17:31,C1194,Espresso,Coffee,150,3,Sunny,29,51,Tired,UPI,Takeaway,450
+261,2025-11-03,14:37,C1044,Masala Tea,Tea,120,4,Cloudy,26,73,Energetic,UPI,Dine-In,480
+262,2025-12-03,17:22,C1221,Espresso,Coffee,150,1,Cloudy,27,70,Tired,UPI,Dine-In,150
+263,2025-02-20,11:14,C1257,Cheesecake,Dessert,240,2,Rainy,23,90,Tired,UPI,Takeaway,480
+264,2025-01-13,14:06,C1073,Iced Coffee,Coffee,210,4,Hot,34,36,Tired,Card,Takeaway,840
+265,2025-06-25,14:50,C1232,Hot Chocolate,Beverage,220,4,Rainy,20,90,Romantic,Card,Dine-In,880
+266,2025-06-03,07:51,C1085,Pasta,Meal,320,1,Sunny,30,55,Happy,Cash,Dine-In,320
+267,2025-09-22,09:35,C1208,Espresso,Coffee,150,3,Cloudy,27,68,Tired,Cash,Dine-In,450
+268,2025-04-06,17:42,C1220,Masala Tea,Tea,120,4,Sunny,32,48,Sad,Card,Dine-In,480
+269,2025-12-27,10:13,C1167,Iced Coffee,Coffee,210,1,Cloudy,28,67,Stressed,UPI,Takeaway,210
+270,2025-02-28,11:42,C1201,Muffin,Dessert,130,4,Cloudy,26,74,Sad,Cash,Dine-In,520
+271,2025-06-28,12:54,C1044,Brownie,Dessert,160,2,Windy,24,64,Energetic,Cash,Dine-In,320
+272,2025-06-10,08:15,C1215,Iced Coffee,Coffee,210,1,Sunny,29,53,Sad,Cash,Dine-In,210
+273,2025-10-22,13:27,C1251,Espresso,Coffee,150,4,Cloudy,25,73,Relaxed,Card,Dine-In,600
+274,2025-04-06,12:53,C1100,Brownie,Dessert,160,1,Hot,34,42,Relaxed,Card,Takeaway,160
+275,2025-07-29,17:31,C1113,Masala Tea,Tea,120,4,Rainy,20,92,Happy,Card,Dine-In,480
+276,2025-05-21,10:34,C1262,Iced Coffee,Coffee,210,2,Windy,26,62,Energetic,UPI,Dine-In,420
+277,2025-05-18,19:34,C1112,Muffin,Dessert,130,3,Cloudy,24,72,Energetic,Card,Dine-In,390
+278,2025-12-01,19:15,C1061,Iced Coffee,Coffee,210,1,Rainy,22,84,Sad,UPI,Dine-In,210
+279,2025-10-29,18:22,C1106,Muffin,Dessert,130,4,Sunny,29,48,Tired,UPI,Takeaway,520
+280,2025-09-30,11:38,C1137,Cheesecake,Dessert,240,2,Rainy,22,87,Energetic,Cash,Dine-In,480
+281,2025-03-11,19:50,C1075,Masala Tea,Tea,120,1,Hot,35,37,Relaxed,Cash,Takeaway,120
+282,2025-05-07,19:53,C1213,Chicken Sandwich,Snack,240,4,Rainy,24,93,Stressed,Card,Takeaway,960
+283,2025-02-08,17:50,C1250,Lemonade,Beverage,150,1,Rainy,22,88,Sad,Card,Dine-In,150
+284,2025-02-17,18:29,C1220,Chicken Sandwich,Snack,240,3,Hot,38,41,Relaxed,UPI,Takeaway,720
+285,2025-05-18,12:53,C1249,Iced Coffee,Coffee,210,3,Cloudy,25,74,Tired,Card,Dine-In,630
+286,2025-01-24,08:40,C1001,Cold Coffee,Beverage,230,4,Sunny,29,52,Sad,Card,Dine-In,920
+287,2025-12-19,21:08,C1185,Lemonade,Beverage,150,3,Sunny,30,46,Romantic,Card,Dine-In,450
+288,2025-07-10,17:57,C1047,Chicken Sandwich,Snack,240,2,Sunny,30,48,Sad,Cash,Dine-In,480
+289,2025-01-01,10:30,C1005,Latte,Coffee,200,2,Cloudy,28,75,Sad,UPI,Takeaway,400
+290,2025-03-03,20:27,C1053,Pasta,Meal,320,2,Rainy,21,89,Happy,UPI,Takeaway,640
+291,2025-07-08,21:19,C1074,Espresso,Coffee,150,4,Windy,23,65,Romantic,UPI,Dine-In,600
+292,2025-11-09,17:10,C1227,Brownie,Dessert,160,3,Cloudy,25,71,Energetic,UPI,Dine-In,480
+293,2025-02-21,09:48,C1072,Latte,Coffee,200,4,Rainy,23,88,Tired,UPI,Takeaway,800
+294,2025-11-27,08:15,C1106,Cheesecake,Dessert,240,3,Windy,22,65,Stressed,Cash,Dine-In,720
+295,2025-07-20,11:41,C1037,Cappuccino,Coffee,180,2,Rainy,20,86,Sad,Cash,Dine-In,360
+296,2025-07-04,21:20,C1280,Espresso,Coffee,150,4,Hot,38,41,Stressed,Cash,Dine-In,600
+297,2025-08-30,19:04,C1204,Cappuccino,Coffee,180,1,Sunny,29,45,Happy,Cash,Takeaway,180
+298,2025-11-18,18:32,C1275,Cold Coffee,Beverage,230,4,Rainy,23,84,Romantic,Cash,Dine-In,920
+299,2025-05-23,08:19,C1201,Latte,Coffee,200,2,Hot,35,43,Stressed,Cash,Dine-In,400
+300,2025-06-08,18:27,C1233,Pasta,Meal,320,2,Sunny,28,51,Happy,Cash,Dine-In,640
+301,2025-06-08,17:47,C1255,Chicken Sandwich,Snack,240,2,Sunny,29,45,Relaxed,Card,Takeaway,480
+302,2025-03-27,12:08,C1220,Pasta,Meal,320,3,Cloudy,24,65,Stressed,Card,Dine-In,960
+303,2025-05-15,18:36,C1256,Chicken Sandwich,Snack,240,1,Rainy,24,88,Happy,Cash,Dine-In,240
+304,2025-07-08,09:16,C1261,Cold Coffee,Beverage,230,1,Hot,34,38,Romantic,UPI,Dine-In,230
+305,2025-01-07,10:02,C1019,Brownie,Dessert,160,3,Rainy,21,85,Tired,Cash,Takeaway,480
+306,2025-04-25,12:15,C1062,Masala Tea,Tea,120,3,Sunny,28,54,Stressed,Cash,Dine-In,360
+307,2025-04-02,10:51,C1145,Cheesecake,Dessert,240,1,Hot,34,42,Tired,Card,Takeaway,240
+308,2025-02-14,15:29,C1125,Cappuccino,Coffee,180,3,Sunny,32,49,Romantic,Card,Takeaway,540
+309,2025-10-30,14:49,C1004,Cold Coffee,Beverage,230,2,Cloudy,28,68,Relaxed,Card,Dine-In,460
+310,2025-04-30,15:22,C1158,Chicken Sandwich,Snack,240,1,Hot,34,45,Sad,UPI,Dine-In,240
+311,2025-09-29,10:26,C1023,Brownie,Dessert,160,1,Hot,35,39,Happy,UPI,Takeaway,160
+312,2025-12-25,21:23,C1202,Brownie,Dessert,160,1,Cloudy,28,67,Romantic,UPI,Dine-In,160
+313,2025-08-11,17:08,C1168,Hot Chocolate,Beverage,220,3,Sunny,30,51,Romantic,Card,Takeaway,660
+314,2025-05-20,10:04,C1055,Hot Chocolate,Beverage,220,2,Windy,26,56,Relaxed,UPI,Takeaway,440
+315,2025-08-27,12:26,C1238,Latte,Coffee,200,3,Hot,35,42,Stressed,Card,Dine-In,600
+316,2025-02-16,09:51,C1168,Chicken Sandwich,Snack,240,3,Windy,26,55,Relaxed,UPI,Dine-In,720
+317,2025-12-31,10:22,C1208,Masala Tea,Tea,120,1,Cloudy,26,67,Happy,Card,Dine-In,120
+318,2025-02-18,14:06,C1102,Cold Coffee,Beverage,230,2,Sunny,28,48,Relaxed,Card,Takeaway,460
+319,2025-12-18,17:41,C1102,Latte,Coffee,200,3,Hot,34,35,Happy,Cash,Takeaway,600
+320,2025-03-07,08:57,C1294,Muffin,Dessert,130,3,Sunny,31,45,Relaxed,Card,Takeaway,390
+321,2025-09-12,07:24,C1144,Chicken Sandwich,Snack,240,4,Sunny,29,47,Stressed,Card,Dine-In,960
+322,2025-01-18,16:39,C1246,Veg Sandwich,Snack,180,2,Cloudy,27,71,Energetic,UPI,Dine-In,360
+323,2025-05-24,13:08,C1279,Masala Tea,Tea,120,2,Cloudy,28,68,Romantic,UPI,Takeaway,240
+324,2025-07-03,14:34,C1199,Cold Coffee,Beverage,230,4,Rainy,24,91,Stressed,Card,Dine-In,920
+325,2025-01-14,12:38,C1242,Hot Chocolate,Beverage,220,1,Hot,36,35,Tired,Cash,Takeaway,220
+326,2025-10-27,10:10,C1029,Latte,Coffee,200,2,Cloudy,26,73,Tired,UPI,Takeaway,400
+327,2025-07-01,21:53,C1184,Muffin,Dessert,130,2,Sunny,32,50,Tired,Cash,Dine-In,260
+328,2025-12-27,18:22,C1159,Veg Sandwich,Snack,180,2,Cloudy,25,72,Energetic,UPI,Takeaway,360
+329,2025-01-20,08:03,C1104,Hot Chocolate,Beverage,220,2,Sunny,31,45,Stressed,UPI,Takeaway,440
+330,2025-04-01,21:51,C1073,Muffin,Dessert,130,3,Sunny,29,54,Romantic,UPI,Takeaway,390
+331,2025-02-07,12:45,C1070,Chicken Sandwich,Snack,240,4,Cloudy,26,69,Stressed,UPI,Takeaway,960
+332,2025-11-24,14:41,C1183,Green Tea,Tea,140,2,Cloudy,28,74,Tired,UPI,Dine-In,280
+333,2025-07-13,11:46,C1291,Pasta,Meal,320,3,Sunny,28,54,Sad,UPI,Dine-In,960
+334,2025-11-05,12:58,C1170,Cold Coffee,Beverage,230,2,Cloudy,24,72,Relaxed,Cash,Dine-In,460
+335,2025-05-02,12:20,C1136,Espresso,Coffee,150,1,Windy,24,62,Happy,UPI,Dine-In,150
+336,2025-12-21,08:22,C1215,Iced Coffee,Coffee,210,1,Cloudy,24,71,Sad,UPI,Takeaway,210
+337,2025-09-10,21:24,C1116,Green Tea,Tea,140,4,Sunny,31,54,Romantic,UPI,Takeaway,560
+338,2025-02-07,19:54,C1176,Cappuccino,Coffee,180,3,Sunny,30,46,Happy,UPI,Takeaway,540
+339,2025-03-24,18:04,C1016,Cheesecake,Dessert,240,1,Rainy,24,90,Romantic,Card,Dine-In,240
+340,2025-11-07,21:27,C1284,Espresso,Coffee,150,1,Sunny,29,48,Sad,Cash,Takeaway,150
+341,2025-12-05,11:19,C1252,Hot Chocolate,Beverage,220,1,Sunny,32,53,Tired,UPI,Dine-In,220
+342,2025-07-04,07:27,C1050,Latte,Coffee,200,3,Windy,26,62,Relaxed,UPI,Dine-In,600
+343,2025-03-29,17:18,C1251,Latte,Coffee,200,4,Windy,24,61,Sad,Cash,Takeaway,800
+344,2025-02-16,17:34,C1229,Masala Tea,Tea,120,2,Rainy,23,88,Relaxed,UPI,Takeaway,240
+345,2025-08-14,14:16,C1044,Hot Chocolate,Beverage,220,3,Cloudy,25,75,Happy,Cash,Takeaway,660
+346,2025-10-05,13:48,C1275,Veg Sandwich,Snack,180,2,Cloudy,27,73,Sad,Cash,Takeaway,360
+347,2025-10-21,21:15,C1265,Brownie,Dessert,160,3,Sunny,28,53,Energetic,Cash,Dine-In,480
+348,2025-03-03,19:28,C1217,Espresso,Coffee,150,2,Hot,35,37,Happy,UPI,Takeaway,300
+349,2025-04-14,20:40,C1285,Espresso,Coffee,150,3,Rainy,20,84,Sad,Card,Takeaway,450
+350,2025-05-22,15:29,C1215,Lemonade,Beverage,150,1,Windy,26,64,Energetic,UPI,Takeaway,150
+351,2025-03-18,09:36,C1147,Veg Sandwich,Snack,180,1,Hot,38,36,Tired,Cash,Takeaway,180
+352,2025-07-30,11:24,C1142,Chicken Sandwich,Snack,240,4,Cloudy,27,65,Relaxed,Card,Dine-In,960
+353,2025-11-13,16:43,C1244,Pasta,Meal,320,4,Sunny,30,48,Happy,Card,Takeaway,1280
+354,2025-01-11,12:52,C1117,Cold Coffee,Beverage,230,3,Rainy,23,93,Happy,UPI,Takeaway,690
+355,2025-08-15,19:52,C1097,Green Tea,Tea,140,3,Cloudy,28,75,Happy,Card,Dine-In,420
+356,2025-07-28,18:31,C1160,Cold Coffee,Beverage,230,3,Windy,26,57,Happy,Cash,Takeaway,690
+357,2025-03-11,19:54,C1017,Cheesecake,Dessert,240,1,Sunny,29,45,Relaxed,Card,Dine-In,240
+358,2025-07-04,18:12,C1064,Iced Coffee,Coffee,210,3,Windy,26,61,Romantic,Cash,Dine-In,630
+359,2025-05-04,12:31,C1180,Veg Sandwich,Snack,180,4,Sunny,31,54,Energetic,Card,Dine-In,720
+360,2025-05-13,18:53,C1293,Pasta,Meal,320,1,Sunny,31,45,Relaxed,UPI,Dine-In,320
+361,2025-11-28,10:43,C1005,Hot Chocolate,Beverage,220,3,Cloudy,28,65,Tired,Card,Dine-In,660
+362,2025-11-28,09:38,C1141,Cold Coffee,Beverage,230,1,Sunny,32,49,Romantic,Card,Takeaway,230
+363,2025-06-28,14:16,C1300,Hot Chocolate,Beverage,220,4,Rainy,24,92,Sad,UPI,Dine-In,880
+364,2025-09-19,17:53,C1153,Muffin,Dessert,130,3,Cloudy,28,74,Stressed,Cash,Dine-In,390
+365,2025-09-04,08:21,C1153,Iced Coffee,Coffee,210,3,Hot,36,45,Romantic,UPI,Dine-In,630
+366,2025-09-22,19:15,C1164,Lemonade,Beverage,150,1,Windy,26,61,Romantic,Cash,Dine-In,150
+367,2025-01-14,17:31,C1019,Iced Coffee,Coffee,210,3,Hot,37,41,Romantic,Cash,Dine-In,630
+368,2025-06-25,18:45,C1088,Hot Chocolate,Beverage,220,4,Hot,36,43,Stressed,Cash,Dine-In,880
+369,2025-05-31,08:30,C1172,Espresso,Coffee,150,3,Cloudy,28,67,Romantic,Cash,Dine-In,450
+370,2025-04-24,12:14,C1300,Pasta,Meal,320,3,Rainy,22,88,Stressed,Card,Takeaway,960
+371,2025-03-02,14:03,C1196,Muffin,Dessert,130,1,Rainy,21,91,Happy,Cash,Takeaway,130
+372,2025-07-31,07:55,C1292,Muffin,Dessert,130,2,Sunny,29,50,Sad,Card,Dine-In,260
+373,2025-06-11,20:45,C1030,Espresso,Coffee,150,1,Rainy,21,88,Romantic,UPI,Takeaway,150
+374,2025-05-21,10:48,C1046,Cold Coffee,Beverage,230,2,Cloudy,25,72,Tired,UPI,Takeaway,460
+375,2025-11-21,13:25,C1192,Masala Tea,Tea,120,4,Rainy,20,91,Relaxed,UPI,Takeaway,480
+376,2025-09-29,10:01,C1177,Chicken Sandwich,Snack,240,1,Cloudy,25,68,Romantic,Card,Dine-In,240
+377,2025-02-22,13:32,C1234,Veg Sandwich,Snack,180,3,Sunny,28,49,Stressed,Cash,Takeaway,540
+378,2025-08-11,21:43,C1097,Espresso,Coffee,150,3,Hot,37,40,Tired,UPI,Takeaway,450
+379,2025-01-10,10:14,C1087,Pasta,Meal,320,2,Sunny,28,54,Energetic,UPI,Takeaway,640
+380,2025-12-31,17:50,C1025,Cappuccino,Coffee,180,4,Hot,36,43,Energetic,Cash,Dine-In,720
+381,2025-12-05,08:41,C1195,Muffin,Dessert,130,1,Sunny,28,51,Sad,UPI,Takeaway,130
+382,2025-08-31,18:09,C1139,Hot Chocolate,Beverage,220,1,Rainy,20,93,Energetic,Cash,Dine-In,220
+383,2025-08-03,20:57,C1103,Latte,Coffee,200,1,Sunny,28,52,Relaxed,Card,Dine-In,200
+384,2025-07-03,18:26,C1247,Iced Coffee,Coffee,210,2,Sunny,31,48,Romantic,Card,Dine-In,420
+385,2025-01-02,07:42,C1262,Latte,Coffee,200,1,Windy,25,57,Happy,UPI,Dine-In,200
+386,2025-05-12,17:14,C1090,Brownie,Dessert,160,3,Sunny,28,46,Tired,UPI,Takeaway,480
+387,2025-07-04,19:43,C1071,Green Tea,Tea,140,4,Cloudy,24,65,Happy,Cash,Dine-In,560
+388,2025-06-18,12:57,C1176,Brownie,Dessert,160,3,Hot,34,40,Tired,UPI,Dine-In,480
+389,2025-07-25,13:29,C1086,Iced Coffee,Coffee,210,4,Cloudy,27,71,Romantic,UPI,Dine-In,840
+390,2025-12-23,18:03,C1292,Muffin,Dessert,130,2,Sunny,32,52,Tired,Cash,Takeaway,260
+391,2025-04-03,16:24,C1058,Cold Coffee,Beverage,230,3,Cloudy,25,72,Sad,Card,Takeaway,690
+392,2025-01-24,08:16,C1290,Chicken Sandwich,Snack,240,3,Sunny,32,54,Romantic,UPI,Takeaway,720
+393,2025-09-23,15:44,C1198,Pasta,Meal,320,1,Rainy,21,90,Stressed,UPI,Dine-In,320
+394,2025-01-06,17:59,C1252,Espresso,Coffee,150,4,Hot,35,36,Tired,Card,Dine-In,600
+395,2025-06-19,11:03,C1121,Cheesecake,Dessert,240,2,Cloudy,27,71,Tired,UPI,Takeaway,480
+396,2025-08-16,19:36,C1255,Brownie,Dessert,160,1,Hot,37,40,Happy,Cash,Dine-In,160
+397,2025-02-22,13:26,C1156,Cappuccino,Coffee,180,1,Windy,26,64,Romantic,Cash,Dine-In,180
+398,2025-12-02,17:29,C1287,Green Tea,Tea,140,3,Windy,23,62,Stressed,Cash,Takeaway,420
+399,2025-12-03,12:45,C1182,Brownie,Dessert,160,1,Sunny,29,45,Stressed,Cash,Takeaway,160
+400,2025-10-08,15:23,C1210,Pasta,Meal,320,1,Sunny,29,52,Relaxed,UPI,Takeaway,320
+401,2025-11-09,10:12,C1213,Latte,Coffee,200,4,Sunny,29,50,Happy,UPI,Dine-In,800
+402,2025-08-19,14:42,C1025,Veg Sandwich,Snack,180,2,Hot,34,43,Romantic,Cash,Takeaway,360
+403,2025-10-27,14:59,C1199,Cheesecake,Dessert,240,2,Cloudy,25,67,Happy,Cash,Takeaway,480
+404,2025-09-16,21:24,C1069,Masala Tea,Tea,120,2,Sunny,30,49,Sad,UPI,Takeaway,240
+405,2025-11-05,18:56,C1284,Pasta,Meal,320,3,Windy,26,60,Romantic,Cash,Dine-In,960
+406,2025-04-13,10:39,C1258,Pasta,Meal,320,3,Cloudy,25,75,Relaxed,Cash,Takeaway,960
+407,2025-12-30,08:48,C1274,Green Tea,Tea,140,4,Cloudy,27,75,Romantic,Card,Takeaway,560
+408,2025-01-07,15:06,C1083,Cappuccino,Coffee,180,4,Sunny,28,48,Stressed,Card,Takeaway,720
+409,2025-03-16,20:03,C1232,Pasta,Meal,320,3,Sunny,32,45,Stressed,UPI,Dine-In,960
+410,2025-11-28,15:24,C1214,Hot Chocolate,Beverage,220,3,Cloudy,24,71,Sad,Cash,Takeaway,660
+411,2025-10-10,07:00,C1189,Pasta,Meal,320,3,Sunny,31,48,Romantic,Cash,Dine-In,960
+412,2025-04-10,11:28,C1194,Espresso,Coffee,150,1,Sunny,29,53,Happy,UPI,Takeaway,150
+413,2025-05-23,15:16,C1239,Espresso,Coffee,150,2,Cloudy,26,65,Stressed,Cash,Dine-In,300
+414,2025-01-21,09:59,C1252,Green Tea,Tea,140,1,Windy,26,65,Stressed,Cash,Takeaway,140
+415,2025-02-07,19:45,C1259,Green Tea,Tea,140,2,Hot,38,36,Tired,UPI,Takeaway,280
+416,2025-10-06,15:25,C1170,Latte,Coffee,200,3,Sunny,29,55,Stressed,Card,Takeaway,600
+417,2025-04-22,19:39,C1178,Cheesecake,Dessert,240,4,Hot,34,36,Romantic,Card,Dine-In,960
+418,2025-11-25,16:58,C1059,Veg Sandwich,Snack,180,2,Hot,36,41,Tired,Card,Takeaway,360
+419,2025-10-04,18:18,C1023,Cappuccino,Coffee,180,3,Cloudy,28,72,Sad,Card,Dine-In,540
+420,2025-06-14,15:05,C1034,Latte,Coffee,200,2,Hot,38,43,Happy,UPI,Dine-In,400
+421,2025-12-17,13:53,C1037,Latte,Coffee,200,2,Cloudy,27,75,Tired,Cash,Dine-In,400
+422,2025-01-13,14:45,C1129,Green Tea,Tea,140,1,Sunny,28,47,Tired,Cash,Dine-In,140
+423,2025-10-22,20:14,C1222,Lemonade,Beverage,150,3,Rainy,23,93,Sad,Card,Dine-In,450
+424,2025-07-19,17:07,C1300,Cheesecake,Dessert,240,1,Cloudy,28,66,Tired,UPI,Dine-In,240
+425,2025-07-03,21:32,C1145,Latte,Coffee,200,3,Windy,24,64,Happy,Card,Takeaway,600
+426,2025-07-22,20:42,C1201,Cappuccino,Coffee,180,4,Sunny,29,47,Romantic,Cash,Takeaway,720
+427,2025-11-21,09:19,C1285,Chicken Sandwich,Snack,240,3,Hot,34,43,Tired,UPI,Dine-In,720
+428,2025-01-22,07:36,C1177,Veg Sandwich,Snack,180,4,Cloudy,24,69,Relaxed,UPI,Takeaway,720
+429,2025-11-27,20:32,C1059,Espresso,Coffee,150,2,Sunny,32,49,Relaxed,UPI,Dine-In,300
+430,2025-10-09,14:41,C1102,Cheesecake,Dessert,240,1,Sunny,28,49,Happy,Cash,Takeaway,240
+431,2025-06-19,12:08,C1163,Chicken Sandwich,Snack,240,2,Sunny,32,46,Relaxed,Card,Takeaway,480
+432,2025-06-18,16:42,C1087,Iced Coffee,Coffee,210,2,Cloudy,26,70,Sad,UPI,Takeaway,420
+433,2025-05-07,19:14,C1170,Pasta,Meal,320,4,Sunny,30,47,Romantic,Card,Takeaway,1280
+434,2025-08-17,12:49,C1042,Iced Coffee,Coffee,210,4,Cloudy,25,75,Energetic,Card,Dine-In,840
+435,2025-10-03,10:16,C1016,Pasta,Meal,320,1,Cloudy,24,73,Romantic,Cash,Takeaway,320
+436,2025-10-30,10:58,C1077,Cappuccino,Coffee,180,3,Cloudy,28,72,Romantic,Card,Takeaway,540
+437,2025-04-25,21:49,C1204,Veg Sandwich,Snack,180,3,Sunny,32,53,Happy,Card,Dine-In,540
+438,2025-12-06,10:54,C1092,Cold Coffee,Beverage,230,2,Windy,23,62,Relaxed,Cash,Dine-In,460
+439,2025-09-05,12:02,C1022,Hot Chocolate,Beverage,220,4,Sunny,30,50,Relaxed,Cash,Dine-In,880
+440,2025-09-23,21:50,C1166,Green Tea,Tea,140,4,Rainy,23,83,Happy,UPI,Takeaway,560
+441,2025-05-15,16:34,C1040,Veg Sandwich,Snack,180,2,Rainy,23,88,Energetic,Cash,Takeaway,360
+442,2025-07-12,21:14,C1247,Cheesecake,Dessert,240,4,Rainy,22,90,Tired,Cash,Dine-In,960
+443,2025-09-14,21:08,C1109,Brownie,Dessert,160,2,Sunny,32,55,Stressed,UPI,Dine-In,320
+444,2025-03-22,12:38,C1059,Pasta,Meal,320,1,Cloudy,27,70,Romantic,Card,Takeaway,320
+445,2025-09-03,10:37,C1083,Espresso,Coffee,150,4,Sunny,28,47,Energetic,UPI,Dine-In,600
+446,2025-10-21,09:03,C1289,Espresso,Coffee,150,3,Hot,38,41,Energetic,Cash,Dine-In,450
+447,2025-12-05,20:18,C1113,Latte,Coffee,200,2,Rainy,23,90,Relaxed,Card,Dine-In,400
+448,2025-10-26,20:49,C1036,Espresso,Coffee,150,3,Sunny,30,52,Energetic,UPI,Takeaway,450
+449,2025-07-17,09:06,C1077,Cappuccino,Coffee,180,2,Cloudy,28,75,Sad,Cash,Dine-In,360
+450,2025-04-01,14:57,C1061,Veg Sandwich,Snack,180,1,Hot,38,43,Tired,UPI,Takeaway,180
+451,2025-12-04,09:57,C1190,Veg Sandwich,Snack,180,1,Hot,37,43,Sad,UPI,Takeaway,180
+452,2025-04-28,19:30,C1069,Cold Coffee,Beverage,230,4,Rainy,24,84,Sad,Card,Takeaway,920
+453,2025-04-30,21:54,C1097,Latte,Coffee,200,3,Cloudy,28,71,Stressed,UPI,Dine-In,600
+454,2025-10-23,15:07,C1186,Cheesecake,Dessert,240,1,Rainy,21,88,Sad,UPI,Dine-In,240
+455,2025-08-07,17:37,C1142,Iced Coffee,Coffee,210,3,Hot,37,44,Stressed,Cash,Takeaway,630
+456,2025-04-15,13:35,C1130,Cold Coffee,Beverage,230,4,Sunny,32,53,Sad,Card,Takeaway,920
+457,2025-12-28,13:47,C1110,Espresso,Coffee,150,1,Cloudy,27,67,Happy,Cash,Takeaway,150
+458,2025-06-23,19:35,C1075,Veg Sandwich,Snack,180,1,Sunny,28,46,Tired,Card,Takeaway,180
+459,2025-02-15,08:16,C1267,Hot Chocolate,Beverage,220,3,Sunny,28,51,Sad,Card,Dine-In,660
+460,2025-03-31,17:31,C1018,Brownie,Dessert,160,1,Sunny,32,49,Relaxed,Cash,Dine-In,160
+461,2025-11-11,09:43,C1142,Cappuccino,Coffee,180,3,Sunny,28,47,Happy,Card,Takeaway,540
+462,2025-12-09,13:25,C1146,Veg Sandwich,Snack,180,2,Cloudy,24,66,Energetic,Cash,Takeaway,360
+463,2025-06-27,20:17,C1134,Hot Chocolate,Beverage,220,2,Rainy,23,92,Happy,UPI,Takeaway,440
+464,2025-09-17,08:35,C1276,Latte,Coffee,200,3,Rainy,20,91,Stressed,Cash,Takeaway,600
+465,2025-12-22,14:24,C1236,Veg Sandwich,Snack,180,4,Windy,24,62,Romantic,Cash,Dine-In,720
+466,2025-09-04,08:16,C1118,Latte,Coffee,200,4,Cloudy,25,75,Romantic,Card,Takeaway,800
+467,2025-06-30,15:34,C1176,Cappuccino,Coffee,180,3,Sunny,28,51,Romantic,UPI,Dine-In,540
+468,2025-09-01,12:22,C1103,Hot Chocolate,Beverage,220,3,Sunny,29,52,Romantic,UPI,Dine-In,660
+469,2025-05-16,10:14,C1055,Hot Chocolate,Beverage,220,2,Windy,24,57,Tired,UPI,Dine-In,440
+470,2025-12-13,17:31,C1247,Veg Sandwich,Snack,180,1,Windy,26,55,Tired,Card,Takeaway,180
+471,2025-09-10,21:56,C1114,Lemonade,Beverage,150,3,Rainy,24,87,Sad,Cash,Dine-In,450
+472,2025-01-28,15:51,C1202,Masala Tea,Tea,120,4,Hot,34,43,Stressed,Cash,Dine-In,480
+473,2025-08-23,08:44,C1108,Cheesecake,Dessert,240,4,Rainy,20,83,Romantic,Card,Dine-In,960
+474,2025-06-16,12:39,C1242,Muffin,Dessert,130,3,Sunny,30,48,Stressed,Cash,Takeaway,390
+475,2025-07-07,09:31,C1206,Masala Tea,Tea,120,2,Rainy,22,88,Tired,Card,Takeaway,240
+476,2025-04-03,16:08,C1222,Veg Sandwich,Snack,180,2,Windy,24,58,Energetic,Card,Dine-In,360
+477,2025-03-16,19:47,C1069,Espresso,Coffee,150,4,Windy,23,61,Sad,Cash,Takeaway,600
+478,2025-09-07,11:16,C1131,Cheesecake,Dessert,240,1,Rainy,21,83,Relaxed,Card,Dine-In,240
+479,2025-08-19,18:21,C1011,Iced Coffee,Coffee,210,3,Rainy,24,87,Stressed,Card,Dine-In,630
+480,2025-06-29,20:43,C1146,Veg Sandwich,Snack,180,2,Cloudy,28,67,Tired,Card,Takeaway,360
+481,2025-12-11,15:31,C1238,Cold Coffee,Beverage,230,4,Hot,37,44,Stressed,Cash,Dine-In,920
+482,2025-03-27,17:51,C1037,Lemonade,Beverage,150,3,Rainy,24,92,Sad,UPI,Dine-In,450
+483,2025-06-25,10:20,C1139,Green Tea,Tea,140,3,Cloudy,28,75,Sad,Card,Takeaway,420
+484,2025-10-28,15:28,C1121,Masala Tea,Tea,120,2,Sunny,28,47,Romantic,Cash,Takeaway,240
+485,2025-12-25,18:05,C1281,Hot Chocolate,Beverage,220,2,Rainy,20,84,Sad,UPI,Dine-In,440
+486,2025-07-23,15:48,C1200,Latte,Coffee,200,1,Sunny,29,46,Romantic,Card,Dine-In,200
+487,2025-05-07,18:18,C1183,Brownie,Dessert,160,2,Sunny,29,45,Happy,Card,Takeaway,320
+488,2025-08-28,20:34,C1234,Lemonade,Beverage,150,3,Cloudy,25,73,Relaxed,Cash,Takeaway,450
+489,2025-09-26,17:40,C1046,Cheesecake,Dessert,240,3,Hot,37,43,Relaxed,Card,Takeaway,720
+490,2025-07-07,13:16,C1147,Espresso,Coffee,150,3,Sunny,32,47,Stressed,Card,Dine-In,450
+491,2025-12-19,21:31,C1119,Cold Coffee,Beverage,230,4,Sunny,31,49,Energetic,UPI,Takeaway,920
+492,2025-04-07,13:56,C1194,Cheesecake,Dessert,240,4,Rainy,21,93,Sad,UPI,Takeaway,960
+493,2025-02-10,13:40,C1097,Hot Chocolate,Beverage,220,3,Sunny,32,49,Sad,UPI,Dine-In,660
+494,2025-03-11,11:07,C1097,Chicken Sandwich,Snack,240,4,Cloudy,26,74,Sad,Card,Dine-In,960
+495,2025-03-19,07:34,C1225,Cappuccino,Coffee,180,2,Hot,36,39,Relaxed,Cash,Dine-In,360
+496,2025-04-30,08:09,C1256,Cappuccino,Coffee,180,4,Sunny,31,49,Tired,Card,Takeaway,720
+497,2025-12-23,19:02,C1201,Green Tea,Tea,140,1,Windy,23,55,Stressed,UPI,Takeaway,140
+498,2025-04-03,10:57,C1128,Muffin,Dessert,130,3,Windy,22,56,Tired,Card,Takeaway,390
+499,2025-05-07,18:02,C1107,Hot Chocolate,Beverage,220,4,Cloudy,24,73,Romantic,Card,Takeaway,880
+500,2025-12-15,11:59,C1063,Green Tea,Tea,140,2,Cloudy,24,73,Energetic,Card,Takeaway,280
+501,2025-11-23,11:12,C1223,Green Tea,Tea,140,1,Hot,35,36,Relaxed,Card,Dine-In,140
+502,2025-03-27,19:17,C1298,Veg Sandwich,Snack,180,1,Rainy,21,83,Happy,Cash,Takeaway,180
+503,2025-12-19,16:09,C1174,Green Tea,Tea,140,1,Sunny,31,46,Romantic,Cash,Dine-In,140
+504,2025-01-31,12:41,C1178,Espresso,Coffee,150,1,Sunny,29,50,Energetic,Card,Dine-In,150
+505,2025-01-11,18:24,C1225,Green Tea,Tea,140,2,Sunny,28,52,Romantic,Cash,Takeaway,280
+506,2025-10-05,18:31,C1284,Hot Chocolate,Beverage,220,2,Cloudy,26,72,Stressed,UPI,Dine-In,440
+507,2025-09-29,09:28,C1260,Iced Coffee,Coffee,210,3,Cloudy,27,65,Tired,Card,Dine-In,630
+508,2025-01-10,16:54,C1199,Green Tea,Tea,140,2,Rainy,20,93,Energetic,UPI,Takeaway,280
+509,2025-10-10,09:39,C1268,Iced Coffee,Coffee,210,3,Rainy,22,84,Happy,Cash,Dine-In,630
+510,2025-01-23,20:08,C1017,Espresso,Coffee,150,1,Sunny,31,48,Happy,Cash,Takeaway,150
+511,2025-12-03,14:33,C1037,Veg Sandwich,Snack,180,3,Sunny,29,54,Romantic,UPI,Dine-In,540
+512,2025-12-02,14:59,C1213,Lemonade,Beverage,150,1,Rainy,20,88,Energetic,Card,Dine-In,150
+513,2025-11-12,11:33,C1050,Cappuccino,Coffee,180,1,Windy,22,58,Energetic,UPI,Dine-In,180
+514,2025-09-30,13:12,C1286,Hot Chocolate,Beverage,220,2,Cloudy,25,73,Romantic,Card,Dine-In,440
+515,2025-11-23,16:22,C1093,Chicken Sandwich,Snack,240,4,Cloudy,27,66,Relaxed,Cash,Takeaway,960
+516,2025-09-16,12:42,C1191,Espresso,Coffee,150,4,Hot,36,43,Stressed,Card,Takeaway,600
+517,2025-06-15,16:15,C1232,Veg Sandwich,Snack,180,2,Rainy,24,87,Stressed,Card,Takeaway,360
+518,2025-01-01,18:02,C1114,Iced Coffee,Coffee,210,1,Cloudy,26,65,Stressed,UPI,Takeaway,210
+519,2025-01-12,19:52,C1293,Pasta,Meal,320,3,Hot,38,43,Energetic,UPI,Dine-In,960
+520,2025-01-20,14:22,C1132,Espresso,Coffee,150,2,Sunny,32,48,Relaxed,Card,Dine-In,300
+521,2025-10-20,13:36,C1250,Lemonade,Beverage,150,2,Cloudy,26,72,Relaxed,Cash,Dine-In,300
+522,2025-11-01,17:19,C1223,Cappuccino,Coffee,180,4,Sunny,28,50,Stressed,Card,Dine-In,720
+523,2025-04-27,18:41,C1269,Muffin,Dessert,130,1,Cloudy,27,65,Stressed,UPI,Takeaway,130
+524,2025-10-04,16:09,C1295,Green Tea,Tea,140,2,Sunny,31,52,Tired,Cash,Dine-In,280
+525,2025-04-24,13:18,C1293,Cold Coffee,Beverage,230,4,Sunny,30,46,Sad,Cash,Dine-In,920
+526,2025-10-08,13:16,C1287,Latte,Coffee,200,4,Cloudy,25,67,Sad,UPI,Takeaway,800
+527,2025-07-22,17:36,C1295,Hot Chocolate,Beverage,220,2,Sunny,30,51,Stressed,UPI,Dine-In,440
+528,2025-12-10,13:27,C1013,Green Tea,Tea,140,3,Sunny,30,54,Romantic,Card,Dine-In,420
+529,2025-06-29,16:52,C1120,Cold Coffee,Beverage,230,4,Cloudy,27,65,Tired,UPI,Takeaway,920
+530,2025-03-21,19:46,C1076,Muffin,Dessert,130,1,Sunny,28,48,Energetic,Card,Dine-In,130
+531,2025-06-25,18:51,C1276,Latte,Coffee,200,3,Rainy,20,88,Relaxed,UPI,Dine-In,600
+532,2025-10-07,15:48,C1193,Iced Coffee,Coffee,210,4,Cloudy,25,75,Happy,Cash,Dine-In,840
+533,2025-05-11,09:03,C1239,Iced Coffee,Coffee,210,2,Windy,26,59,Happy,Cash,Dine-In,420
+534,2025-02-04,13:42,C1198,Iced Coffee,Coffee,210,3,Hot,34,39,Tired,UPI,Takeaway,630
+535,2025-09-18,18:06,C1096,Lemonade,Beverage,150,3,Rainy,24,91,Happy,UPI,Takeaway,450
+536,2025-10-15,21:45,C1251,Cappuccino,Coffee,180,1,Sunny,32,49,Stressed,Card,Dine-In,180
+537,2025-01-10,12:43,C1032,Green Tea,Tea,140,3,Cloudy,25,73,Stressed,Cash,Takeaway,420
+538,2025-07-18,21:52,C1071,Cappuccino,Coffee,180,3,Sunny,30,51,Romantic,UPI,Takeaway,540
+539,2025-09-24,17:39,C1160,Muffin,Dessert,130,2,Rainy,24,85,Sad,Cash,Takeaway,260
+540,2025-08-18,15:08,C1269,Hot Chocolate,Beverage,220,2,Cloudy,25,67,Stressed,UPI,Takeaway,440
+541,2025-03-16,17:59,C1061,Veg Sandwich,Snack,180,2,Rainy,24,91,Romantic,UPI,Takeaway,360
+542,2025-03-16,18:01,C1227,Cold Coffee,Beverage,230,3,Hot,37,41,Stressed,Cash,Takeaway,690
+543,2025-03-19,19:12,C1291,Latte,Coffee,200,2,Sunny,32,54,Stressed,Cash,Dine-In,400
+544,2025-11-02,10:14,C1241,Chicken Sandwich,Snack,240,1,Rainy,23,85,Energetic,Cash,Takeaway,240
+545,2025-04-05,20:24,C1210,Brownie,Dessert,160,4,Sunny,29,48,Happy,UPI,Takeaway,640
+546,2025-07-31,10:47,C1251,Chicken Sandwich,Snack,240,2,Windy,22,57,Sad,Cash,Takeaway,480
+547,2025-08-23,21:15,C1161,Masala Tea,Tea,120,4,Windy,26,61,Romantic,Card,Dine-In,480
+548,2025-09-24,08:28,C1203,Brownie,Dessert,160,1,Hot,35,43,Energetic,Cash,Dine-In,160
+549,2025-10-13,13:33,C1147,Cold Coffee,Beverage,230,1,Sunny,31,51,Stressed,Card,Dine-In,230
+550,2025-08-05,11:39,C1232,Lemonade,Beverage,150,1,Cloudy,25,72,Tired,UPI,Dine-In,150
+551,2025-04-03,19:37,C1092,Lemonade,Beverage,150,2,Rainy,22,90,Happy,Card,Dine-In,300
+552,2025-08-21,08:16,C1231,Green Tea,Tea,140,2,Cloudy,24,66,Happy,Cash,Takeaway,280
+553,2025-02-13,15:45,C1088,Masala Tea,Tea,120,2,Rainy,23,83,Tired,Card,Dine-In,240
+554,2025-03-25,20:09,C1093,Espresso,Coffee,150,1,Rainy,22,90,Stressed,UPI,Dine-In,150
+555,2025-04-14,07:39,C1003,Cold Coffee,Beverage,230,3,Sunny,31,52,Energetic,Cash,Takeaway,690
+556,2025-05-02,10:37,C1004,Chicken Sandwich,Snack,240,4,Rainy,23,84,Energetic,UPI,Takeaway,960
+557,2025-11-14,17:35,C1179,Muffin,Dessert,130,2,Sunny,29,45,Romantic,UPI,Dine-In,260
+558,2025-01-17,17:36,C1214,Muffin,Dessert,130,3,Rainy,20,83,Happy,UPI,Dine-In,390
+559,2025-12-11,11:39,C1048,Chicken Sandwich,Snack,240,2,Hot,38,40,Happy,Card,Takeaway,480
+560,2025-07-08,21:24,C1242,Muffin,Dessert,130,1,Windy,26,56,Stressed,UPI,Dine-In,130
+561,2025-12-22,20:17,C1056,Green Tea,Tea,140,4,Cloudy,25,74,Happy,Cash,Dine-In,560
+562,2025-09-05,18:44,C1295,Veg Sandwich,Snack,180,3,Rainy,22,87,Energetic,Cash,Takeaway,540
+563,2025-03-08,16:36,C1149,Brownie,Dessert,160,4,Rainy,21,92,Relaxed,UPI,Dine-In,640
+564,2025-03-02,07:29,C1212,Chicken Sandwich,Snack,240,1,Cloudy,25,74,Sad,UPI,Takeaway,240
+565,2025-06-29,15:51,C1035,Chicken Sandwich,Snack,240,2,Sunny,29,49,Stressed,Card,Takeaway,480
+566,2025-09-17,15:20,C1292,Cold Coffee,Beverage,230,1,Sunny,30,50,Sad,Cash,Dine-In,230
+567,2025-03-31,10:21,C1019,Muffin,Dessert,130,3,Hot,37,42,Tired,Cash,Dine-In,390
+568,2025-09-04,09:40,C1267,Brownie,Dessert,160,3,Rainy,23,83,Tired,Card,Takeaway,480
+569,2025-10-12,15:01,C1144,Hot Chocolate,Beverage,220,3,Windy,24,56,Relaxed,UPI,Takeaway,660
+570,2025-07-12,17:34,C1060,Muffin,Dessert,130,2,Cloudy,27,67,Energetic,Card,Takeaway,260
+571,2025-12-30,07:17,C1155,Masala Tea,Tea,120,1,Rainy,21,88,Sad,UPI,Takeaway,120
+572,2025-03-31,08:23,C1013,Cold Coffee,Beverage,230,1,Windy,22,62,Energetic,Card,Dine-In,230
+573,2025-04-08,12:59,C1265,Brownie,Dessert,160,3,Windy,23,56,Tired,Cash,Dine-In,480
+574,2025-04-16,18:02,C1160,Brownie,Dessert,160,4,Cloudy,28,66,Happy,UPI,Dine-In,640
+575,2025-06-20,14:56,C1160,Cappuccino,Coffee,180,1,Cloudy,26,65,Energetic,Cash,Dine-In,180
+576,2025-06-14,10:12,C1140,Iced Coffee,Coffee,210,3,Cloudy,27,75,Happy,UPI,Dine-In,630
+577,2025-05-21,08:00,C1139,Veg Sandwich,Snack,180,1,Sunny,30,53,Stressed,UPI,Takeaway,180
+578,2025-10-21,10:10,C1026,Latte,Coffee,200,3,Cloudy,26,73,Sad,UPI,Dine-In,600
+579,2025-08-30,21:43,C1092,Cappuccino,Coffee,180,1,Rainy,20,89,Sad,Cash,Takeaway,180
+580,2025-11-12,12:19,C1239,Green Tea,Tea,140,2,Cloudy,28,66,Tired,Cash,Dine-In,280
+581,2025-02-17,20:51,C1239,Lemonade,Beverage,150,4,Sunny,30,55,Romantic,Card,Dine-In,600
+582,2025-04-25,09:55,C1170,Lemonade,Beverage,150,3,Hot,37,37,Romantic,Card,Takeaway,450
+583,2025-09-07,07:04,C1179,Brownie,Dessert,160,1,Rainy,23,85,Stressed,Cash,Dine-In,160
+584,2025-09-18,08:25,C1237,Muffin,Dessert,130,1,Rainy,20,87,Energetic,Card,Takeaway,130
+585,2025-05-03,16:15,C1107,Cheesecake,Dessert,240,2,Hot,37,36,Stressed,Cash,Takeaway,480
+586,2025-08-11,16:50,C1250,Green Tea,Tea,140,2,Sunny,28,54,Tired,UPI,Takeaway,280
+587,2025-06-16,15:06,C1056,Muffin,Dessert,130,4,Sunny,31,46,Energetic,Cash,Takeaway,520
+588,2025-06-17,14:41,C1001,Chicken Sandwich,Snack,240,1,Sunny,29,54,Tired,UPI,Dine-In,240
+589,2025-08-20,15:18,C1156,Masala Tea,Tea,120,4,Sunny,30,49,Energetic,Card,Takeaway,480
+590,2025-02-15,16:00,C1282,Veg Sandwich,Snack,180,4,Windy,24,55,Stressed,UPI,Dine-In,720
+591,2025-12-27,15:52,C1202,Green Tea,Tea,140,1,Hot,34,38,Sad,Cash,Takeaway,140
+592,2025-12-31,13:25,C1097,Masala Tea,Tea,120,4,Cloudy,25,72,Relaxed,Cash,Takeaway,480
+593,2025-07-04,20:26,C1037,Espresso,Coffee,150,3,Hot,35,37,Happy,Cash,Dine-In,450
+594,2025-03-15,18:56,C1213,Brownie,Dessert,160,4,Hot,35,36,Relaxed,Card,Takeaway,640
+595,2025-11-16,09:29,C1116,Cheesecake,Dessert,240,4,Cloudy,27,71,Stressed,UPI,Takeaway,960
+596,2025-11-06,07:36,C1296,Brownie,Dessert,160,2,Cloudy,26,71,Energetic,Card,Dine-In,320
+597,2025-01-20,16:30,C1270,Pasta,Meal,320,3,Sunny,31,46,Relaxed,Card,Takeaway,960
+598,2025-09-22,08:33,C1277,Lemonade,Beverage,150,1,Sunny,28,55,Romantic,Cash,Takeaway,150
+599,2025-11-10,07:57,C1170,Green Tea,Tea,140,1,Rainy,24,90,Energetic,Card,Takeaway,140
+600,2025-05-31,11:10,C1243,Cappuccino,Coffee,180,3,Cloudy,28,69,Happy,Cash,Dine-In,540
+601,2025-10-21,07:42,C1040,Iced Coffee,Coffee,210,1,Sunny,28,47,Energetic,Card,Takeaway,210
+602,2025-03-09,16:17,C1078,Iced Coffee,Coffee,210,3,Sunny,28,54,Relaxed,Cash,Takeaway,630
+603,2025-07-09,19:11,C1044,Iced Coffee,Coffee,210,2,Rainy,24,83,Stressed,UPI,Dine-In,420
+604,2025-09-11,19:26,C1108,Cold Coffee,Beverage,230,4,Sunny,31,55,Relaxed,Cash,Takeaway,920
+605,2025-01-28,17:16,C1155,Cold Coffee,Beverage,230,1,Sunny,31,51,Sad,Card,Dine-In,230
+606,2025-07-14,17:45,C1148,Masala Tea,Tea,120,4,Sunny,32,51,Happy,Card,Takeaway,480
+607,2025-12-14,12:33,C1222,Chicken Sandwich,Snack,240,1,Sunny,32,55,Stressed,Cash,Takeaway,240
+608,2025-06-21,11:17,C1124,Cold Coffee,Beverage,230,1,Sunny,32,51,Sad,Cash,Dine-In,230
+609,2025-09-24,12:43,C1035,Pasta,Meal,320,2,Rainy,20,93,Happy,UPI,Takeaway,640
+610,2025-02-20,15:06,C1018,Chicken Sandwich,Snack,240,4,Rainy,22,87,Relaxed,UPI,Dine-In,960
+611,2025-01-30,16:42,C1067,Lemonade,Beverage,150,2,Hot,34,36,Happy,Card,Dine-In,300
+612,2025-02-26,18:11,C1142,Iced Coffee,Coffee,210,3,Rainy,20,93,Sad,Card,Takeaway,630
+613,2025-05-12,09:49,C1031,Latte,Coffee,200,3,Windy,25,61,Stressed,Card,Takeaway,600
+614,2025-04-02,14:04,C1056,Brownie,Dessert,160,2,Cloudy,25,75,Sad,UPI,Takeaway,320
+615,2025-04-22,16:41,C1037,Latte,Coffee,200,4,Cloudy,24,65,Happy,Cash,Takeaway,800
+616,2025-08-17,07:57,C1200,Brownie,Dessert,160,2,Cloudy,24,65,Romantic,Card,Dine-In,320
+617,2025-12-25,12:57,C1207,Masala Tea,Tea,120,1,Cloudy,27,72,Sad,Cash,Dine-In,120
+618,2025-10-04,10:00,C1156,Masala Tea,Tea,120,4,Sunny,32,50,Stressed,Card,Dine-In,480
+619,2025-11-20,17:05,C1104,Green Tea,Tea,140,3,Sunny,31,49,Romantic,UPI,Dine-In,420
+620,2025-07-16,17:12,C1225,Iced Coffee,Coffee,210,4,Hot,36,42,Happy,Cash,Dine-In,840
+621,2025-03-13,07:12,C1158,Cappuccino,Coffee,180,2,Rainy,20,91,Romantic,Card,Takeaway,360
+622,2025-01-09,07:21,C1109,Cappuccino,Coffee,180,3,Windy,22,61,Happy,Cash,Takeaway,540
+623,2025-12-14,20:55,C1073,Cheesecake,Dessert,240,2,Cloudy,25,66,Happy,Card,Dine-In,480
+624,2025-08-30,21:58,C1026,Veg Sandwich,Snack,180,1,Sunny,29,45,Relaxed,Card,Dine-In,180
+625,2025-08-22,16:10,C1113,Muffin,Dessert,130,1,Windy,22,56,Sad,UPI,Dine-In,130
+626,2025-08-07,12:51,C1165,Muffin,Dessert,130,4,Rainy,24,91,Relaxed,UPI,Dine-In,520
+627,2025-10-31,09:21,C1190,Latte,Coffee,200,1,Sunny,31,47,Romantic,Cash,Dine-In,200
+628,2025-08-13,10:59,C1081,Veg Sandwich,Snack,180,1,Sunny,32,51,Tired,UPI,Takeaway,180
+629,2025-02-11,07:00,C1244,Espresso,Coffee,150,1,Cloudy,28,69,Sad,Cash,Dine-In,150
+630,2025-04-16,09:40,C1020,Iced Coffee,Coffee,210,4,Rainy,21,92,Romantic,Cash,Dine-In,840
+631,2025-09-13,16:05,C1099,Chicken Sandwich,Snack,240,3,Rainy,20,91,Relaxed,UPI,Dine-In,720
+632,2025-11-13,12:55,C1100,Cold Coffee,Beverage,230,2,Rainy,21,87,Happy,UPI,Dine-In,460
+633,2025-12-17,20:58,C1187,Brownie,Dessert,160,4,Sunny,28,45,Romantic,Card,Dine-In,640
+634,2025-08-11,11:21,C1081,Veg Sandwich,Snack,180,4,Sunny,28,53,Relaxed,UPI,Takeaway,720
+635,2025-09-21,08:04,C1215,Lemonade,Beverage,150,2,Cloudy,28,74,Stressed,UPI,Takeaway,300
+636,2025-04-28,19:07,C1113,Green Tea,Tea,140,2,Sunny,31,48,Sad,UPI,Takeaway,280
+637,2025-10-27,14:03,C1199,Lemonade,Beverage,150,4,Sunny,32,52,Relaxed,Card,Dine-In,600
+638,2025-08-23,18:12,C1017,Chicken Sandwich,Snack,240,3,Hot,35,40,Relaxed,Cash,Dine-In,720
+639,2025-05-24,09:07,C1152,Muffin,Dessert,130,4,Rainy,21,88,Relaxed,Cash,Dine-In,520
+640,2025-11-23,16:57,C1111,Espresso,Coffee,150,2,Sunny,32,52,Tired,Cash,Takeaway,300
+641,2025-08-25,11:00,C1223,Pasta,Meal,320,4,Cloudy,25,68,Stressed,Cash,Dine-In,1280
+642,2025-10-30,09:58,C1259,Veg Sandwich,Snack,180,1,Rainy,20,83,Sad,UPI,Takeaway,180
+643,2025-09-29,13:30,C1007,Cold Coffee,Beverage,230,1,Rainy,21,84,Energetic,Cash,Takeaway,230
+644,2025-04-22,09:22,C1157,Iced Coffee,Coffee,210,2,Cloudy,24,65,Sad,UPI,Takeaway,420
+645,2025-10-20,18:37,C1190,Cappuccino,Coffee,180,4,Rainy,21,89,Relaxed,Cash,Takeaway,720
+646,2025-12-27,17:00,C1152,Muffin,Dessert,130,1,Rainy,22,91,Happy,Card,Takeaway,130
+647,2025-12-24,16:34,C1029,Veg Sandwich,Snack,180,2,Windy,22,64,Stressed,Cash,Takeaway,360
+648,2025-01-27,08:24,C1287,Green Tea,Tea,140,4,Cloudy,26,70,Relaxed,Cash,Dine-In,560
+649,2025-10-15,18:49,C1245,Hot Chocolate,Beverage,220,2,Hot,35,43,Happy,Cash,Dine-In,440
+650,2025-04-26,12:22,C1033,Lemonade,Beverage,150,3,Cloudy,27,69,Happy,Card,Takeaway,450
+651,2025-08-20,14:32,C1273,Cheesecake,Dessert,240,1,Rainy,24,93,Tired,Card,Takeaway,240
+652,2025-11-14,12:51,C1201,Chicken Sandwich,Snack,240,1,Sunny,31,46,Happy,UPI,Takeaway,240
+653,2025-02-09,08:10,C1105,Iced Coffee,Coffee,210,1,Cloudy,27,67,Tired,Cash,Dine-In,210
+654,2025-05-31,13:43,C1011,Cheesecake,Dessert,240,2,Rainy,23,90,Romantic,Card,Dine-In,480
+655,2025-02-02,07:55,C1211,Cold Coffee,Beverage,230,2,Windy,26,65,Stressed,Cash,Takeaway,460
+656,2025-12-02,17:50,C1235,Green Tea,Tea,140,4,Cloudy,28,73,Sad,Card,Dine-In,560
+657,2025-06-06,09:50,C1181,Iced Coffee,Coffee,210,2,Rainy,22,83,Relaxed,Card,Takeaway,420
+658,2025-03-27,16:59,C1079,Espresso,Coffee,150,3,Sunny,29,55,Tired,UPI,Dine-In,450
+659,2025-03-01,07:20,C1288,Veg Sandwich,Snack,180,2,Rainy,22,85,Relaxed,Cash,Dine-In,360
+660,2025-12-07,12:22,C1063,Espresso,Coffee,150,3,Rainy,21,91,Stressed,UPI,Takeaway,450
+661,2025-09-13,19:09,C1152,Brownie,Dessert,160,3,Sunny,32,53,Stressed,Card,Takeaway,480
+662,2025-10-21,17:09,C1072,Cold Coffee,Beverage,230,4,Rainy,20,90,Happy,Cash,Dine-In,920
+663,2025-06-07,07:25,C1100,Veg Sandwich,Snack,180,2,Rainy,20,88,Happy,Cash,Dine-In,360
+664,2025-05-23,10:01,C1100,Latte,Coffee,200,4,Cloudy,24,73,Sad,Card,Takeaway,800
+665,2025-11-05,16:32,C1191,Cappuccino,Coffee,180,3,Rainy,23,88,Sad,UPI,Takeaway,540
+666,2025-06-26,12:19,C1227,Brownie,Dessert,160,1,Sunny,31,51,Tired,Card,Dine-In,160
+667,2025-08-06,18:57,C1107,Masala Tea,Tea,120,2,Windy,26,56,Relaxed,Card,Takeaway,240
+668,2025-09-26,12:04,C1213,Lemonade,Beverage,150,4,Sunny,31,55,Stressed,UPI,Takeaway,600
+669,2025-12-30,16:48,C1252,Lemonade,Beverage,150,2,Sunny,31,49,Energetic,UPI,Takeaway,300
+670,2025-10-27,11:31,C1154,Cheesecake,Dessert,240,4,Sunny,28,47,Stressed,Cash,Takeaway,960
+671,2025-03-05,17:42,C1015,Lemonade,Beverage,150,3,Rainy,23,93,Relaxed,UPI,Takeaway,450
+672,2025-09-10,08:38,C1133,Pasta,Meal,320,3,Cloudy,28,71,Tired,Cash,Takeaway,960
+673,2025-12-22,20:07,C1075,Green Tea,Tea,140,1,Windy,23,64,Happy,Card,Takeaway,140
+674,2025-12-21,09:22,C1025,Espresso,Coffee,150,1,Sunny,31,55,Stressed,Card,Takeaway,150
+675,2025-09-29,17:59,C1086,Latte,Coffee,200,2,Windy,23,56,Energetic,Cash,Takeaway,400
+676,2025-06-11,20:54,C1297,Chicken Sandwich,Snack,240,3,Sunny,30,46,Energetic,Card,Dine-In,720
+677,2025-01-07,09:33,C1053,Iced Coffee,Coffee,210,3,Windy,25,60,Relaxed,UPI,Dine-In,630
+678,2025-09-15,10:53,C1068,Hot Chocolate,Beverage,220,1,Rainy,20,84,Tired,UPI,Takeaway,220
+679,2025-06-28,11:44,C1176,Green Tea,Tea,140,2,Windy,26,63,Tired,UPI,Takeaway,280
+680,2025-01-15,18:52,C1065,Latte,Coffee,200,2,Sunny,29,48,Stressed,UPI,Dine-In,400
+681,2025-02-10,13:44,C1101,Cold Coffee,Beverage,230,1,Sunny,31,51,Happy,UPI,Dine-In,230
+682,2025-12-04,15:37,C1155,Cappuccino,Coffee,180,4,Sunny,30,45,Happy,Cash,Dine-In,720
+683,2025-02-19,19:07,C1180,Lemonade,Beverage,150,2,Cloudy,25,67,Romantic,UPI,Dine-In,300
+684,2025-03-16,20:47,C1259,Iced Coffee,Coffee,210,3,Rainy,24,92,Relaxed,Cash,Dine-In,630
+685,2025-02-20,20:37,C1276,Cold Coffee,Beverage,230,1,Cloudy,25,69,Relaxed,UPI,Dine-In,230
+686,2025-04-20,21:32,C1055,Muffin,Dessert,130,4,Rainy,24,85,Sad,UPI,Takeaway,520
+687,2025-07-14,13:13,C1057,Cheesecake,Dessert,240,2,Rainy,22,84,Sad,Cash,Dine-In,480
+688,2025-09-11,19:23,C1253,Pasta,Meal,320,3,Cloudy,24,66,Stressed,UPI,Takeaway,960
+689,2025-05-26,14:38,C1209,Pasta,Meal,320,3,Cloudy,27,68,Energetic,Card,Takeaway,960
+690,2025-04-07,20:04,C1252,Lemonade,Beverage,150,4,Hot,36,37,Happy,Cash,Dine-In,600
+691,2025-07-22,14:33,C1053,Chicken Sandwich,Snack,240,1,Sunny,31,51,Romantic,Cash,Dine-In,240
+692,2025-02-03,12:12,C1218,Green Tea,Tea,140,2,Cloudy,27,66,Relaxed,Cash,Takeaway,280
+693,2025-05-23,19:45,C1208,Cold Coffee,Beverage,230,3,Windy,25,60,Sad,Card,Takeaway,690
+694,2025-03-17,19:29,C1069,Latte,Coffee,200,1,Sunny,31,48,Romantic,UPI,Dine-In,200
+695,2025-01-28,20:04,C1168,Brownie,Dessert,160,1,Hot,37,44,Romantic,UPI,Takeaway,160
+696,2025-11-15,16:06,C1239,Cold Coffee,Beverage,230,1,Cloudy,28,72,Tired,UPI,Takeaway,230
+697,2025-12-05,14:31,C1017,Cheesecake,Dessert,240,3,Cloudy,28,73,Happy,Card,Dine-In,720
+698,2025-07-16,14:20,C1286,Muffin,Dessert,130,4,Rainy,20,83,Relaxed,Cash,Takeaway,520
+699,2025-12-28,09:31,C1057,Masala Tea,Tea,120,2,Rainy,23,90,Tired,Cash,Takeaway,240
+700,2025-12-04,15:43,C1201,Cheesecake,Dessert,240,4,Rainy,21,91,Happy,Card,Takeaway,960
+701,2025-10-30,13:39,C1015,Chicken Sandwich,Snack,240,3,Windy,24,60,Happy,Cash,Dine-In,720
+702,2025-03-07,20:23,C1220,Green Tea,Tea,140,1,Windy,24,61,Happy,Card,Takeaway,140
+703,2025-07-30,12:03,C1034,Chicken Sandwich,Snack,240,2,Sunny,30,54,Happy,Card,Dine-In,480
+704,2025-06-22,09:01,C1216,Cheesecake,Dessert,240,3,Sunny,31,54,Energetic,Card,Dine-In,720
+705,2025-12-23,14:37,C1051,Cappuccino,Coffee,180,3,Rainy,23,88,Energetic,Card,Dine-In,540
+706,2025-12-20,17:13,C1154,Green Tea,Tea,140,4,Cloudy,26,67,Energetic,Card,Takeaway,560
+707,2025-04-14,14:40,C1136,Muffin,Dessert,130,1,Windy,26,58,Stressed,UPI,Takeaway,130
+708,2025-10-21,13:51,C1173,Hot Chocolate,Beverage,220,1,Cloudy,28,66,Energetic,Card,Dine-In,220
+709,2025-10-18,19:33,C1155,Brownie,Dessert,160,4,Sunny,28,55,Tired,Cash,Takeaway,640
+710,2025-08-10,17:34,C1233,Green Tea,Tea,140,2,Rainy,22,92,Energetic,Cash,Dine-In,280
+711,2025-01-10,17:45,C1240,Cheesecake,Dessert,240,2,Cloudy,25,75,Tired,Card,Takeaway,480
+712,2025-10-17,18:40,C1154,Cappuccino,Coffee,180,2,Rainy,21,86,Relaxed,Card,Takeaway,360
+713,2025-06-13,20:53,C1147,Lemonade,Beverage,150,1,Cloudy,27,69,Tired,Cash,Dine-In,150
+714,2025-05-12,17:38,C1126,Hot Chocolate,Beverage,220,4,Sunny,29,48,Happy,Card,Takeaway,880
+715,2025-09-06,15:27,C1133,Masala Tea,Tea,120,1,Sunny,30,47,Happy,Card,Dine-In,120
+716,2025-11-26,20:02,C1153,Pasta,Meal,320,4,Windy,22,56,Stressed,UPI,Takeaway,1280
+717,2025-07-06,17:42,C1293,Lemonade,Beverage,150,1,Rainy,21,86,Happy,Cash,Dine-In,150
+718,2025-09-25,17:53,C1063,Veg Sandwich,Snack,180,3,Rainy,20,86,Energetic,Card,Takeaway,540
+719,2025-10-27,18:24,C1090,Cold Coffee,Beverage,230,2,Hot,35,37,Happy,UPI,Takeaway,460
+720,2025-08-14,13:16,C1280,Muffin,Dessert,130,1,Rainy,22,84,Stressed,Card,Takeaway,130
+721,2025-12-16,10:17,C1018,Lemonade,Beverage,150,2,Rainy,22,87,Happy,Cash,Dine-In,300
+722,2025-12-20,21:50,C1186,Chicken Sandwich,Snack,240,2,Sunny,31,49,Romantic,Cash,Dine-In,480
+723,2025-10-01,20:15,C1047,Muffin,Dessert,130,4,Rainy,23,87,Stressed,UPI,Takeaway,520
+724,2025-04-18,20:56,C1042,Espresso,Coffee,150,4,Cloudy,27,65,Stressed,Card,Takeaway,600
+725,2025-07-31,21:53,C1134,Green Tea,Tea,140,4,Hot,34,37,Romantic,Cash,Dine-In,560
+726,2025-06-30,13:38,C1095,Pasta,Meal,320,3,Rainy,20,83,Romantic,Cash,Takeaway,960
+727,2025-11-25,09:00,C1057,Masala Tea,Tea,120,2,Cloudy,26,74,Happy,UPI,Dine-In,240
+728,2025-09-22,18:49,C1245,Muffin,Dessert,130,2,Windy,25,60,Sad,Cash,Dine-In,260
+729,2025-05-14,09:43,C1189,Veg Sandwich,Snack,180,3,Windy,23,56,Sad,UPI,Takeaway,540
+730,2025-07-13,20:56,C1118,Veg Sandwich,Snack,180,2,Sunny,28,53,Romantic,UPI,Takeaway,360
+731,2025-04-12,11:44,C1134,Muffin,Dessert,130,2,Sunny,32,51,Energetic,UPI,Dine-In,260
+732,2025-07-08,09:36,C1254,Latte,Coffee,200,1,Cloudy,27,72,Tired,UPI,Dine-In,200
+733,2025-04-15,10:55,C1221,Muffin,Dessert,130,3,Sunny,31,51,Relaxed,UPI,Dine-In,390
+734,2025-05-25,18:43,C1135,Hot Chocolate,Beverage,220,4,Sunny,29,45,Stressed,UPI,Takeaway,880
+735,2025-05-08,12:37,C1166,Chicken Sandwich,Snack,240,4,Sunny,31,47,Tired,Cash,Takeaway,960
+736,2025-12-18,10:45,C1286,Masala Tea,Tea,120,4,Cloudy,26,66,Happy,UPI,Dine-In,480
+737,2025-06-20,21:15,C1130,Brownie,Dessert,160,3,Hot,38,35,Happy,Cash,Takeaway,480
+738,2025-06-04,13:42,C1092,Green Tea,Tea,140,2,Hot,38,35,Energetic,Card,Dine-In,280
+739,2025-09-15,14:59,C1073,Green Tea,Tea,140,4,Sunny,30,53,Sad,Card,Dine-In,560
+740,2025-06-10,07:08,C1136,Brownie,Dessert,160,3,Cloudy,27,69,Stressed,Cash,Takeaway,480
+741,2025-08-12,21:10,C1226,Green Tea,Tea,140,4,Windy,23,63,Tired,UPI,Dine-In,560
+742,2025-03-18,07:14,C1060,Espresso,Coffee,150,1,Rainy,21,90,Sad,Card,Dine-In,150
+743,2025-08-15,12:45,C1179,Cheesecake,Dessert,240,4,Rainy,20,85,Happy,UPI,Dine-In,960
+744,2025-05-26,09:53,C1003,Espresso,Coffee,150,3,Cloudy,28,68,Energetic,Cash,Dine-In,450
+745,2025-08-02,21:04,C1063,Hot Chocolate,Beverage,220,4,Cloudy,26,65,Stressed,Card,Takeaway,880
+746,2025-10-30,21:06,C1246,Muffin,Dessert,130,3,Sunny,28,52,Tired,Card,Takeaway,390
+747,2025-11-01,17:00,C1292,Green Tea,Tea,140,1,Cloudy,27,70,Romantic,UPI,Dine-In,140
+748,2025-01-25,19:41,C1196,Iced Coffee,Coffee,210,3,Windy,22,63,Energetic,UPI,Takeaway,630
+749,2025-05-11,09:15,C1207,Cold Coffee,Beverage,230,4,Sunny,29,47,Sad,Card,Dine-In,920
+750,2025-03-03,11:31,C1068,Cold Coffee,Beverage,230,4,Cloudy,26,75,Energetic,Card,Dine-In,920
+751,2025-07-08,15:12,C1217,Brownie,Dessert,160,4,Hot,37,39,Energetic,UPI,Takeaway,640
+752,2025-07-08,16:11,C1115,Masala Tea,Tea,120,4,Sunny,32,50,Sad,Cash,Dine-In,480
+753,2025-09-11,15:40,C1245,Chicken Sandwich,Snack,240,1,Sunny,31,46,Tired,Card,Dine-In,240
+754,2025-03-07,17:57,C1283,Iced Coffee,Coffee,210,2,Cloudy,26,74,Happy,UPI,Dine-In,420
+755,2025-09-20,08:32,C1131,Masala Tea,Tea,120,4,Sunny,32,49,Stressed,Cash,Dine-In,480
+756,2025-09-15,07:07,C1043,Pasta,Meal,320,4,Sunny,29,51,Happy,Card,Takeaway,1280
+757,2025-06-10,16:46,C1096,Brownie,Dessert,160,4,Cloudy,26,70,Tired,UPI,Dine-In,640
+758,2025-02-10,18:38,C1060,Iced Coffee,Coffee,210,1,Rainy,20,83,Sad,UPI,Dine-In,210
+759,2025-12-02,14:29,C1185,Pasta,Meal,320,4,Hot,38,42,Stressed,Cash,Takeaway,1280
+760,2025-06-04,08:08,C1014,Espresso,Coffee,150,1,Sunny,28,48,Tired,UPI,Takeaway,150
+761,2025-11-29,09:41,C1155,Hot Chocolate,Beverage,220,4,Windy,26,58,Happy,Card,Dine-In,880
+762,2025-08-31,13:01,C1011,Latte,Coffee,200,2,Hot,37,42,Sad,Card,Dine-In,400
+763,2025-04-14,11:36,C1222,Muffin,Dessert,130,4,Sunny,28,46,Romantic,Card,Takeaway,520
+764,2025-10-24,16:46,C1250,Cheesecake,Dessert,240,3,Sunny,31,52,Energetic,UPI,Dine-In,720
+765,2025-09-28,07:27,C1243,Veg Sandwich,Snack,180,3,Cloudy,26,75,Sad,UPI,Takeaway,540
+766,2025-11-15,17:22,C1177,Brownie,Dessert,160,4,Sunny,30,48,Sad,Card,Dine-In,640
+767,2025-09-17,10:37,C1200,Lemonade,Beverage,150,3,Hot,37,37,Stressed,Card,Takeaway,450
+768,2025-08-30,19:54,C1067,Espresso,Coffee,150,2,Sunny,28,55,Sad,UPI,Dine-In,300
+769,2025-03-22,16:31,C1108,Latte,Coffee,200,4,Hot,37,39,Relaxed,Cash,Dine-In,800
+770,2025-01-10,12:56,C1033,Iced Coffee,Coffee,210,3,Cloudy,25,73,Happy,Card,Takeaway,630
+771,2025-02-28,16:14,C1024,Latte,Coffee,200,2,Rainy,22,88,Tired,Cash,Takeaway,400
+772,2025-03-19,20:44,C1057,Muffin,Dessert,130,1,Cloudy,27,72,Tired,UPI,Dine-In,130
+773,2025-10-15,07:32,C1150,Latte,Coffee,200,2,Cloudy,25,70,Relaxed,Cash,Takeaway,400
+774,2025-09-17,14:46,C1071,Muffin,Dessert,130,1,Sunny,30,50,Tired,UPI,Dine-In,130
+775,2025-08-13,13:49,C1259,Cold Coffee,Beverage,230,1,Sunny,31,50,Stressed,UPI,Dine-In,230
+776,2025-05-17,12:45,C1272,Cold Coffee,Beverage,230,4,Rainy,21,85,Tired,Card,Dine-In,920
+777,2025-03-12,19:27,C1016,Masala Tea,Tea,120,4,Hot,38,45,Stressed,Card,Dine-In,480
+778,2025-01-06,18:51,C1085,Cheesecake,Dessert,240,1,Sunny,30,51,Tired,Card,Dine-In,240
+779,2025-07-21,19:02,C1267,Chicken Sandwich,Snack,240,2,Hot,34,45,Romantic,Card,Takeaway,480
+780,2025-07-25,21:43,C1144,Pasta,Meal,320,3,Cloudy,26,70,Happy,Cash,Dine-In,960
+781,2025-12-25,13:28,C1227,Chicken Sandwich,Snack,240,2,Hot,38,44,Romantic,Cash,Takeaway,480
+782,2025-11-29,13:49,C1065,Hot Chocolate,Beverage,220,3,Sunny,32,50,Sad,Cash,Takeaway,660
+783,2025-04-20,08:32,C1277,Cheesecake,Dessert,240,3,Cloudy,25,65,Happy,Cash,Takeaway,720
+784,2025-05-04,20:49,C1191,Iced Coffee,Coffee,210,4,Hot,34,35,Tired,Card,Takeaway,840
+785,2025-03-05,07:48,C1174,Chicken Sandwich,Snack,240,1,Rainy,24,83,Sad,UPI,Dine-In,240
+786,2025-06-29,11:18,C1168,Chicken Sandwich,Snack,240,2,Cloudy,28,68,Happy,Cash,Dine-In,480
+787,2025-07-04,14:06,C1218,Espresso,Coffee,150,4,Windy,22,56,Happy,UPI,Takeaway,600
+788,2025-04-20,14:04,C1136,Green Tea,Tea,140,4,Cloudy,28,71,Tired,Cash,Takeaway,560
+789,2025-11-22,13:28,C1259,Pasta,Meal,320,4,Cloudy,27,67,Relaxed,UPI,Takeaway,1280
+790,2025-12-31,14:08,C1081,Pasta,Meal,320,1,Cloudy,27,72,Happy,Cash,Takeaway,320
+791,2025-03-02,16:54,C1268,Masala Tea,Tea,120,1,Sunny,32,49,Happy,UPI,Dine-In,120
+792,2025-07-10,11:23,C1216,Iced Coffee,Coffee,210,3,Rainy,21,85,Tired,UPI,Takeaway,630
+793,2025-05-26,10:11,C1023,Muffin,Dessert,130,4,Sunny,32,50,Happy,Card,Takeaway,520
+794,2025-10-21,11:36,C1071,Brownie,Dessert,160,3,Windy,25,64,Relaxed,Cash,Takeaway,480
+795,2025-08-19,17:28,C1210,Espresso,Coffee,150,3,Sunny,32,55,Energetic,Card,Dine-In,450
+796,2025-07-22,12:34,C1013,Cappuccino,Coffee,180,4,Cloudy,24,67,Romantic,Cash,Takeaway,720
+797,2025-10-15,17:07,C1028,Chicken Sandwich,Snack,240,1,Sunny,32,53,Energetic,Cash,Dine-In,240
+798,2025-09-01,15:57,C1141,Cappuccino,Coffee,180,1,Cloudy,28,67,Happy,UPI,Dine-In,180
+799,2025-12-28,20:56,C1206,Veg Sandwich,Snack,180,4,Sunny,32,54,Stressed,Cash,Dine-In,720
+800,2025-09-09,20:59,C1271,Cappuccino,Coffee,180,3,Rainy,23,83,Tired,Card,Takeaway,540
+801,2025-05-12,08:07,C1046,Latte,Coffee,200,2,Sunny,29,49,Tired,UPI,Takeaway,400
+802,2025-07-28,17:10,C1051,Cappuccino,Coffee,180,3,Sunny,28,49,Sad,Card,Dine-In,540
+803,2025-07-31,21:20,C1123,Iced Coffee,Coffee,210,4,Hot,34,35,Relaxed,Cash,Dine-In,840
+804,2025-09-10,15:48,C1238,Cheesecake,Dessert,240,4,Hot,36,35,Stressed,Cash,Takeaway,960
+805,2025-02-03,14:01,C1052,Masala Tea,Tea,120,2,Hot,34,39,Energetic,UPI,Dine-In,240
+806,2025-06-05,16:26,C1073,Brownie,Dessert,160,1,Windy,26,58,Tired,Card,Dine-In,160
+807,2025-05-06,15:27,C1086,Lemonade,Beverage,150,4,Sunny,31,54,Stressed,UPI,Dine-In,600
+808,2025-09-04,11:38,C1262,Iced Coffee,Coffee,210,4,Hot,35,44,Tired,Card,Dine-In,840
+809,2025-03-24,18:34,C1072,Veg Sandwich,Snack,180,1,Rainy,23,84,Tired,Cash,Takeaway,180
+810,2025-08-10,10:39,C1232,Cheesecake,Dessert,240,3,Hot,36,45,Stressed,Card,Dine-In,720
+811,2025-12-06,12:21,C1069,Hot Chocolate,Beverage,220,4,Hot,36,35,Romantic,Cash,Dine-In,880
+812,2025-11-08,14:00,C1251,Lemonade,Beverage,150,1,Cloudy,27,73,Romantic,Card,Dine-In,150
+813,2025-11-29,17:04,C1181,Cheesecake,Dessert,240,1,Hot,37,45,Happy,Card,Takeaway,240
+814,2025-07-18,09:53,C1005,Cold Coffee,Beverage,230,1,Sunny,30,48,Sad,UPI,Dine-In,230
+815,2025-05-24,17:58,C1114,Pasta,Meal,320,3,Sunny,32,55,Stressed,UPI,Takeaway,960
+816,2025-07-05,07:17,C1143,Brownie,Dessert,160,2,Sunny,31,46,Tired,Cash,Takeaway,320
+817,2025-03-29,15:12,C1133,Chicken Sandwich,Snack,240,2,Sunny,29,46,Relaxed,Cash,Dine-In,480
+818,2025-09-25,18:50,C1130,Iced Coffee,Coffee,210,2,Windy,22,65,Energetic,Cash,Takeaway,420
+819,2025-01-02,13:41,C1209,Chicken Sandwich,Snack,240,1,Hot,36,41,Tired,Card,Dine-In,240
+820,2025-12-15,15:29,C1143,Brownie,Dessert,160,3,Cloudy,24,68,Happy,Card,Takeaway,480
+821,2025-06-11,07:25,C1116,Hot Chocolate,Beverage,220,3,Sunny,32,45,Romantic,Cash,Takeaway,660
+822,2025-02-08,21:15,C1050,Hot Chocolate,Beverage,220,2,Rainy,20,93,Romantic,UPI,Takeaway,440
+823,2025-08-10,19:01,C1123,Veg Sandwich,Snack,180,3,Windy,23,56,Sad,Card,Dine-In,540
+824,2025-06-20,15:50,C1049,Hot Chocolate,Beverage,220,1,Windy,26,62,Tired,Cash,Takeaway,220
+825,2025-10-24,08:05,C1227,Cappuccino,Coffee,180,1,Rainy,20,85,Happy,UPI,Takeaway,180
+826,2025-11-09,17:27,C1196,Latte,Coffee,200,1,Cloudy,28,65,Stressed,Card,Dine-In,200
+827,2025-11-13,19:26,C1052,Hot Chocolate,Beverage,220,1,Rainy,23,89,Energetic,Card,Dine-In,220
+828,2025-08-21,15:21,C1035,Veg Sandwich,Snack,180,2,Sunny,28,54,Romantic,Cash,Dine-In,360
+829,2025-10-21,09:40,C1096,Cheesecake,Dessert,240,3,Rainy,23,92,Sad,UPI,Dine-In,720
+830,2025-01-23,07:08,C1278,Iced Coffee,Coffee,210,4,Cloudy,26,69,Energetic,UPI,Dine-In,840
+831,2025-08-29,11:38,C1075,Green Tea,Tea,140,3,Rainy,20,91,Energetic,UPI,Dine-In,420
+832,2025-09-17,20:53,C1104,Cheesecake,Dessert,240,1,Rainy,21,86,Romantic,UPI,Takeaway,240
+833,2025-04-07,17:30,C1172,Pasta,Meal,320,4,Cloudy,26,74,Energetic,Cash,Takeaway,1280
+834,2025-08-03,12:10,C1002,Latte,Coffee,200,4,Hot,34,42,Relaxed,Cash,Dine-In,800
+835,2025-12-21,10:29,C1205,Veg Sandwich,Snack,180,2,Sunny,30,51,Relaxed,UPI,Dine-In,360
+836,2025-07-05,07:04,C1100,Green Tea,Tea,140,1,Cloudy,25,69,Sad,Cash,Takeaway,140
+837,2025-01-23,07:12,C1284,Hot Chocolate,Beverage,220,3,Sunny,30,47,Stressed,UPI,Dine-In,660
+838,2025-04-11,07:11,C1195,Muffin,Dessert,130,3,Hot,34,45,Relaxed,Cash,Dine-In,390
+839,2025-06-23,21:13,C1270,Iced Coffee,Coffee,210,4,Sunny,30,55,Relaxed,Cash,Takeaway,840
+840,2025-12-31,08:07,C1192,Espresso,Coffee,150,2,Windy,23,63,Sad,Card,Takeaway,300
+841,2025-11-22,10:58,C1127,Cappuccino,Coffee,180,2,Hot,36,37,Stressed,UPI,Takeaway,360
+842,2025-03-06,20:32,C1034,Veg Sandwich,Snack,180,4,Sunny,28,52,Tired,UPI,Takeaway,720
+843,2025-11-27,19:32,C1192,Green Tea,Tea,140,4,Cloudy,25,70,Romantic,Cash,Takeaway,560
+844,2025-09-11,14:17,C1107,Veg Sandwich,Snack,180,4,Cloudy,28,75,Happy,UPI,Dine-In,720
+845,2025-08-20,20:15,C1192,Masala Tea,Tea,120,2,Rainy,23,92,Relaxed,Card,Dine-In,240
+846,2025-03-10,19:05,C1239,Iced Coffee,Coffee,210,4,Cloudy,25,74,Happy,Cash,Takeaway,840
+847,2025-08-07,14:29,C1196,Masala Tea,Tea,120,4,Rainy,23,88,Stressed,UPI,Dine-In,480
+848,2025-08-15,10:16,C1257,Chicken Sandwich,Snack,240,1,Rainy,20,87,Tired,Cash,Dine-In,240
+849,2025-05-22,21:14,C1171,Latte,Coffee,200,1,Sunny,28,53,Relaxed,UPI,Takeaway,200
+850,2025-05-09,11:47,C1279,Muffin,Dessert,130,3,Sunny,32,47,Tired,Card,Dine-In,390
+851,2025-06-03,11:52,C1242,Green Tea,Tea,140,4,Hot,38,45,Happy,Cash,Dine-In,560
+852,2025-07-23,10:14,C1283,Pasta,Meal,320,2,Rainy,24,92,Tired,Card,Takeaway,640
+853,2025-06-24,19:05,C1231,Green Tea,Tea,140,2,Rainy,23,86,Sad,Cash,Dine-In,280
+854,2025-07-11,09:36,C1182,Muffin,Dessert,130,2,Rainy,20,90,Tired,Card,Dine-In,260
+855,2025-08-03,13:43,C1012,Cold Coffee,Beverage,230,4,Windy,26,59,Stressed,Cash,Dine-In,920
+856,2025-03-13,09:21,C1274,Veg Sandwich,Snack,180,4,Hot,35,41,Happy,Card,Dine-In,720
+857,2025-09-01,08:21,C1054,Veg Sandwich,Snack,180,4,Cloudy,26,66,Relaxed,Cash,Dine-In,720
+858,2025-01-17,20:44,C1146,Veg Sandwich,Snack,180,4,Sunny,29,46,Sad,UPI,Dine-In,720
+859,2025-05-30,17:33,C1168,Latte,Coffee,200,4,Sunny,32,45,Relaxed,Card,Takeaway,800
+860,2025-03-22,08:08,C1106,Cheesecake,Dessert,240,4,Rainy,20,89,Tired,UPI,Dine-In,960
+861,2025-06-08,13:52,C1104,Pasta,Meal,320,4,Sunny,32,49,Energetic,Cash,Takeaway,1280
+862,2025-05-22,10:00,C1127,Espresso,Coffee,150,4,Sunny,31,54,Tired,Cash,Takeaway,600
+863,2025-10-19,21:31,C1234,Brownie,Dessert,160,4,Cloudy,24,69,Romantic,Card,Takeaway,640
+864,2025-07-20,16:52,C1222,Cold Coffee,Beverage,230,2,Rainy,21,92,Romantic,Card,Takeaway,460
+865,2025-12-04,09:44,C1081,Veg Sandwich,Snack,180,1,Rainy,20,86,Tired,Card,Takeaway,180
+866,2025-12-08,21:04,C1189,Pasta,Meal,320,2,Hot,37,43,Happy,UPI,Dine-In,640
+867,2025-09-16,19:49,C1023,Green Tea,Tea,140,4,Rainy,22,86,Energetic,Card,Dine-In,560
+868,2025-02-07,17:44,C1020,Chicken Sandwich,Snack,240,4,Rainy,23,86,Sad,UPI,Takeaway,960
+869,2025-02-28,18:58,C1035,Espresso,Coffee,150,3,Cloudy,27,72,Sad,UPI,Dine-In,450
+870,2025-08-13,09:30,C1052,Muffin,Dessert,130,3,Windy,23,55,Energetic,UPI,Takeaway,390
+871,2025-03-05,15:47,C1079,Masala Tea,Tea,120,2,Sunny,28,55,Stressed,Card,Takeaway,240
+872,2025-04-02,10:45,C1268,Cappuccino,Coffee,180,2,Rainy,20,93,Tired,Cash,Dine-In,360
+873,2025-07-19,18:19,C1104,Brownie,Dessert,160,1,Cloudy,24,71,Tired,UPI,Takeaway,160
+874,2025-05-03,10:05,C1099,Cappuccino,Coffee,180,4,Sunny,28,50,Tired,Cash,Dine-In,720
+875,2025-04-23,21:06,C1056,Cold Coffee,Beverage,230,2,Cloudy,24,71,Energetic,Card,Takeaway,460
+876,2025-10-15,17:12,C1119,Veg Sandwich,Snack,180,2,Hot,37,41,Happy,UPI,Dine-In,360
+877,2025-07-02,12:11,C1235,Cappuccino,Coffee,180,4,Cloudy,24,71,Relaxed,UPI,Dine-In,720
+878,2025-12-03,20:17,C1256,Chicken Sandwich,Snack,240,3,Sunny,29,51,Stressed,UPI,Dine-In,720
+879,2025-05-09,08:38,C1163,Green Tea,Tea,140,4,Cloudy,25,70,Relaxed,Cash,Takeaway,560
+880,2025-02-04,12:01,C1007,Veg Sandwich,Snack,180,4,Rainy,21,91,Energetic,UPI,Dine-In,720
+881,2025-11-12,19:57,C1041,Latte,Coffee,200,3,Sunny,31,48,Energetic,UPI,Dine-In,600
+882,2025-07-11,14:18,C1228,Hot Chocolate,Beverage,220,2,Rainy,20,86,Romantic,Cash,Takeaway,440
+883,2025-03-10,11:20,C1148,Chicken Sandwich,Snack,240,1,Cloudy,27,75,Tired,UPI,Dine-In,240
+884,2025-06-19,12:15,C1114,Hot Chocolate,Beverage,220,1,Hot,35,45,Romantic,Cash,Takeaway,220
+885,2025-09-24,12:11,C1027,Brownie,Dessert,160,1,Sunny,31,46,Relaxed,Cash,Dine-In,160
+886,2025-04-15,09:05,C1240,Espresso,Coffee,150,2,Sunny,28,51,Romantic,Card,Dine-In,300
+887,2025-04-12,10:27,C1104,Espresso,Coffee,150,2,Rainy,24,90,Romantic,Card,Takeaway,300
+888,2025-02-10,12:25,C1222,Masala Tea,Tea,120,2,Rainy,23,91,Energetic,UPI,Takeaway,240
+889,2025-01-11,19:24,C1079,Masala Tea,Tea,120,1,Windy,24,64,Energetic,Cash,Dine-In,120
+890,2025-05-12,13:29,C1037,Iced Coffee,Coffee,210,4,Sunny,32,54,Sad,Card,Dine-In,840
+891,2025-08-29,10:09,C1208,Lemonade,Beverage,150,2,Sunny,32,50,Sad,Card,Takeaway,300
+892,2025-07-11,13:31,C1290,Iced Coffee,Coffee,210,1,Rainy,20,84,Sad,UPI,Dine-In,210
+893,2025-08-12,11:49,C1189,Lemonade,Beverage,150,3,Cloudy,27,75,Romantic,Cash,Dine-In,450
+894,2025-11-30,13:59,C1015,Masala Tea,Tea,120,2,Sunny,28,50,Romantic,Cash,Dine-In,240
+895,2025-05-14,16:29,C1083,Chicken Sandwich,Snack,240,2,Sunny,32,54,Romantic,UPI,Dine-In,480
+896,2025-02-17,17:45,C1097,Lemonade,Beverage,150,4,Rainy,24,84,Energetic,Card,Dine-In,600
+897,2025-08-07,11:44,C1294,Iced Coffee,Coffee,210,4,Cloudy,27,66,Happy,Card,Dine-In,840
+898,2025-05-18,18:13,C1252,Lemonade,Beverage,150,4,Cloudy,24,67,Tired,UPI,Dine-In,600
+899,2025-02-05,19:44,C1192,Masala Tea,Tea,120,4,Cloudy,27,67,Relaxed,UPI,Dine-In,480
+900,2025-04-12,14:11,C1031,Cheesecake,Dessert,240,1,Rainy,21,85,Relaxed,Cash,Dine-In,240
+901,2025-04-09,11:57,C1086,Muffin,Dessert,130,4,Rainy,24,84,Tired,UPI,Takeaway,520
+902,2025-02-13,13:07,C1249,Iced Coffee,Coffee,210,1,Rainy,24,86,Sad,Cash,Dine-In,210
+903,2025-01-05,07:17,C1268,Cold Coffee,Beverage,230,1,Cloudy,24,66,Relaxed,UPI,Takeaway,230
+904,2025-11-05,15:48,C1173,Iced Coffee,Coffee,210,4,Rainy,22,92,Sad,Card,Takeaway,840
+905,2025-06-11,20:15,C1170,Green Tea,Tea,140,4,Rainy,20,88,Tired,UPI,Dine-In,560
+906,2025-08-22,20:44,C1128,Masala Tea,Tea,120,2,Sunny,28,53,Stressed,Card,Takeaway,240
+907,2025-11-13,17:42,C1165,Muffin,Dessert,130,4,Cloudy,25,65,Romantic,UPI,Takeaway,520
+908,2025-01-24,19:47,C1042,Green Tea,Tea,140,4,Sunny,31,51,Romantic,Card,Takeaway,560
+909,2025-09-01,17:54,C1074,Pasta,Meal,320,1,Cloudy,26,74,Relaxed,Cash,Dine-In,320
+910,2025-03-07,14:50,C1229,Latte,Coffee,200,3,Windy,26,62,Relaxed,UPI,Takeaway,600
+911,2025-12-06,15:15,C1015,Hot Chocolate,Beverage,220,2,Sunny,28,46,Sad,UPI,Takeaway,440
+912,2025-07-16,19:17,C1274,Hot Chocolate,Beverage,220,3,Cloudy,24,75,Relaxed,Cash,Takeaway,660
+913,2025-02-16,19:44,C1176,Green Tea,Tea,140,2,Hot,38,36,Romantic,Card,Takeaway,280
+914,2025-12-01,17:50,C1149,Cheesecake,Dessert,240,4,Windy,23,59,Happy,UPI,Dine-In,960
+915,2025-02-15,12:47,C1066,Veg Sandwich,Snack,180,2,Cloudy,24,74,Stressed,Card,Takeaway,360
+916,2025-10-23,18:00,C1164,Iced Coffee,Coffee,210,1,Cloudy,25,71,Sad,Card,Dine-In,210
+917,2025-09-24,17:38,C1236,Veg Sandwich,Snack,180,2,Sunny,28,53,Tired,Card,Dine-In,360
+918,2025-06-01,20:14,C1018,Brownie,Dessert,160,4,Sunny,30,47,Romantic,Cash,Takeaway,640
+919,2025-06-08,15:44,C1111,Latte,Coffee,200,3,Hot,38,42,Romantic,Card,Takeaway,600
+920,2025-12-27,13:03,C1027,Cold Coffee,Beverage,230,3,Sunny,29,48,Romantic,UPI,Takeaway,690
+921,2025-07-20,11:52,C1217,Chicken Sandwich,Snack,240,2,Hot,38,41,Stressed,Cash,Takeaway,480
+922,2025-06-28,19:25,C1100,Masala Tea,Tea,120,1,Cloudy,26,69,Romantic,Cash,Takeaway,120
+923,2025-02-19,09:20,C1084,Cold Coffee,Beverage,230,1,Windy,24,62,Romantic,Cash,Dine-In,230
+924,2025-08-15,18:30,C1186,Iced Coffee,Coffee,210,2,Sunny,29,55,Happy,Cash,Dine-In,420
+925,2025-12-14,19:54,C1087,Espresso,Coffee,150,4,Hot,37,45,Tired,UPI,Dine-In,600
+926,2025-07-02,14:11,C1077,Cappuccino,Coffee,180,1,Hot,36,44,Sad,Cash,Takeaway,180
+927,2025-05-06,07:07,C1193,Hot Chocolate,Beverage,220,4,Rainy,24,85,Romantic,Cash,Dine-In,880
+928,2025-08-26,20:52,C1062,Chicken Sandwich,Snack,240,4,Sunny,31,50,Happy,UPI,Dine-In,960
+929,2025-03-04,14:41,C1141,Chicken Sandwich,Snack,240,2,Sunny,32,54,Sad,Cash,Dine-In,480
+930,2025-10-31,09:24,C1033,Brownie,Dessert,160,4,Sunny,29,46,Stressed,Cash,Dine-In,640
+931,2025-07-27,20:44,C1033,Cappuccino,Coffee,180,4,Cloudy,28,73,Sad,Cash,Dine-In,720
+932,2025-04-17,17:57,C1229,Latte,Coffee,200,2,Hot,35,35,Energetic,Card,Dine-In,400
+933,2025-01-21,09:36,C1064,Hot Chocolate,Beverage,220,2,Sunny,30,45,Happy,Cash,Takeaway,440
+934,2025-07-06,15:10,C1151,Masala Tea,Tea,120,1,Sunny,28,53,Tired,Cash,Takeaway,120
+935,2025-03-13,16:31,C1262,Pasta,Meal,320,3,Cloudy,26,74,Energetic,UPI,Dine-In,960
+936,2025-12-06,20:02,C1283,Hot Chocolate,Beverage,220,1,Sunny,30,48,Relaxed,UPI,Takeaway,220
+937,2025-05-23,09:46,C1084,Veg Sandwich,Snack,180,4,Sunny,30,49,Sad,Card,Takeaway,720
+938,2025-02-12,11:43,C1138,Masala Tea,Tea,120,2,Cloudy,24,75,Romantic,Cash,Dine-In,240
+939,2025-07-10,16:42,C1223,Chicken Sandwich,Snack,240,2,Rainy,21,88,Tired,Card,Dine-In,480
+940,2025-11-06,10:04,C1169,Iced Coffee,Coffee,210,1,Cloudy,28,71,Happy,Cash,Dine-In,210
+941,2025-07-05,21:21,C1051,Cold Coffee,Beverage,230,3,Sunny,29,49,Happy,Card,Dine-In,690
+942,2025-07-13,08:50,C1251,Lemonade,Beverage,150,1,Sunny,30,54,Tired,UPI,Takeaway,150
+943,2025-12-25,16:55,C1200,Iced Coffee,Coffee,210,3,Cloudy,24,67,Stressed,UPI,Takeaway,630
+944,2025-12-14,19:34,C1263,Cheesecake,Dessert,240,4,Rainy,21,87,Happy,Cash,Dine-In,960
+945,2025-12-03,09:09,C1215,Masala Tea,Tea,120,3,Sunny,30,48,Romantic,Cash,Takeaway,360
+946,2025-04-04,14:22,C1118,Cold Coffee,Beverage,230,4,Cloudy,26,71,Energetic,Card,Dine-In,920
+947,2025-06-06,13:49,C1085,Green Tea,Tea,140,1,Cloudy,24,68,Happy,Cash,Dine-In,140
+948,2025-02-13,18:18,C1261,Cheesecake,Dessert,240,4,Windy,22,61,Romantic,Cash,Dine-In,960
+949,2025-09-03,14:32,C1004,Chicken Sandwich,Snack,240,1,Rainy,24,86,Tired,Cash,Takeaway,240
+950,2025-12-26,15:47,C1022,Green Tea,Tea,140,2,Hot,38,45,Energetic,Cash,Takeaway,280
+951,2025-03-28,17:59,C1181,Lemonade,Beverage,150,2,Sunny,30,47,Energetic,UPI,Takeaway,300
+952,2025-09-11,13:10,C1061,Green Tea,Tea,140,1,Rainy,21,91,Tired,Card,Takeaway,140
+953,2025-09-05,11:16,C1157,Hot Chocolate,Beverage,220,1,Cloudy,28,71,Relaxed,Cash,Dine-In,220
+954,2025-08-26,21:39,C1169,Muffin,Dessert,130,4,Sunny,28,54,Sad,Card,Takeaway,520
+955,2025-02-24,07:22,C1252,Lemonade,Beverage,150,2,Rainy,20,84,Sad,UPI,Dine-In,300
+956,2025-09-28,15:57,C1129,Espresso,Coffee,150,4,Sunny,31,45,Relaxed,UPI,Takeaway,600
+957,2025-07-22,12:19,C1225,Green Tea,Tea,140,4,Hot,38,39,Happy,Cash,Takeaway,560
+958,2025-03-24,09:22,C1146,Pasta,Meal,320,4,Sunny,29,46,Relaxed,UPI,Dine-In,1280
+959,2025-07-22,13:47,C1137,Green Tea,Tea,140,1,Sunny,29,52,Romantic,UPI,Takeaway,140
+960,2025-09-08,15:31,C1200,Cold Coffee,Beverage,230,2,Rainy,23,91,Romantic,UPI,Dine-In,460
+961,2025-02-25,19:01,C1027,Espresso,Coffee,150,2,Rainy,20,93,Relaxed,Cash,Takeaway,300
+962,2025-08-08,16:47,C1220,Cappuccino,Coffee,180,4,Rainy,22,90,Happy,UPI,Dine-In,720
+963,2025-09-19,09:15,C1220,Iced Coffee,Coffee,210,1,Hot,35,45,Tired,UPI,Takeaway,210
+964,2025-12-28,19:51,C1077,Latte,Coffee,200,2,Sunny,32,55,Romantic,UPI,Dine-In,400
+965,2025-03-09,13:02,C1103,Iced Coffee,Coffee,210,2,Hot,37,35,Energetic,UPI,Dine-In,420
+966,2025-07-14,13:33,C1262,Iced Coffee,Coffee,210,2,Sunny,31,52,Happy,Card,Dine-In,420
+967,2025-06-05,08:17,C1025,Green Tea,Tea,140,3,Hot,37,38,Stressed,UPI,Dine-In,420
+968,2025-01-01,07:42,C1052,Pasta,Meal,320,3,Sunny,31,49,Energetic,Card,Dine-In,960
+969,2025-05-10,14:23,C1067,Green Tea,Tea,140,3,Sunny,28,55,Energetic,Card,Takeaway,420
+970,2025-07-05,18:49,C1197,Veg Sandwich,Snack,180,3,Sunny,30,48,Energetic,UPI,Dine-In,540
+971,2025-03-08,17:47,C1229,Veg Sandwich,Snack,180,1,Sunny,29,48,Romantic,UPI,Dine-In,180
+972,2025-10-07,16:21,C1079,Iced Coffee,Coffee,210,4,Hot,35,43,Romantic,UPI,Dine-In,840
+973,2025-04-09,13:35,C1230,Pasta,Meal,320,3,Hot,38,40,Stressed,Cash,Dine-In,960
+974,2025-08-12,08:30,C1024,Masala Tea,Tea,120,1,Sunny,30,47,Stressed,Cash,Dine-In,120
+975,2025-12-22,10:47,C1085,Muffin,Dessert,130,4,Rainy,24,91,Happy,Card,Takeaway,520
+976,2025-10-15,19:24,C1112,Masala Tea,Tea,120,3,Sunny,28,47,Energetic,Cash,Dine-In,360
+977,2025-09-20,14:32,C1138,Pasta,Meal,320,3,Rainy,21,87,Romantic,Cash,Dine-In,960
+978,2025-03-29,10:02,C1139,Cheesecake,Dessert,240,2,Sunny,29,49,Relaxed,UPI,Dine-In,480
+979,2025-04-18,15:07,C1282,Cappuccino,Coffee,180,3,Cloudy,26,70,Happy,Card,Dine-In,540
+980,2025-07-29,21:39,C1144,Iced Coffee,Coffee,210,3,Hot,34,40,Relaxed,UPI,Takeaway,630
+981,2025-01-09,15:42,C1283,Muffin,Dessert,130,1,Cloudy,27,75,Stressed,UPI,Takeaway,130
+982,2025-04-23,12:17,C1076,Hot Chocolate,Beverage,220,4,Sunny,29,51,Stressed,Card,Dine-In,880
+983,2025-09-11,09:29,C1145,Espresso,Coffee,150,2,Sunny,31,47,Romantic,UPI,Takeaway,300
+984,2025-03-25,21:11,C1037,Muffin,Dessert,130,4,Cloudy,25,66,Relaxed,Card,Dine-In,520
+985,2025-08-21,21:41,C1052,Masala Tea,Tea,120,1,Cloudy,25,65,Energetic,Card,Takeaway,120
+986,2025-01-11,08:52,C1007,Cappuccino,Coffee,180,1,Sunny,28,49,Relaxed,UPI,Dine-In,180
+987,2025-10-05,18:52,C1084,Green Tea,Tea,140,1,Sunny,31,54,Sad,Card,Takeaway,140
+988,2025-09-03,09:15,C1023,Cappuccino,Coffee,180,3,Cloudy,24,65,Tired,UPI,Takeaway,540
+989,2025-02-22,15:56,C1219,Muffin,Dessert,130,4,Sunny,29,45,Relaxed,Card,Dine-In,520
+990,2025-06-30,17:18,C1057,Hot Chocolate,Beverage,220,4,Cloudy,24,72,Relaxed,UPI,Dine-In,880
+991,2025-05-25,12:04,C1078,Veg Sandwich,Snack,180,3,Sunny,28,45,Energetic,UPI,Takeaway,540
+992,2025-09-29,12:38,C1147,Espresso,Coffee,150,4,Sunny,30,54,Tired,Card,Dine-In,600
+993,2025-05-19,21:31,C1077,Chicken Sandwich,Snack,240,3,Hot,34,35,Tired,Cash,Dine-In,720
+994,2025-06-13,09:24,C1143,Brownie,Dessert,160,4,Windy,22,64,Sad,UPI,Dine-In,640
+995,2025-06-15,09:11,C1212,Cold Coffee,Beverage,230,4,Rainy,23,89,Sad,Cash,Takeaway,920
+996,2025-03-12,19:41,C1274,Lemonade,Beverage,150,2,Rainy,24,90,Energetic,Card,Dine-In,300
+997,2025-07-16,08:37,C1186,Pasta,Meal,320,4,Cloudy,25,66,Relaxed,UPI,Dine-In,1280
+998,2025-01-09,12:35,C1072,Brownie,Dessert,160,2,Hot,34,40,Stressed,Card,Takeaway,320
+999,2025-03-15,20:54,C1071,Cheesecake,Dessert,240,4,Sunny,29,45,Romantic,UPI,Dine-In,960
+1000,2025-07-13,18:01,C1038,Pasta,Meal,320,4,Rainy,20,93,Energetic,Card,Dine-In,1280
+1001,2025-01-16,09:23,C1214,Espresso,Coffee,150,1,Sunny,28,54,Tired,UPI,Dine-In,150
+1002,2025-08-29,18:08,C1007,Pasta,Meal,320,3,Rainy,22,90,Tired,Card,Dine-In,960
+1003,2025-03-21,07:56,C1006,Chicken Sandwich,Snack,240,1,Cloudy,25,73,Relaxed,Card,Takeaway,240
+1004,2025-12-15,21:29,C1117,Cheesecake,Dessert,240,3,Hot,38,39,Romantic,Card,Dine-In,720
+1005,2025-05-20,08:33,C1113,Masala Tea,Tea,120,2,Cloudy,27,74,Happy,Card,Dine-In,240
+1006,2025-10-14,16:53,C1028,Latte,Coffee,200,4,Rainy,23,89,Relaxed,Card,Takeaway,800
+1007,2025-04-10,11:06,C1145,Latte,Coffee,200,1,Rainy,22,83,Relaxed,UPI,Dine-In,200
+1008,2025-02-03,10:38,C1124,Cappuccino,Coffee,180,3,Sunny,29,55,Happy,Card,Dine-In,540
+1009,2025-10-19,16:02,C1005,Veg Sandwich,Snack,180,4,Sunny,30,46,Stressed,Card,Takeaway,720
+1010,2025-07-23,15:12,C1170,Green Tea,Tea,140,4,Cloudy,25,75,Happy,Card,Dine-In,560
+1011,2025-09-15,19:49,C1020,Espresso,Coffee,150,1,Cloudy,27,72,Energetic,Card,Dine-In,150
+1012,2025-03-19,17:29,C1073,Latte,Coffee,200,1,Hot,35,38,Tired,Cash,Dine-In,200
+1013,2025-09-14,15:46,C1185,Veg Sandwich,Snack,180,3,Rainy,21,88,Stressed,Cash,Takeaway,540
+1014,2025-01-21,21:45,C1079,Cold Coffee,Beverage,230,4,Sunny,32,54,Happy,Cash,Takeaway,920
+1015,2025-02-19,19:00,C1233,Espresso,Coffee,150,3,Cloudy,24,72,Happy,Card,Dine-In,450
+1016,2025-06-01,09:04,C1236,Iced Coffee,Coffee,210,3,Rainy,20,85,Romantic,Card,Takeaway,630
+1017,2025-05-12,19:56,C1187,Brownie,Dessert,160,2,Hot,38,42,Happy,Card,Takeaway,320
+1018,2025-07-29,20:39,C1192,Lemonade,Beverage,150,2,Rainy,24,92,Stressed,UPI,Takeaway,300
+1019,2025-09-17,14:16,C1288,Lemonade,Beverage,150,1,Cloudy,24,68,Romantic,UPI,Dine-In,150
+1020,2025-02-23,11:24,C1237,Espresso,Coffee,150,4,Hot,35,41,Tired,Cash,Dine-In,600
+1021,2025-06-28,14:29,C1222,Chicken Sandwich,Snack,240,4,Sunny,29,46,Sad,UPI,Takeaway,960
+1022,2025-06-18,08:20,C1233,Green Tea,Tea,140,4,Sunny,31,46,Stressed,UPI,Dine-In,560
+1023,2025-08-29,09:40,C1186,Hot Chocolate,Beverage,220,3,Cloudy,28,71,Happy,Card,Takeaway,660
+1024,2025-04-20,07:13,C1091,Muffin,Dessert,130,1,Hot,37,39,Stressed,UPI,Dine-In,130
+1025,2025-02-05,11:25,C1110,Latte,Coffee,200,3,Hot,37,41,Energetic,Cash,Takeaway,600
+1026,2025-04-05,20:03,C1179,Latte,Coffee,200,4,Rainy,22,85,Relaxed,Card,Takeaway,800
+1027,2025-09-01,15:44,C1293,Cold Coffee,Beverage,230,2,Hot,37,40,Romantic,Card,Dine-In,460
+1028,2025-10-15,19:57,C1166,Veg Sandwich,Snack,180,2,Sunny,32,54,Relaxed,Cash,Takeaway,360
+1029,2025-01-08,09:57,C1209,Brownie,Dessert,160,2,Rainy,22,84,Tired,Card,Dine-In,320
+1030,2025-08-19,20:54,C1112,Espresso,Coffee,150,4,Cloudy,28,66,Happy,Cash,Dine-In,600
+1031,2025-08-04,18:34,C1098,Cold Coffee,Beverage,230,2,Cloudy,25,70,Relaxed,Cash,Dine-In,460
+1032,2025-07-09,20:23,C1256,Cappuccino,Coffee,180,3,Hot,38,36,Romantic,Cash,Takeaway,540
+1033,2025-07-31,13:22,C1235,Green Tea,Tea,140,4,Cloudy,26,66,Relaxed,Card,Takeaway,560
+1034,2025-04-01,15:38,C1051,Espresso,Coffee,150,4,Rainy,23,93,Stressed,UPI,Dine-In,600
+1035,2025-02-15,17:01,C1228,Veg Sandwich,Snack,180,4,Sunny,32,53,Happy,Cash,Dine-In,720
+1036,2025-12-08,11:54,C1059,Masala Tea,Tea,120,2,Sunny,31,53,Sad,UPI,Takeaway,240
+1037,2025-03-05,12:50,C1115,Lemonade,Beverage,150,4,Rainy,23,83,Stressed,Cash,Takeaway,600
+1038,2025-05-18,21:42,C1003,Iced Coffee,Coffee,210,3,Windy,25,65,Relaxed,Card,Dine-In,630
+1039,2025-01-08,07:09,C1172,Cold Coffee,Beverage,230,3,Windy,26,64,Stressed,UPI,Takeaway,690
+1040,2025-05-04,15:25,C1200,Hot Chocolate,Beverage,220,4,Windy,26,61,Relaxed,Cash,Dine-In,880
+1041,2025-07-26,21:20,C1061,Cheesecake,Dessert,240,2,Rainy,20,85,Energetic,Cash,Takeaway,480
+1042,2025-11-18,21:16,C1014,Muffin,Dessert,130,2,Hot,35,36,Happy,Card,Dine-In,260
+1043,2025-11-18,19:37,C1196,Espresso,Coffee,150,1,Cloudy,28,66,Energetic,UPI,Dine-In,150
+1044,2025-08-21,17:40,C1275,Cold Coffee,Beverage,230,3,Sunny,29,49,Relaxed,UPI,Takeaway,690
+1045,2025-05-14,17:03,C1053,Iced Coffee,Coffee,210,1,Hot,34,45,Energetic,UPI,Takeaway,210
+1046,2025-11-02,08:06,C1254,Espresso,Coffee,150,3,Sunny,29,46,Happy,Card,Dine-In,450
+1047,2025-07-20,08:31,C1108,Cold Coffee,Beverage,230,1,Rainy,23,93,Happy,Cash,Takeaway,230
+1048,2025-07-12,21:20,C1092,Chicken Sandwich,Snack,240,4,Windy,23,59,Happy,Cash,Dine-In,960
+1049,2025-03-02,12:22,C1016,Brownie,Dessert,160,1,Sunny,30,46,Relaxed,Cash,Dine-In,160
+1050,2025-09-23,15:48,C1168,Espresso,Coffee,150,2,Hot,34,38,Happy,UPI,Dine-In,300
+1051,2025-02-12,18:44,C1283,Espresso,Coffee,150,3,Sunny,29,46,Stressed,Cash,Takeaway,450
+1052,2025-08-28,18:51,C1089,Brownie,Dessert,160,4,Cloudy,27,68,Stressed,UPI,Takeaway,640
+1053,2025-07-21,08:37,C1229,Cold Coffee,Beverage,230,3,Sunny,29,52,Sad,Card,Takeaway,690
+1054,2025-06-13,16:06,C1033,Veg Sandwich,Snack,180,4,Rainy,24,88,Stressed,Card,Dine-In,720
+1055,2025-01-18,15:16,C1016,Veg Sandwich,Snack,180,4,Sunny,32,50,Sad,UPI,Dine-In,720
+1056,2025-06-15,13:50,C1191,Espresso,Coffee,150,3,Sunny,29,55,Stressed,UPI,Takeaway,450
+1057,2025-03-04,07:20,C1165,Pasta,Meal,320,1,Cloudy,25,72,Energetic,UPI,Dine-In,320
+1058,2025-07-17,11:38,C1039,Hot Chocolate,Beverage,220,2,Sunny,30,54,Tired,Cash,Takeaway,440
+1059,2025-12-16,19:27,C1024,Green Tea,Tea,140,3,Sunny,28,52,Sad,Card,Takeaway,420
+1060,2025-03-03,08:28,C1146,Espresso,Coffee,150,3,Cloudy,25,74,Happy,UPI,Dine-In,450
+1061,2025-08-25,11:08,C1173,Muffin,Dessert,130,4,Sunny,32,53,Happy,Cash,Dine-In,520
+1062,2025-02-05,14:06,C1178,Muffin,Dessert,130,4,Cloudy,26,70,Tired,Card,Dine-In,520
+1063,2025-10-12,19:20,C1063,Brownie,Dessert,160,1,Rainy,23,90,Tired,Card,Dine-In,160
+1064,2025-01-15,10:03,C1088,Muffin,Dessert,130,1,Sunny,30,51,Relaxed,UPI,Dine-In,130
+1065,2025-07-08,20:57,C1023,Cheesecake,Dessert,240,1,Hot,34,39,Tired,UPI,Dine-In,240
+1066,2025-06-05,08:16,C1236,Green Tea,Tea,140,4,Sunny,29,47,Energetic,UPI,Dine-In,560
+1067,2025-06-13,20:09,C1124,Cold Coffee,Beverage,230,4,Cloudy,24,73,Energetic,Cash,Takeaway,920
+1068,2025-12-05,14:17,C1043,Green Tea,Tea,140,4,Sunny,30,49,Romantic,Card,Dine-In,560
+1069,2025-12-04,17:47,C1109,Muffin,Dessert,130,2,Cloudy,24,72,Happy,UPI,Dine-In,260
+1070,2025-08-28,20:24,C1271,Hot Chocolate,Beverage,220,4,Sunny,29,54,Tired,Cash,Takeaway,880
+1071,2025-06-09,18:29,C1187,Chicken Sandwich,Snack,240,2,Windy,22,57,Relaxed,Card,Takeaway,480
+1072,2025-11-14,15:12,C1158,Cold Coffee,Beverage,230,4,Sunny,30,51,Relaxed,Cash,Dine-In,920
+1073,2025-03-17,14:56,C1015,Latte,Coffee,200,1,Sunny,31,47,Stressed,Card,Takeaway,200
+1074,2025-06-30,11:07,C1258,Lemonade,Beverage,150,1,Rainy,21,85,Sad,Card,Takeaway,150
+1075,2025-01-28,14:17,C1151,Green Tea,Tea,140,1,Sunny,31,51,Relaxed,UPI,Takeaway,140
+1076,2025-04-01,16:17,C1128,Cheesecake,Dessert,240,4,Cloudy,24,75,Happy,UPI,Dine-In,960
+1077,2025-02-28,07:57,C1116,Cappuccino,Coffee,180,3,Sunny,32,46,Stressed,Cash,Takeaway,540
+1078,2025-07-20,13:06,C1148,Hot Chocolate,Beverage,220,3,Rainy,21,86,Stressed,Cash,Takeaway,660
+1079,2025-01-02,08:11,C1036,Cheesecake,Dessert,240,4,Cloudy,25,67,Stressed,UPI,Dine-In,960
+1080,2025-06-20,21:29,C1091,Espresso,Coffee,150,1,Cloudy,27,70,Happy,Card,Dine-In,150
+1081,2025-03-29,17:48,C1251,Muffin,Dessert,130,1,Cloudy,27,74,Happy,UPI,Takeaway,130
+1082,2025-02-26,07:52,C1076,Cappuccino,Coffee,180,3,Windy,26,63,Relaxed,UPI,Dine-In,540
+1083,2025-06-05,19:47,C1250,Green Tea,Tea,140,4,Rainy,22,91,Stressed,Card,Takeaway,560
+1084,2025-08-23,07:52,C1248,Green Tea,Tea,140,3,Cloudy,28,75,Tired,UPI,Takeaway,420
+1085,2025-12-18,15:46,C1073,Chicken Sandwich,Snack,240,1,Sunny,31,48,Romantic,Card,Takeaway,240
+1086,2025-01-16,10:36,C1056,Pasta,Meal,320,4,Rainy,20,86,Sad,Card,Takeaway,1280
+1087,2025-09-27,09:16,C1142,Lemonade,Beverage,150,3,Hot,37,44,Sad,Card,Dine-In,450
+1088,2025-01-22,16:33,C1233,Pasta,Meal,320,3,Windy,22,61,Tired,Cash,Takeaway,960
+1089,2025-05-28,08:00,C1286,Brownie,Dessert,160,2,Rainy,21,91,Stressed,Cash,Dine-In,320
+1090,2025-06-05,14:18,C1064,Latte,Coffee,200,3,Sunny,28,48,Stressed,UPI,Takeaway,600
+1091,2025-06-06,07:27,C1258,Green Tea,Tea,140,1,Sunny,29,50,Stressed,Cash,Dine-In,140
+1092,2025-02-14,18:17,C1017,Espresso,Coffee,150,2,Rainy,20,87,Relaxed,Card,Takeaway,300
+1093,2025-05-08,19:43,C1160,Chicken Sandwich,Snack,240,4,Rainy,20,87,Stressed,UPI,Takeaway,960
+1094,2025-12-14,21:20,C1214,Cold Coffee,Beverage,230,2,Cloudy,25,69,Relaxed,Cash,Dine-In,460
+1095,2025-06-04,11:05,C1071,Iced Coffee,Coffee,210,4,Cloudy,27,71,Happy,Cash,Takeaway,840
+1096,2025-12-22,12:32,C1211,Lemonade,Beverage,150,3,Rainy,23,90,Sad,Card,Dine-In,450
+1097,2025-10-14,07:49,C1125,Masala Tea,Tea,120,1,Windy,26,59,Tired,Cash,Takeaway,120
+1098,2025-03-07,16:34,C1004,Lemonade,Beverage,150,3,Sunny,31,47,Sad,Card,Takeaway,450
+1099,2025-01-28,08:03,C1247,Iced Coffee,Coffee,210,1,Rainy,20,87,Energetic,Cash,Takeaway,210
+1100,2025-02-01,08:47,C1254,Veg Sandwich,Snack,180,1,Cloudy,28,67,Energetic,UPI,Dine-In,180
+1101,2025-12-12,17:54,C1103,Espresso,Coffee,150,3,Cloudy,24,72,Energetic,UPI,Dine-In,450
+1102,2025-01-01,09:38,C1243,Lemonade,Beverage,150,1,Cloudy,25,68,Happy,UPI,Takeaway,150
+1103,2025-07-20,07:59,C1280,Latte,Coffee,200,3,Rainy,21,86,Tired,Card,Takeaway,600
+1104,2025-12-03,16:07,C1124,Masala Tea,Tea,120,2,Cloudy,25,67,Tired,UPI,Dine-In,240
+1105,2025-09-01,14:18,C1141,Iced Coffee,Coffee,210,1,Hot,37,40,Romantic,Card,Takeaway,210
+1106,2025-12-24,19:06,C1235,Brownie,Dessert,160,4,Windy,23,55,Stressed,UPI,Takeaway,640
+1107,2025-01-06,16:19,C1235,Cappuccino,Coffee,180,4,Sunny,30,47,Sad,Card,Dine-In,720
+1108,2025-03-23,12:32,C1033,Muffin,Dessert,130,2,Rainy,24,89,Energetic,UPI,Dine-In,260
+1109,2025-06-30,17:46,C1156,Veg Sandwich,Snack,180,3,Rainy,21,87,Tired,Card,Dine-In,540
+1110,2025-11-27,14:24,C1133,Brownie,Dessert,160,2,Cloudy,28,75,Energetic,UPI,Takeaway,320
+1111,2025-10-29,16:22,C1050,Veg Sandwich,Snack,180,4,Sunny,28,47,Relaxed,Cash,Dine-In,720
+1112,2025-09-13,21:43,C1197,Brownie,Dessert,160,3,Windy,23,56,Relaxed,Card,Dine-In,480
+1113,2025-02-01,16:16,C1192,Latte,Coffee,200,1,Windy,22,62,Tired,Cash,Dine-In,200
+1114,2025-03-31,12:06,C1101,Pasta,Meal,320,4,Rainy,24,91,Relaxed,Card,Takeaway,1280
+1115,2025-08-13,17:18,C1099,Hot Chocolate,Beverage,220,2,Cloudy,27,73,Tired,UPI,Dine-In,440
+1116,2025-11-19,17:06,C1209,Hot Chocolate,Beverage,220,1,Windy,22,60,Tired,Cash,Dine-In,220
+1117,2025-06-24,09:43,C1243,Pasta,Meal,320,4,Sunny,29,54,Tired,Cash,Takeaway,1280
+1118,2025-07-02,16:57,C1193,Cheesecake,Dessert,240,2,Windy,25,61,Romantic,UPI,Dine-In,480
+1119,2025-03-07,19:33,C1277,Iced Coffee,Coffee,210,1,Sunny,29,45,Energetic,Card,Dine-In,210
+1120,2025-04-25,20:18,C1081,Lemonade,Beverage,150,3,Rainy,22,84,Tired,Card,Dine-In,450
+1121,2025-10-01,16:15,C1057,Muffin,Dessert,130,3,Rainy,20,91,Romantic,Cash,Takeaway,390
+1122,2025-05-15,17:01,C1031,Cappuccino,Coffee,180,3,Rainy,21,88,Tired,UPI,Dine-In,540
+1123,2025-10-08,20:46,C1019,Green Tea,Tea,140,1,Sunny,28,54,Energetic,Card,Dine-In,140
+1124,2025-08-02,16:47,C1022,Veg Sandwich,Snack,180,1,Hot,37,37,Stressed,UPI,Dine-In,180
+1125,2025-09-12,15:14,C1029,Chicken Sandwich,Snack,240,3,Rainy,22,86,Happy,UPI,Dine-In,720
+1126,2025-10-01,16:55,C1194,Masala Tea,Tea,120,1,Cloudy,24,71,Tired,Cash,Dine-In,120
+1127,2025-08-09,18:27,C1181,Cheesecake,Dessert,240,2,Sunny,28,54,Stressed,UPI,Takeaway,480
+1128,2025-08-12,21:03,C1275,Hot Chocolate,Beverage,220,2,Sunny,28,48,Sad,Cash,Dine-In,440
+1129,2025-01-08,20:46,C1145,Hot Chocolate,Beverage,220,1,Sunny,29,52,Relaxed,UPI,Takeaway,220
+1130,2025-06-29,16:41,C1246,Lemonade,Beverage,150,2,Hot,35,44,Sad,Cash,Dine-In,300
+1131,2025-12-03,08:04,C1155,Iced Coffee,Coffee,210,2,Rainy,22,86,Sad,Card,Takeaway,420
+1132,2025-12-01,10:33,C1028,Lemonade,Beverage,150,3,Rainy,24,91,Happy,Card,Takeaway,450
+1133,2025-12-28,16:31,C1157,Iced Coffee,Coffee,210,1,Sunny,29,53,Relaxed,Cash,Dine-In,210
+1134,2025-03-04,12:46,C1233,Muffin,Dessert,130,2,Sunny,29,52,Romantic,UPI,Dine-In,260
+1135,2025-09-13,20:02,C1143,Iced Coffee,Coffee,210,3,Cloudy,26,66,Happy,Cash,Takeaway,630
+1136,2025-09-11,07:55,C1095,Masala Tea,Tea,120,4,Rainy,21,86,Sad,Cash,Takeaway,480
+1137,2025-09-30,07:42,C1173,Iced Coffee,Coffee,210,1,Cloudy,26,65,Energetic,Card,Dine-In,210
+1138,2025-01-15,12:46,C1199,Muffin,Dessert,130,4,Hot,34,36,Energetic,Cash,Takeaway,520
+1139,2025-10-01,14:27,C1122,Veg Sandwich,Snack,180,3,Sunny,31,52,Romantic,UPI,Dine-In,540
+1140,2025-05-24,19:43,C1293,Iced Coffee,Coffee,210,1,Hot,38,39,Stressed,Card,Dine-In,210
+1141,2025-11-12,11:23,C1158,Iced Coffee,Coffee,210,3,Windy,26,55,Happy,Cash,Takeaway,630
+1142,2025-05-16,20:11,C1184,Brownie,Dessert,160,4,Sunny,28,52,Happy,Card,Dine-In,640
+1143,2025-07-29,07:37,C1226,Latte,Coffee,200,3,Hot,38,40,Happy,UPI,Takeaway,600
+1144,2025-05-22,11:55,C1026,Brownie,Dessert,160,2,Sunny,29,47,Tired,UPI,Dine-In,320
+1145,2025-12-02,07:11,C1117,Chicken Sandwich,Snack,240,4,Cloudy,24,73,Romantic,UPI,Takeaway,960
+1146,2025-05-12,07:43,C1180,Muffin,Dessert,130,3,Cloudy,24,74,Relaxed,UPI,Dine-In,390
+1147,2025-09-17,14:07,C1213,Cheesecake,Dessert,240,1,Sunny,30,54,Stressed,UPI,Takeaway,240
+1148,2025-05-25,09:01,C1241,Green Tea,Tea,140,3,Rainy,23,93,Stressed,Card,Dine-In,420
+1149,2025-03-24,12:02,C1109,Iced Coffee,Coffee,210,2,Hot,34,36,Energetic,Card,Takeaway,420
+1150,2025-04-21,13:53,C1041,Veg Sandwich,Snack,180,1,Cloudy,25,71,Tired,UPI,Dine-In,180
+1151,2025-10-17,15:36,C1027,Chicken Sandwich,Snack,240,4,Cloudy,24,73,Tired,Cash,Takeaway,960
+1152,2025-12-04,15:33,C1169,Brownie,Dessert,160,3,Sunny,32,49,Relaxed,UPI,Takeaway,480
+1153,2025-04-29,14:20,C1041,Pasta,Meal,320,1,Cloudy,27,71,Stressed,Card,Dine-In,320
+1154,2025-07-05,17:30,C1065,Veg Sandwich,Snack,180,2,Rainy,23,86,Energetic,Cash,Dine-In,360
+1155,2025-07-28,17:37,C1061,Chicken Sandwich,Snack,240,2,Cloudy,26,70,Stressed,UPI,Takeaway,480
+1156,2025-08-04,15:09,C1008,Veg Sandwich,Snack,180,4,Cloudy,25,67,Sad,UPI,Dine-In,720
+1157,2025-08-03,11:48,C1221,Cheesecake,Dessert,240,4,Cloudy,25,65,Tired,UPI,Dine-In,960
+1158,2025-02-07,09:32,C1286,Muffin,Dessert,130,4,Hot,36,37,Sad,UPI,Takeaway,520
+1159,2025-03-02,12:57,C1024,Muffin,Dessert,130,3,Cloudy,28,66,Romantic,UPI,Takeaway,390
+1160,2025-08-18,21:26,C1245,Chicken Sandwich,Snack,240,4,Cloudy,27,69,Tired,Cash,Dine-In,960
+1161,2025-04-04,18:49,C1190,Veg Sandwich,Snack,180,1,Sunny,28,54,Energetic,Cash,Takeaway,180
+1162,2025-07-14,12:28,C1253,Espresso,Coffee,150,3,Hot,34,38,Stressed,Card,Dine-In,450
+1163,2025-10-16,15:57,C1092,Cheesecake,Dessert,240,4,Sunny,31,50,Tired,UPI,Dine-In,960
+1164,2025-04-18,13:33,C1148,Iced Coffee,Coffee,210,3,Sunny,30,47,Happy,Card,Takeaway,630
+1165,2025-08-13,10:56,C1055,Espresso,Coffee,150,3,Hot,36,44,Tired,UPI,Takeaway,450
+1166,2025-03-14,08:13,C1100,Cheesecake,Dessert,240,2,Sunny,28,53,Energetic,UPI,Takeaway,480
+1167,2025-01-14,12:13,C1233,Iced Coffee,Coffee,210,4,Cloudy,28,67,Tired,Card,Dine-In,840
+1168,2025-12-28,21:54,C1071,Latte,Coffee,200,4,Hot,37,39,Happy,Card,Dine-In,800
+1169,2025-07-01,19:05,C1172,Pasta,Meal,320,2,Cloudy,26,67,Energetic,Card,Takeaway,640
+1170,2025-11-19,18:32,C1052,Chicken Sandwich,Snack,240,1,Cloudy,26,65,Sad,Cash,Takeaway,240
+1171,2025-04-08,20:35,C1193,Chicken Sandwich,Snack,240,1,Hot,34,38,Relaxed,UPI,Dine-In,240
+1172,2025-05-16,14:09,C1046,Brownie,Dessert,160,2,Cloudy,26,67,Relaxed,Cash,Dine-In,320
+1173,2025-01-02,13:04,C1135,Brownie,Dessert,160,2,Cloudy,24,71,Romantic,Cash,Takeaway,320
+1174,2025-11-20,16:15,C1119,Chicken Sandwich,Snack,240,3,Rainy,21,87,Tired,Card,Takeaway,720
+1175,2025-09-08,19:40,C1058,Masala Tea,Tea,120,3,Cloudy,26,66,Relaxed,Card,Takeaway,360
+1176,2025-08-17,12:15,C1059,Chicken Sandwich,Snack,240,4,Sunny,31,50,Romantic,Card,Takeaway,960
+1177,2025-12-27,09:49,C1121,Lemonade,Beverage,150,4,Windy,25,64,Sad,UPI,Takeaway,600
+1178,2025-05-18,15:13,C1163,Lemonade,Beverage,150,4,Sunny,30,49,Romantic,Card,Takeaway,600
+1179,2025-08-15,13:25,C1024,Iced Coffee,Coffee,210,1,Sunny,29,50,Romantic,Card,Takeaway,210
+1180,2025-07-29,10:36,C1169,Lemonade,Beverage,150,2,Cloudy,24,74,Energetic,UPI,Dine-In,300
+1181,2025-01-11,19:24,C1026,Latte,Coffee,200,3,Hot,38,36,Romantic,Cash,Dine-In,600
+1182,2025-07-05,15:12,C1083,Espresso,Coffee,150,4,Hot,35,39,Tired,Card,Takeaway,600
+1183,2025-07-31,10:35,C1270,Pasta,Meal,320,2,Hot,34,35,Tired,UPI,Takeaway,640
+1184,2025-09-06,07:10,C1064,Iced Coffee,Coffee,210,3,Sunny,29,45,Stressed,Card,Takeaway,630
+1185,2025-03-09,20:47,C1213,Lemonade,Beverage,150,3,Hot,34,36,Energetic,UPI,Dine-In,450
+1186,2025-10-05,16:58,C1160,Espresso,Coffee,150,1,Cloudy,27,68,Tired,Card,Takeaway,150
+1187,2025-09-20,18:01,C1296,Iced Coffee,Coffee,210,3,Rainy,20,87,Romantic,Card,Takeaway,630
+1188,2025-05-30,13:05,C1274,Hot Chocolate,Beverage,220,4,Cloudy,27,69,Romantic,Cash,Dine-In,880
+1189,2025-07-15,07:31,C1115,Pasta,Meal,320,4,Hot,38,36,Sad,Cash,Dine-In,1280
+1190,2025-07-23,19:14,C1171,Brownie,Dessert,160,3,Rainy,20,93,Stressed,UPI,Dine-In,480
+1191,2025-02-18,15:10,C1243,Hot Chocolate,Beverage,220,4,Cloudy,24,67,Sad,Cash,Dine-In,880
+1192,2025-01-31,19:31,C1165,Iced Coffee,Coffee,210,4,Rainy,22,85,Happy,Cash,Takeaway,840
+1193,2025-01-03,11:44,C1165,Hot Chocolate,Beverage,220,4,Cloudy,26,75,Relaxed,Card,Takeaway,880
+1194,2025-09-21,15:54,C1066,Pasta,Meal,320,1,Hot,37,36,Sad,UPI,Dine-In,320
+1195,2025-09-24,18:07,C1254,Espresso,Coffee,150,2,Rainy,20,83,Sad,UPI,Takeaway,300
+1196,2025-03-13,18:55,C1151,Cheesecake,Dessert,240,4,Rainy,22,84,Sad,Cash,Takeaway,960
+1197,2025-09-25,12:39,C1268,Lemonade,Beverage,150,3,Cloudy,25,67,Stressed,Cash,Dine-In,450
+1198,2025-11-11,18:23,C1070,Cheesecake,Dessert,240,3,Rainy,21,88,Romantic,UPI,Takeaway,720
+1199,2025-01-06,12:26,C1097,Espresso,Coffee,150,2,Rainy,20,87,Romantic,UPI,Dine-In,300
+1200,2025-10-03,14:21,C1180,Latte,Coffee,200,1,Cloudy,28,67,Happy,Cash,Dine-In,200
+1201,2025-06-26,17:00,C1157,Lemonade,Beverage,150,2,Sunny,31,54,Romantic,Card,Takeaway,300
+1202,2025-05-11,15:34,C1111,Chicken Sandwich,Snack,240,2,Sunny,29,46,Romantic,Card,Dine-In,480
+1203,2025-05-15,16:06,C1243,Espresso,Coffee,150,4,Rainy,24,92,Stressed,UPI,Dine-In,600
+1204,2025-01-02,19:14,C1085,Hot Chocolate,Beverage,220,1,Hot,38,37,Relaxed,Card,Dine-In,220
+1205,2025-06-15,08:57,C1242,Cappuccino,Coffee,180,2,Cloudy,27,71,Romantic,Card,Takeaway,360
+1206,2025-09-14,19:07,C1160,Hot Chocolate,Beverage,220,4,Rainy,23,90,Stressed,Cash,Takeaway,880
+1207,2025-09-29,08:56,C1224,Veg Sandwich,Snack,180,2,Hot,36,37,Tired,Cash,Takeaway,360
+1208,2025-09-08,18:50,C1092,Iced Coffee,Coffee,210,1,Cloudy,27,75,Stressed,UPI,Takeaway,210
+1209,2025-08-27,19:42,C1192,Green Tea,Tea,140,4,Sunny,32,48,Sad,UPI,Dine-In,560
+1210,2025-04-11,14:23,C1189,Cheesecake,Dessert,240,2,Sunny,30,50,Happy,Card,Dine-In,480
+1211,2025-11-07,11:02,C1130,Chicken Sandwich,Snack,240,3,Cloudy,27,65,Romantic,Card,Dine-In,720
+1212,2025-10-20,20:01,C1243,Muffin,Dessert,130,4,Hot,37,42,Relaxed,Cash,Dine-In,520
+1213,2025-01-20,12:01,C1215,Veg Sandwich,Snack,180,2,Cloudy,25,67,Happy,UPI,Dine-In,360
+1214,2025-08-16,17:45,C1100,Cappuccino,Coffee,180,3,Sunny,32,49,Tired,Cash,Dine-In,540
+1215,2025-06-20,20:43,C1188,Muffin,Dessert,130,3,Hot,35,44,Romantic,Cash,Dine-In,390
+1216,2025-12-07,13:26,C1137,Muffin,Dessert,130,1,Sunny,32,47,Romantic,UPI,Dine-In,130
+1217,2025-08-16,07:17,C1002,Veg Sandwich,Snack,180,2,Cloudy,27,67,Romantic,Card,Takeaway,360
+1218,2025-10-15,12:07,C1046,Green Tea,Tea,140,4,Cloudy,24,74,Sad,UPI,Dine-In,560
+1219,2025-04-04,18:05,C1006,Espresso,Coffee,150,3,Cloudy,24,67,Tired,UPI,Takeaway,450
+1220,2025-08-24,08:56,C1028,Pasta,Meal,320,2,Rainy,21,85,Stressed,Card,Takeaway,640
+1221,2025-04-02,11:08,C1091,Veg Sandwich,Snack,180,3,Rainy,21,87,Relaxed,Card,Takeaway,540
+1222,2025-12-24,14:16,C1268,Latte,Coffee,200,4,Rainy,22,88,Tired,Card,Dine-In,800
+1223,2025-01-19,20:37,C1148,Masala Tea,Tea,120,2,Cloudy,25,71,Stressed,UPI,Takeaway,240
+1224,2025-12-25,15:35,C1240,Muffin,Dessert,130,3,Sunny,29,49,Relaxed,Card,Dine-In,390
+1225,2025-03-01,15:42,C1191,Chicken Sandwich,Snack,240,2,Rainy,23,92,Stressed,Cash,Takeaway,480
+1226,2025-12-04,16:57,C1216,Cappuccino,Coffee,180,3,Cloudy,26,65,Relaxed,Card,Takeaway,540
+1227,2025-06-22,17:57,C1280,Latte,Coffee,200,2,Hot,36,37,Sad,UPI,Dine-In,400
+1228,2025-08-13,19:39,C1192,Brownie,Dessert,160,4,Cloudy,27,68,Stressed,Cash,Takeaway,640
+1229,2025-09-05,17:25,C1216,Iced Coffee,Coffee,210,1,Hot,35,43,Happy,Card,Takeaway,210
+1230,2025-10-23,13:37,C1269,Cappuccino,Coffee,180,2,Cloudy,26,74,Romantic,UPI,Dine-In,360
+1231,2025-03-08,17:21,C1178,Cold Coffee,Beverage,230,1,Hot,36,37,Tired,Card,Takeaway,230
+1232,2025-03-26,14:00,C1042,Chicken Sandwich,Snack,240,2,Sunny,29,49,Stressed,UPI,Dine-In,480
+1233,2025-04-15,13:05,C1245,Pasta,Meal,320,2,Sunny,32,50,Happy,UPI,Takeaway,640
+1234,2025-02-21,14:35,C1238,Chicken Sandwich,Snack,240,4,Cloudy,27,75,Sad,Cash,Dine-In,960
+1235,2025-02-19,13:08,C1218,Green Tea,Tea,140,2,Rainy,22,87,Tired,Cash,Takeaway,280
+1236,2025-10-01,08:22,C1121,Brownie,Dessert,160,1,Sunny,32,47,Tired,Card,Takeaway,160
+1237,2025-06-24,15:52,C1097,Cappuccino,Coffee,180,4,Hot,35,37,Sad,UPI,Dine-In,720
+1238,2025-06-04,13:05,C1160,Green Tea,Tea,140,4,Cloudy,27,67,Stressed,Card,Takeaway,560
+1239,2025-01-18,11:26,C1043,Espresso,Coffee,150,2,Rainy,24,84,Sad,Card,Dine-In,300
+1240,2025-12-02,20:25,C1197,Cold Coffee,Beverage,230,1,Sunny,29,54,Energetic,Cash,Takeaway,230
+1241,2025-01-06,14:41,C1133,Chicken Sandwich,Snack,240,4,Rainy,20,87,Sad,Cash,Dine-In,960
+1242,2025-11-06,19:51,C1274,Lemonade,Beverage,150,4,Cloudy,27,70,Tired,Card,Dine-In,600
+1243,2025-04-02,13:34,C1173,Cold Coffee,Beverage,230,4,Hot,34,37,Happy,Cash,Takeaway,920
+1244,2025-04-12,15:52,C1063,Veg Sandwich,Snack,180,4,Rainy,23,87,Happy,Card,Takeaway,720
+1245,2025-07-07,07:56,C1013,Veg Sandwich,Snack,180,3,Sunny,30,55,Stressed,Cash,Takeaway,540
+1246,2025-04-02,11:22,C1058,Masala Tea,Tea,120,1,Rainy,22,93,Happy,Card,Dine-In,120
+1247,2025-09-30,18:25,C1075,Hot Chocolate,Beverage,220,2,Sunny,28,47,Romantic,Cash,Takeaway,440
+1248,2025-08-09,21:17,C1235,Green Tea,Tea,140,4,Cloudy,25,73,Energetic,UPI,Dine-In,560
+1249,2025-06-17,12:02,C1155,Espresso,Coffee,150,1,Rainy,20,88,Romantic,Card,Takeaway,150
+1250,2025-01-12,09:47,C1099,Iced Coffee,Coffee,210,1,Windy,25,56,Tired,Cash,Takeaway,210
+1251,2025-06-05,16:32,C1243,Cheesecake,Dessert,240,2,Cloudy,24,70,Energetic,UPI,Takeaway,480
+1252,2025-05-21,18:44,C1093,Cold Coffee,Beverage,230,2,Sunny,28,54,Sad,Cash,Takeaway,460
+1253,2025-05-20,07:26,C1237,Hot Chocolate,Beverage,220,1,Windy,23,59,Stressed,Cash,Takeaway,220
+1254,2025-02-19,10:14,C1236,Cappuccino,Coffee,180,3,Sunny,32,49,Romantic,Cash,Takeaway,540
+1255,2025-11-22,16:21,C1175,Cheesecake,Dessert,240,4,Rainy,24,83,Stressed,Card,Takeaway,960
+1256,2025-08-16,09:29,C1131,Muffin,Dessert,130,4,Sunny,29,55,Sad,Card,Dine-In,520
+1257,2025-12-05,20:36,C1272,Latte,Coffee,200,4,Cloudy,26,66,Relaxed,Card,Takeaway,800
+1258,2025-05-30,19:20,C1181,Brownie,Dessert,160,4,Sunny,32,54,Relaxed,Cash,Takeaway,640
+1259,2025-08-01,19:01,C1276,Cold Coffee,Beverage,230,3,Cloudy,27,68,Sad,UPI,Takeaway,690
+1260,2025-11-07,20:07,C1092,Latte,Coffee,200,4,Sunny,28,54,Stressed,UPI,Takeaway,800
+1261,2025-10-09,13:22,C1186,Cold Coffee,Beverage,230,2,Rainy,24,87,Stressed,Cash,Dine-In,460
+1262,2025-12-07,21:43,C1207,Chicken Sandwich,Snack,240,3,Cloudy,28,71,Relaxed,Card,Takeaway,720
+1263,2025-05-27,20:59,C1002,Brownie,Dessert,160,2,Hot,35,41,Stressed,Cash,Takeaway,320
+1264,2025-08-26,17:11,C1097,Chicken Sandwich,Snack,240,1,Rainy,23,89,Sad,Cash,Dine-In,240
+1265,2025-11-13,10:08,C1128,Veg Sandwich,Snack,180,1,Cloudy,27,65,Stressed,UPI,Takeaway,180
+1266,2025-12-17,08:23,C1189,Cappuccino,Coffee,180,4,Cloudy,25,67,Sad,Cash,Dine-In,720
+1267,2025-03-31,14:59,C1106,Pasta,Meal,320,2,Rainy,22,84,Happy,Cash,Takeaway,640
+1268,2025-08-24,10:43,C1057,Veg Sandwich,Snack,180,4,Hot,35,42,Energetic,Cash,Takeaway,720
+1269,2025-03-23,10:29,C1209,Pasta,Meal,320,1,Sunny,28,55,Romantic,Cash,Takeaway,320
+1270,2025-07-17,08:50,C1274,Masala Tea,Tea,120,3,Hot,38,36,Romantic,Cash,Dine-In,360
+1271,2025-08-13,14:52,C1205,Pasta,Meal,320,1,Sunny,31,45,Stressed,Cash,Takeaway,320
+1272,2025-08-08,19:07,C1087,Latte,Coffee,200,2,Windy,26,56,Romantic,Card,Takeaway,400
+1273,2025-12-03,12:09,C1169,Lemonade,Beverage,150,2,Windy,23,59,Happy,Cash,Dine-In,300
+1274,2025-08-23,21:45,C1228,Brownie,Dessert,160,2,Windy,24,59,Romantic,Card,Takeaway,320
+1275,2025-12-25,11:36,C1014,Iced Coffee,Coffee,210,1,Windy,23,63,Stressed,UPI,Takeaway,210
+1276,2025-10-16,12:45,C1157,Iced Coffee,Coffee,210,3,Hot,35,44,Romantic,Card,Takeaway,630
+1277,2025-12-11,11:09,C1117,Pasta,Meal,320,2,Sunny,30,51,Stressed,UPI,Dine-In,640
+1278,2025-10-26,11:09,C1245,Veg Sandwich,Snack,180,1,Sunny,32,53,Sad,Cash,Dine-In,180
+1279,2025-06-26,17:09,C1087,Veg Sandwich,Snack,180,3,Cloudy,27,72,Romantic,Cash,Takeaway,540
+1280,2025-03-31,14:57,C1159,Masala Tea,Tea,120,1,Cloudy,24,70,Relaxed,UPI,Dine-In,120
+1281,2025-03-18,11:38,C1292,Cold Coffee,Beverage,230,1,Cloudy,26,72,Sad,Cash,Dine-In,230
+1282,2025-09-26,21:14,C1051,Pasta,Meal,320,2,Rainy,20,89,Romantic,Card,Dine-In,640
+1283,2025-05-19,15:34,C1268,Muffin,Dessert,130,1,Hot,34,42,Energetic,UPI,Dine-In,130
+1284,2025-05-12,19:47,C1137,Espresso,Coffee,150,2,Sunny,31,47,Happy,Cash,Takeaway,300
+1285,2025-02-16,18:12,C1032,Pasta,Meal,320,1,Hot,35,43,Stressed,UPI,Dine-In,320
+1286,2025-05-05,16:48,C1038,Veg Sandwich,Snack,180,4,Rainy,24,83,Stressed,UPI,Takeaway,720
+1287,2025-03-01,14:05,C1250,Brownie,Dessert,160,2,Sunny,32,48,Energetic,Card,Dine-In,320
+1288,2025-10-25,13:55,C1234,Lemonade,Beverage,150,1,Cloudy,27,75,Relaxed,UPI,Takeaway,150
+1289,2025-07-28,16:17,C1154,Brownie,Dessert,160,2,Rainy,23,91,Stressed,Card,Dine-In,320
+1290,2025-06-24,11:43,C1004,Cheesecake,Dessert,240,3,Cloudy,24,67,Sad,Card,Takeaway,720
+1291,2025-09-11,09:11,C1276,Latte,Coffee,200,4,Cloudy,24,72,Stressed,UPI,Dine-In,800
+1292,2025-02-25,19:14,C1053,Hot Chocolate,Beverage,220,3,Cloudy,26,73,Sad,Cash,Takeaway,660
+1293,2025-11-09,10:36,C1088,Chicken Sandwich,Snack,240,2,Rainy,21,89,Tired,UPI,Dine-In,480
+1294,2025-06-16,15:30,C1242,Chicken Sandwich,Snack,240,4,Windy,24,58,Stressed,Card,Takeaway,960
+1295,2025-03-16,11:21,C1218,Pasta,Meal,320,3,Windy,24,62,Stressed,Cash,Takeaway,960
+1296,2025-08-02,07:48,C1072,Masala Tea,Tea,120,1,Hot,36,45,Tired,Card,Takeaway,120
+1297,2025-01-10,20:45,C1192,Hot Chocolate,Beverage,220,2,Cloudy,26,69,Tired,UPI,Takeaway,440
+1298,2025-08-07,19:24,C1141,Green Tea,Tea,140,2,Windy,26,63,Sad,UPI,Dine-In,280
+1299,2025-05-05,09:20,C1200,Pasta,Meal,320,4,Hot,38,42,Happy,Cash,Takeaway,1280
+1300,2025-05-08,11:38,C1142,Veg Sandwich,Snack,180,4,Sunny,28,55,Stressed,Cash,Takeaway,720
+1301,2025-08-13,21:18,C1212,Latte,Coffee,200,4,Sunny,28,50,Tired,UPI,Dine-In,800
+1302,2025-10-29,11:36,C1134,Hot Chocolate,Beverage,220,1,Rainy,22,92,Energetic,Cash,Takeaway,220
+1303,2025-12-20,07:08,C1229,Cold Coffee,Beverage,230,1,Hot,36,40,Tired,Cash,Dine-In,230
+1304,2025-04-05,12:29,C1133,Hot Chocolate,Beverage,220,4,Rainy,21,93,Romantic,Card,Dine-In,880
+1305,2025-03-13,08:41,C1271,Masala Tea,Tea,120,4,Rainy,23,83,Tired,UPI,Takeaway,480
+1306,2025-01-09,16:27,C1171,Cappuccino,Coffee,180,3,Windy,25,59,Energetic,Cash,Dine-In,540
+1307,2025-02-08,16:05,C1240,Cheesecake,Dessert,240,1,Cloudy,28,66,Energetic,Cash,Dine-In,240
+1308,2025-02-07,19:43,C1038,Masala Tea,Tea,120,3,Rainy,21,93,Stressed,UPI,Takeaway,360
+1309,2025-08-21,15:49,C1004,Pasta,Meal,320,4,Hot,37,44,Stressed,Cash,Takeaway,1280
+1310,2025-01-10,07:14,C1168,Green Tea,Tea,140,4,Sunny,29,54,Romantic,Cash,Takeaway,560
+1311,2025-12-01,17:12,C1076,Cold Coffee,Beverage,230,3,Hot,38,37,Relaxed,UPI,Takeaway,690
+1312,2025-04-03,08:01,C1168,Cheesecake,Dessert,240,1,Windy,26,60,Happy,Card,Dine-In,240
+1313,2025-12-03,10:12,C1182,Iced Coffee,Coffee,210,2,Rainy,22,86,Relaxed,UPI,Dine-In,420
+1314,2025-08-14,08:53,C1229,Masala Tea,Tea,120,1,Rainy,21,89,Happy,Card,Takeaway,120
+1315,2025-04-12,10:49,C1265,Masala Tea,Tea,120,1,Sunny,29,53,Energetic,UPI,Dine-In,120
+1316,2025-04-18,08:31,C1108,Pasta,Meal,320,3,Cloudy,26,71,Relaxed,UPI,Takeaway,960
+1317,2025-09-02,11:32,C1052,Latte,Coffee,200,4,Sunny,31,51,Sad,Card,Takeaway,800
+1318,2025-06-08,20:04,C1200,Masala Tea,Tea,120,3,Sunny,28,55,Romantic,Card,Dine-In,360
+1319,2025-05-21,18:41,C1005,Lemonade,Beverage,150,3,Sunny,29,47,Energetic,UPI,Dine-In,450
+1320,2025-03-13,18:30,C1191,Cold Coffee,Beverage,230,1,Sunny,29,55,Stressed,Cash,Takeaway,230
+1321,2025-03-22,13:11,C1084,Espresso,Coffee,150,2,Cloudy,25,70,Happy,UPI,Takeaway,300
+1322,2025-04-15,11:25,C1015,Chicken Sandwich,Snack,240,3,Hot,36,44,Stressed,UPI,Takeaway,720
+1323,2025-01-15,21:30,C1269,Cappuccino,Coffee,180,2,Hot,34,43,Sad,UPI,Dine-In,360
+1324,2025-02-21,07:22,C1238,Lemonade,Beverage,150,2,Sunny,28,46,Sad,Card,Takeaway,300
+1325,2025-03-10,20:38,C1166,Cold Coffee,Beverage,230,1,Rainy,23,87,Relaxed,Cash,Takeaway,230
+1326,2025-11-11,17:45,C1113,Latte,Coffee,200,4,Rainy,24,86,Relaxed,Cash,Dine-In,800
+1327,2025-03-15,10:42,C1128,Latte,Coffee,200,1,Cloudy,26,74,Happy,UPI,Takeaway,200
+1328,2025-04-05,18:42,C1267,Iced Coffee,Coffee,210,3,Cloudy,27,75,Energetic,Cash,Takeaway,630
+1329,2025-03-09,12:27,C1025,Green Tea,Tea,140,2,Cloudy,24,71,Romantic,UPI,Dine-In,280
+1330,2025-01-08,09:40,C1247,Cappuccino,Coffee,180,2,Sunny,30,45,Energetic,Card,Takeaway,360
+1331,2025-04-07,17:55,C1135,Muffin,Dessert,130,4,Rainy,21,90,Energetic,Cash,Takeaway,520
+1332,2025-03-02,18:17,C1250,Chicken Sandwich,Snack,240,3,Rainy,21,87,Stressed,Cash,Takeaway,720
+1333,2025-12-06,08:42,C1188,Muffin,Dessert,130,3,Windy,24,56,Tired,Card,Dine-In,390
+1334,2025-10-06,09:06,C1152,Hot Chocolate,Beverage,220,4,Windy,22,63,Romantic,UPI,Takeaway,880
+1335,2025-06-07,14:27,C1262,Cheesecake,Dessert,240,1,Hot,38,37,Sad,UPI,Dine-In,240
+1336,2025-12-15,10:49,C1078,Cappuccino,Coffee,180,2,Cloudy,26,73,Energetic,Cash,Dine-In,360
+1337,2025-09-30,12:34,C1116,Hot Chocolate,Beverage,220,2,Rainy,20,93,Relaxed,Cash,Dine-In,440
+1338,2025-10-04,16:27,C1268,Muffin,Dessert,130,2,Sunny,31,49,Sad,Card,Takeaway,260
+1339,2025-08-28,12:08,C1160,Pasta,Meal,320,3,Sunny,30,53,Romantic,UPI,Dine-In,960
+1340,2025-01-31,19:26,C1082,Espresso,Coffee,150,2,Rainy,21,86,Sad,Cash,Takeaway,300
+1341,2025-07-20,16:12,C1064,Hot Chocolate,Beverage,220,3,Sunny,30,47,Sad,Cash,Dine-In,660
+1342,2025-04-16,14:09,C1267,Chicken Sandwich,Snack,240,3,Windy,22,65,Happy,Card,Dine-In,720
+1343,2025-11-18,16:30,C1233,Hot Chocolate,Beverage,220,4,Sunny,28,53,Romantic,UPI,Dine-In,880
+1344,2025-06-24,21:17,C1239,Cappuccino,Coffee,180,4,Windy,24,56,Romantic,Card,Dine-In,720
+1345,2025-12-30,18:55,C1046,Cold Coffee,Beverage,230,4,Windy,23,63,Happy,Cash,Takeaway,920
+1346,2025-05-04,20:54,C1054,Chicken Sandwich,Snack,240,4,Windy,25,61,Happy,Card,Takeaway,960
+1347,2025-05-09,17:32,C1007,Green Tea,Tea,140,4,Cloudy,26,70,Happy,UPI,Takeaway,560
+1348,2025-05-05,16:31,C1290,Hot Chocolate,Beverage,220,4,Cloudy,24,72,Energetic,Card,Takeaway,880
+1349,2025-01-22,16:06,C1298,Veg Sandwich,Snack,180,1,Cloudy,24,68,Stressed,Cash,Takeaway,180
+1350,2025-07-21,18:47,C1268,Cappuccino,Coffee,180,3,Cloudy,27,72,Energetic,UPI,Takeaway,540
+1351,2025-11-18,18:49,C1169,Masala Tea,Tea,120,1,Sunny,29,45,Romantic,UPI,Takeaway,120
+1352,2025-07-31,19:01,C1177,Pasta,Meal,320,4,Windy,24,60,Tired,Card,Dine-In,1280
+1353,2025-05-22,14:50,C1286,Cappuccino,Coffee,180,3,Rainy,22,85,Relaxed,Cash,Takeaway,540
+1354,2025-07-25,19:22,C1276,Cold Coffee,Beverage,230,2,Windy,22,60,Stressed,Cash,Dine-In,460
+1355,2025-06-12,20:19,C1096,Latte,Coffee,200,1,Cloudy,26,74,Sad,Card,Dine-In,200
+1356,2025-05-16,20:45,C1082,Brownie,Dessert,160,3,Rainy,23,88,Tired,UPI,Takeaway,480
+1357,2025-01-09,08:12,C1287,Veg Sandwich,Snack,180,3,Hot,38,39,Tired,Cash,Dine-In,540
+1358,2025-07-23,16:44,C1135,Latte,Coffee,200,2,Sunny,32,55,Sad,UPI,Takeaway,400
+1359,2025-09-30,12:25,C1043,Espresso,Coffee,150,4,Sunny,30,54,Energetic,Card,Dine-In,600
+1360,2025-08-15,20:02,C1115,Hot Chocolate,Beverage,220,2,Cloudy,26,65,Sad,Cash,Dine-In,440
+1361,2025-05-06,21:14,C1248,Brownie,Dessert,160,2,Sunny,30,48,Happy,Card,Takeaway,320
+1362,2025-10-12,15:36,C1295,Hot Chocolate,Beverage,220,4,Sunny,32,54,Sad,Card,Takeaway,880
+1363,2025-12-28,19:23,C1277,Cold Coffee,Beverage,230,3,Rainy,22,86,Stressed,Card,Dine-In,690
+1364,2025-12-21,09:20,C1260,Muffin,Dessert,130,2,Windy,26,57,Happy,Cash,Takeaway,260
+1365,2025-10-02,12:06,C1138,Cold Coffee,Beverage,230,2,Cloudy,28,68,Sad,Cash,Dine-In,460
+1366,2025-08-24,16:28,C1230,Brownie,Dessert,160,4,Sunny,29,45,Energetic,Cash,Dine-In,640
+1367,2025-06-27,14:55,C1142,Pasta,Meal,320,2,Sunny,30,46,Romantic,Cash,Takeaway,640
+1368,2025-01-15,18:38,C1232,Brownie,Dessert,160,4,Cloudy,25,71,Relaxed,Card,Takeaway,640
+1369,2025-06-19,10:36,C1162,Cold Coffee,Beverage,230,4,Sunny,32,55,Energetic,UPI,Dine-In,920
+1370,2025-12-31,19:22,C1272,Veg Sandwich,Snack,180,1,Windy,22,64,Happy,Card,Dine-In,180
+1371,2025-04-10,10:38,C1062,Cold Coffee,Beverage,230,2,Windy,22,65,Sad,Card,Dine-In,460
+1372,2025-02-18,13:36,C1176,Pasta,Meal,320,4,Windy,25,62,Relaxed,UPI,Dine-In,1280
+1373,2025-06-09,12:11,C1134,Pasta,Meal,320,4,Hot,37,36,Relaxed,Card,Dine-In,1280
+1374,2025-04-27,12:41,C1011,Chicken Sandwich,Snack,240,1,Rainy,20,91,Stressed,Cash,Dine-In,240
+1375,2025-10-13,07:43,C1168,Green Tea,Tea,140,1,Sunny,32,45,Happy,Card,Takeaway,140
+1376,2025-01-15,19:57,C1256,Veg Sandwich,Snack,180,3,Hot,35,38,Romantic,UPI,Dine-In,540
+1377,2025-06-26,08:55,C1091,Chicken Sandwich,Snack,240,2,Cloudy,28,67,Sad,Cash,Dine-In,480
+1378,2025-08-16,07:39,C1179,Cappuccino,Coffee,180,1,Windy,24,59,Happy,Cash,Dine-In,180
+1379,2025-10-30,15:10,C1173,Lemonade,Beverage,150,1,Rainy,24,85,Energetic,Card,Takeaway,150
+1380,2025-08-18,08:42,C1252,Cheesecake,Dessert,240,1,Rainy,22,85,Relaxed,UPI,Takeaway,240
+1381,2025-01-22,12:03,C1267,Lemonade,Beverage,150,4,Windy,26,56,Tired,UPI,Takeaway,600
+1382,2025-09-27,16:36,C1070,Pasta,Meal,320,4,Windy,23,59,Stressed,Card,Dine-In,1280
+1383,2025-05-30,17:27,C1054,Masala Tea,Tea,120,4,Rainy,23,83,Sad,Card,Takeaway,480
+1384,2025-11-09,13:19,C1022,Brownie,Dessert,160,3,Windy,22,63,Tired,UPI,Dine-In,480
+1385,2025-06-07,21:37,C1025,Pasta,Meal,320,2,Cloudy,24,73,Happy,Card,Takeaway,640
+1386,2025-04-07,12:34,C1190,Cappuccino,Coffee,180,4,Cloudy,28,67,Energetic,Cash,Dine-In,720
+1387,2025-04-20,08:29,C1106,Espresso,Coffee,150,2,Cloudy,24,68,Sad,Cash,Dine-In,300
+1388,2025-01-24,21:24,C1170,Hot Chocolate,Beverage,220,1,Hot,34,38,Romantic,UPI,Takeaway,220
+1389,2025-04-27,12:58,C1133,Muffin,Dessert,130,4,Sunny,29,54,Relaxed,Card,Takeaway,520
+1390,2025-04-15,21:41,C1212,Pasta,Meal,320,3,Rainy,20,89,Tired,Card,Takeaway,960
+1391,2025-04-08,20:49,C1230,Brownie,Dessert,160,3,Cloudy,27,65,Romantic,UPI,Dine-In,480
+1392,2025-02-06,17:07,C1275,Latte,Coffee,200,2,Hot,37,36,Relaxed,Card,Dine-In,400
+1393,2025-05-12,17:45,C1292,Lemonade,Beverage,150,4,Sunny,30,49,Tired,Card,Dine-In,600
+1394,2025-03-03,13:52,C1066,Lemonade,Beverage,150,2,Hot,38,42,Relaxed,Cash,Dine-In,300
+1395,2025-08-29,14:06,C1035,Latte,Coffee,200,2,Sunny,31,47,Happy,UPI,Takeaway,400
+1396,2025-11-12,12:28,C1097,Pasta,Meal,320,2,Rainy,20,93,Energetic,UPI,Takeaway,640
+1397,2025-01-23,16:00,C1237,Espresso,Coffee,150,3,Hot,36,37,Stressed,UPI,Dine-In,450
+1398,2025-07-20,13:09,C1225,Iced Coffee,Coffee,210,1,Sunny,29,50,Romantic,UPI,Takeaway,210
+1399,2025-02-05,20:15,C1030,Veg Sandwich,Snack,180,3,Cloudy,25,73,Stressed,UPI,Dine-In,540
+1400,2025-07-29,15:34,C1074,Cappuccino,Coffee,180,2,Cloudy,26,70,Happy,UPI,Dine-In,360
+1401,2025-01-04,13:00,C1115,Veg Sandwich,Snack,180,1,Windy,26,56,Tired,Cash,Dine-In,180
+1402,2025-10-16,15:04,C1199,Cappuccino,Coffee,180,4,Hot,37,39,Romantic,Card,Dine-In,720
+1403,2025-12-16,14:39,C1233,Iced Coffee,Coffee,210,3,Hot,37,42,Relaxed,Cash,Takeaway,630
+1404,2025-04-25,09:18,C1189,Chicken Sandwich,Snack,240,2,Hot,37,39,Relaxed,Cash,Dine-In,480
+1405,2025-08-10,19:19,C1065,Espresso,Coffee,150,1,Rainy,24,86,Sad,Cash,Takeaway,150
+1406,2025-04-17,13:26,C1238,Lemonade,Beverage,150,4,Rainy,23,90,Sad,Card,Takeaway,600
+1407,2025-06-16,17:25,C1187,Espresso,Coffee,150,2,Sunny,29,54,Relaxed,Card,Takeaway,300
+1408,2025-07-11,17:19,C1232,Hot Chocolate,Beverage,220,4,Sunny,28,53,Romantic,Card,Takeaway,880
+1409,2025-01-27,10:13,C1227,Green Tea,Tea,140,2,Cloudy,28,71,Relaxed,UPI,Dine-In,280
+1410,2025-07-17,16:42,C1206,Espresso,Coffee,150,3,Hot,38,37,Romantic,Cash,Dine-In,450
+1411,2025-03-19,13:20,C1272,Brownie,Dessert,160,2,Hot,35,42,Stressed,Cash,Dine-In,320
+1412,2025-12-13,08:50,C1047,Latte,Coffee,200,1,Sunny,28,50,Tired,Card,Takeaway,200
+1413,2025-04-14,18:09,C1299,Hot Chocolate,Beverage,220,3,Windy,24,64,Stressed,Card,Takeaway,660
+1414,2025-06-23,18:11,C1084,Iced Coffee,Coffee,210,3,Sunny,32,47,Relaxed,Card,Dine-In,630
+1415,2025-09-30,21:39,C1128,Masala Tea,Tea,120,2,Cloudy,27,69,Romantic,UPI,Dine-In,240
+1416,2025-08-16,08:48,C1088,Cappuccino,Coffee,180,2,Hot,37,41,Sad,UPI,Takeaway,360
+1417,2025-08-14,16:36,C1177,Espresso,Coffee,150,4,Hot,37,45,Energetic,Card,Dine-In,600
+1418,2025-07-09,08:11,C1101,Espresso,Coffee,150,3,Cloudy,25,66,Tired,Cash,Takeaway,450
+1419,2025-05-30,18:50,C1214,Cold Coffee,Beverage,230,1,Rainy,23,83,Energetic,UPI,Takeaway,230
+1420,2025-05-10,10:32,C1123,Iced Coffee,Coffee,210,1,Rainy,21,83,Romantic,Cash,Takeaway,210
+1421,2025-05-15,14:27,C1171,Green Tea,Tea,140,1,Sunny,31,55,Happy,Cash,Dine-In,140
+1422,2025-03-08,20:59,C1103,Veg Sandwich,Snack,180,1,Cloudy,24,69,Sad,Card,Takeaway,180
+1423,2025-07-18,07:44,C1263,Chicken Sandwich,Snack,240,3,Cloudy,26,70,Tired,Card,Takeaway,720
+1424,2025-12-29,12:08,C1043,Green Tea,Tea,140,3,Cloudy,27,69,Stressed,Card,Dine-In,420
+1425,2025-12-08,21:20,C1039,Muffin,Dessert,130,1,Sunny,29,46,Relaxed,UPI,Takeaway,130
+1426,2025-02-03,09:36,C1007,Cold Coffee,Beverage,230,2,Windy,22,55,Romantic,Cash,Takeaway,460
+1427,2025-11-13,08:09,C1063,Veg Sandwich,Snack,180,4,Cloudy,26,75,Happy,UPI,Dine-In,720
+1428,2025-04-13,21:47,C1120,Lemonade,Beverage,150,1,Sunny,28,45,Sad,UPI,Dine-In,150
+1429,2025-02-10,13:20,C1096,Chicken Sandwich,Snack,240,2,Rainy,21,90,Energetic,Card,Takeaway,480
+1430,2025-12-13,16:55,C1091,Muffin,Dessert,130,1,Rainy,24,83,Happy,UPI,Takeaway,130
+1431,2025-03-15,21:34,C1165,Veg Sandwich,Snack,180,2,Cloudy,24,68,Relaxed,UPI,Dine-In,360
+1432,2025-07-22,17:53,C1112,Veg Sandwich,Snack,180,3,Cloudy,28,75,Stressed,Card,Takeaway,540
+1433,2025-06-26,18:15,C1083,Cheesecake,Dessert,240,1,Cloudy,26,69,Tired,UPI,Dine-In,240
+1434,2025-02-02,14:22,C1229,Lemonade,Beverage,150,1,Cloudy,27,66,Romantic,UPI,Dine-In,150
+1435,2025-06-13,16:49,C1292,Lemonade,Beverage,150,3,Cloudy,28,75,Happy,Card,Takeaway,450
+1436,2025-08-19,12:47,C1280,Cold Coffee,Beverage,230,4,Rainy,22,90,Stressed,Cash,Dine-In,920
+1437,2025-04-27,16:10,C1207,Cappuccino,Coffee,180,3,Rainy,23,88,Tired,Card,Takeaway,540
+1438,2025-08-20,09:09,C1163,Pasta,Meal,320,4,Rainy,20,85,Tired,Card,Dine-In,1280
+1439,2025-07-24,12:00,C1009,Masala Tea,Tea,120,2,Sunny,29,48,Happy,Card,Takeaway,240
+1440,2025-03-18,11:21,C1282,Hot Chocolate,Beverage,220,1,Rainy,21,87,Tired,Card,Dine-In,220
+1441,2025-04-08,14:38,C1031,Pasta,Meal,320,4,Rainy,21,90,Romantic,Card,Dine-In,1280
+1442,2025-02-04,12:45,C1111,Brownie,Dessert,160,3,Sunny,32,52,Tired,Card,Takeaway,480
+1443,2025-01-07,11:40,C1063,Espresso,Coffee,150,3,Cloudy,28,71,Energetic,Cash,Dine-In,450
+1444,2025-09-29,11:21,C1243,Pasta,Meal,320,3,Windy,23,60,Energetic,UPI,Dine-In,960
+1445,2025-08-17,12:26,C1244,Hot Chocolate,Beverage,220,2,Hot,35,40,Romantic,Card,Takeaway,440
+1446,2025-10-23,19:21,C1118,Pasta,Meal,320,2,Hot,36,45,Energetic,Cash,Dine-In,640
+1447,2025-05-08,14:36,C1076,Brownie,Dessert,160,1,Rainy,20,89,Tired,Cash,Takeaway,160
+1448,2025-02-11,15:31,C1142,Brownie,Dessert,160,3,Sunny,31,48,Tired,Cash,Dine-In,480
+1449,2025-07-06,20:49,C1248,Cappuccino,Coffee,180,4,Sunny,28,50,Stressed,Cash,Dine-In,720
+1450,2025-05-20,12:31,C1062,Green Tea,Tea,140,2,Windy,23,64,Energetic,Card,Dine-In,280
+1451,2025-04-10,15:51,C1006,Cheesecake,Dessert,240,3,Sunny,31,51,Romantic,Card,Takeaway,720
+1452,2025-04-15,09:18,C1239,Cappuccino,Coffee,180,1,Cloudy,27,66,Stressed,UPI,Takeaway,180
+1453,2025-11-17,13:35,C1142,Espresso,Coffee,150,4,Windy,22,59,Sad,UPI,Takeaway,600
+1454,2025-05-26,09:37,C1168,Espresso,Coffee,150,3,Hot,34,35,Tired,Cash,Takeaway,450
+1455,2025-07-08,09:20,C1203,Muffin,Dessert,130,4,Cloudy,27,75,Stressed,UPI,Takeaway,520
+1456,2025-11-10,20:48,C1029,Cappuccino,Coffee,180,3,Rainy,24,83,Energetic,Cash,Dine-In,540
+1457,2025-09-12,08:59,C1121,Latte,Coffee,200,2,Sunny,32,47,Romantic,UPI,Takeaway,400
+1458,2025-07-02,12:05,C1032,Masala Tea,Tea,120,3,Windy,25,61,Energetic,Cash,Takeaway,360
+1459,2025-11-25,19:25,C1082,Pasta,Meal,320,2,Cloudy,24,68,Sad,UPI,Takeaway,640
+1460,2025-04-27,10:03,C1022,Chicken Sandwich,Snack,240,1,Sunny,29,52,Happy,UPI,Dine-In,240
+1461,2025-03-20,20:08,C1149,Cheesecake,Dessert,240,3,Rainy,23,83,Energetic,Card,Dine-In,720
+1462,2025-12-09,18:44,C1118,Masala Tea,Tea,120,1,Sunny,32,45,Relaxed,Cash,Takeaway,120
+1463,2025-01-04,12:44,C1078,Latte,Coffee,200,3,Cloudy,25,71,Relaxed,Cash,Dine-In,600
+1464,2025-11-18,18:39,C1104,Iced Coffee,Coffee,210,3,Cloudy,28,71,Relaxed,Cash,Takeaway,630
+1465,2025-06-21,10:20,C1229,Lemonade,Beverage,150,3,Rainy,22,90,Happy,Cash,Takeaway,450
+1466,2025-04-15,09:07,C1292,Cappuccino,Coffee,180,4,Windy,23,58,Tired,Cash,Takeaway,720
+1467,2025-12-20,17:13,C1118,Lemonade,Beverage,150,3,Rainy,20,93,Romantic,Cash,Takeaway,450
+1468,2025-04-22,15:01,C1256,Iced Coffee,Coffee,210,1,Sunny,29,50,Relaxed,Cash,Takeaway,210
+1469,2025-06-17,14:25,C1147,Veg Sandwich,Snack,180,2,Hot,37,43,Energetic,Cash,Dine-In,360
+1470,2025-02-09,16:06,C1006,Lemonade,Beverage,150,1,Hot,38,35,Tired,Card,Dine-In,150
+1471,2025-06-05,14:24,C1098,Pasta,Meal,320,2,Sunny,30,48,Romantic,Card,Takeaway,640
+1472,2025-02-08,11:26,C1073,Chicken Sandwich,Snack,240,1,Sunny,28,46,Stressed,Card,Takeaway,240
+1473,2025-04-15,08:58,C1058,Chicken Sandwich,Snack,240,1,Hot,37,37,Happy,UPI,Dine-In,240
+1474,2025-08-22,20:56,C1079,Veg Sandwich,Snack,180,3,Sunny,32,52,Happy,UPI,Dine-In,540
+1475,2025-07-23,17:24,C1007,Cappuccino,Coffee,180,1,Rainy,23,89,Relaxed,Cash,Dine-In,180
+1476,2025-12-03,08:49,C1137,Lemonade,Beverage,150,3,Cloudy,27,68,Tired,UPI,Takeaway,450
+1477,2025-04-07,10:44,C1223,Brownie,Dessert,160,1,Hot,34,44,Tired,Cash,Takeaway,160
+1478,2025-04-29,18:54,C1234,Pasta,Meal,320,1,Sunny,28,54,Stressed,Card,Dine-In,320
+1479,2025-07-11,17:57,C1298,Green Tea,Tea,140,2,Rainy,22,89,Relaxed,Card,Takeaway,280
+1480,2025-08-28,12:49,C1209,Iced Coffee,Coffee,210,2,Windy,25,65,Energetic,Card,Takeaway,420
+1481,2025-02-14,16:16,C1231,Lemonade,Beverage,150,2,Rainy,22,93,Sad,Cash,Dine-In,300
+1482,2025-01-22,12:32,C1082,Lemonade,Beverage,150,2,Cloudy,28,75,Tired,Cash,Dine-In,300
+1483,2025-04-16,20:44,C1022,Masala Tea,Tea,120,1,Windy,22,63,Energetic,Cash,Dine-In,120
+1484,2025-10-22,07:16,C1167,Lemonade,Beverage,150,2,Cloudy,26,72,Happy,Cash,Takeaway,300
+1485,2025-10-08,21:25,C1055,Cheesecake,Dessert,240,4,Sunny,30,51,Romantic,UPI,Takeaway,960
+1486,2025-03-21,20:44,C1074,Lemonade,Beverage,150,2,Cloudy,28,66,Sad,UPI,Takeaway,300
+1487,2025-05-04,19:25,C1009,Iced Coffee,Coffee,210,2,Cloudy,24,68,Happy,UPI,Takeaway,420
+1488,2025-03-03,10:11,C1184,Muffin,Dessert,130,1,Sunny,31,46,Sad,Cash,Takeaway,130
+1489,2025-01-06,18:38,C1245,Iced Coffee,Coffee,210,3,Rainy,21,87,Sad,Cash,Dine-In,630
+1490,2025-12-14,14:02,C1197,Brownie,Dessert,160,3,Rainy,22,90,Tired,Cash,Dine-In,480
+1491,2025-08-05,18:37,C1020,Veg Sandwich,Snack,180,3,Hot,37,35,Sad,Card,Dine-In,540
+1492,2025-09-01,11:34,C1173,Latte,Coffee,200,1,Sunny,28,52,Sad,UPI,Takeaway,200
+1493,2025-01-18,12:19,C1066,Cheesecake,Dessert,240,4,Sunny,31,46,Happy,Cash,Dine-In,960
+1494,2025-09-17,14:04,C1275,Cheesecake,Dessert,240,2,Rainy,24,89,Tired,Cash,Dine-In,480
+1495,2025-05-10,16:07,C1084,Pasta,Meal,320,4,Sunny,31,49,Tired,UPI,Takeaway,1280
+1496,2025-11-04,12:27,C1249,Latte,Coffee,200,2,Hot,34,38,Sad,UPI,Dine-In,400
+1497,2025-07-18,19:47,C1115,Cold Coffee,Beverage,230,2,Windy,22,59,Relaxed,Card,Takeaway,460
+1498,2025-04-28,18:28,C1289,Cold Coffee,Beverage,230,1,Sunny,29,47,Romantic,UPI,Takeaway,230
+1499,2025-09-12,12:50,C1279,Pasta,Meal,320,4,Sunny,32,50,Romantic,UPI,Takeaway,1280
+1500,2025-08-31,07:17,C1184,Masala Tea,Tea,120,4,Sunny,28,49,Romantic,Card,Takeaway,480
+1501,2025-09-17,21:15,C1096,Lemonade,Beverage,150,2,Sunny,29,46,Energetic,Cash,Dine-In,300
+1502,2025-08-17,17:34,C1060,Green Tea,Tea,140,3,Rainy,21,92,Sad,Cash,Dine-In,420
+1503,2025-04-29,10:09,C1031,Iced Coffee,Coffee,210,2,Cloudy,27,65,Stressed,Cash,Dine-In,420
+1504,2025-02-27,15:42,C1246,Iced Coffee,Coffee,210,1,Rainy,21,88,Relaxed,UPI,Dine-In,210
+1505,2025-12-06,14:30,C1278,Brownie,Dessert,160,2,Sunny,31,53,Romantic,UPI,Dine-In,320
+1506,2025-12-08,09:54,C1038,Cheesecake,Dessert,240,2,Hot,34,42,Energetic,Cash,Dine-In,480
+1507,2025-05-07,17:48,C1222,Masala Tea,Tea,120,3,Hot,36,41,Happy,UPI,Takeaway,360
+1508,2025-07-22,07:12,C1066,Chicken Sandwich,Snack,240,3,Rainy,24,86,Romantic,Card,Takeaway,720
+1509,2025-11-27,20:48,C1039,Chicken Sandwich,Snack,240,2,Sunny,32,49,Sad,Card,Dine-In,480
+1510,2025-08-02,08:35,C1202,Latte,Coffee,200,2,Windy,22,60,Stressed,Card,Takeaway,400
+1511,2025-11-29,19:58,C1241,Green Tea,Tea,140,3,Windy,26,60,Stressed,Cash,Takeaway,420
+1512,2025-07-17,19:55,C1273,Muffin,Dessert,130,2,Rainy,20,90,Stressed,Cash,Dine-In,260
+1513,2025-05-09,17:17,C1161,Lemonade,Beverage,150,3,Hot,38,43,Relaxed,Card,Dine-In,450
+1514,2025-10-17,10:22,C1143,Iced Coffee,Coffee,210,2,Windy,26,65,Sad,Card,Takeaway,420
+1515,2025-12-09,17:12,C1186,Cold Coffee,Beverage,230,2,Windy,24,58,Romantic,Cash,Takeaway,460
+1516,2025-04-15,19:29,C1106,Veg Sandwich,Snack,180,2,Sunny,30,55,Relaxed,Cash,Takeaway,360
+1517,2025-04-04,21:41,C1139,Cold Coffee,Beverage,230,4,Rainy,23,90,Romantic,Cash,Takeaway,920
+1518,2025-10-03,12:09,C1002,Iced Coffee,Coffee,210,1,Sunny,31,53,Sad,UPI,Dine-In,210
+1519,2025-05-11,21:31,C1027,Brownie,Dessert,160,3,Cloudy,27,68,Stressed,Card,Takeaway,480
+1520,2025-11-01,08:30,C1186,Masala Tea,Tea,120,4,Rainy,21,85,Happy,UPI,Dine-In,480
+1521,2025-02-05,11:06,C1105,Cheesecake,Dessert,240,3,Sunny,28,55,Sad,UPI,Dine-In,720
+1522,2025-01-06,08:21,C1293,Veg Sandwich,Snack,180,3,Sunny,29,48,Relaxed,Card,Takeaway,540
+1523,2025-05-02,09:01,C1278,Cheesecake,Dessert,240,3,Windy,23,61,Relaxed,Cash,Dine-In,720
+1524,2025-03-24,08:36,C1209,Pasta,Meal,320,3,Windy,22,56,Relaxed,UPI,Dine-In,960
+1525,2025-08-24,16:10,C1123,Lemonade,Beverage,150,2,Hot,36,36,Happy,Cash,Takeaway,300
+1526,2025-08-11,16:55,C1042,Veg Sandwich,Snack,180,4,Rainy,21,84,Tired,Card,Takeaway,720
+1527,2025-08-15,09:47,C1140,Lemonade,Beverage,150,4,Hot,37,35,Energetic,UPI,Takeaway,600
+1528,2025-08-12,19:56,C1199,Cheesecake,Dessert,240,3,Rainy,23,91,Energetic,Card,Dine-In,720
+1529,2025-07-10,09:45,C1161,Latte,Coffee,200,4,Sunny,31,48,Relaxed,Card,Takeaway,800
+1530,2025-05-21,10:45,C1289,Iced Coffee,Coffee,210,2,Rainy,23,83,Romantic,UPI,Dine-In,420
+1531,2025-08-20,18:51,C1252,Cappuccino,Coffee,180,4,Cloudy,26,71,Happy,Card,Takeaway,720
+1532,2025-08-06,08:27,C1081,Iced Coffee,Coffee,210,3,Sunny,30,49,Sad,UPI,Dine-In,630
+1533,2025-10-27,17:33,C1118,Veg Sandwich,Snack,180,2,Windy,25,60,Happy,UPI,Dine-In,360
+1534,2025-02-17,16:44,C1077,Cheesecake,Dessert,240,1,Sunny,32,49,Sad,Card,Dine-In,240
+1535,2025-08-12,11:55,C1035,Lemonade,Beverage,150,2,Sunny,30,47,Energetic,UPI,Dine-In,300
+1536,2025-11-14,07:36,C1121,Chicken Sandwich,Snack,240,2,Sunny,31,51,Relaxed,UPI,Dine-In,480
+1537,2025-11-05,18:04,C1237,Latte,Coffee,200,1,Sunny,29,53,Happy,Cash,Takeaway,200
+1538,2025-04-02,09:34,C1088,Lemonade,Beverage,150,2,Sunny,28,50,Tired,Card,Dine-In,300
+1539,2025-09-14,15:57,C1068,Cappuccino,Coffee,180,4,Sunny,28,52,Relaxed,UPI,Takeaway,720
+1540,2025-10-21,19:17,C1022,Brownie,Dessert,160,2,Rainy,20,86,Relaxed,UPI,Takeaway,320
+1541,2025-03-11,07:18,C1207,Brownie,Dessert,160,4,Cloudy,27,73,Energetic,Cash,Takeaway,640
+1542,2025-11-28,15:22,C1258,Cold Coffee,Beverage,230,4,Windy,26,61,Relaxed,Card,Dine-In,920
+1543,2025-01-19,10:04,C1196,Veg Sandwich,Snack,180,3,Windy,22,64,Sad,Card,Takeaway,540
+1544,2025-07-11,07:20,C1076,Brownie,Dessert,160,2,Windy,23,61,Tired,Card,Dine-In,320
+1545,2025-11-29,19:19,C1250,Masala Tea,Tea,120,2,Sunny,29,52,Stressed,Card,Takeaway,240
+1546,2025-12-31,14:23,C1075,Lemonade,Beverage,150,2,Rainy,23,83,Relaxed,Cash,Dine-In,300
+1547,2025-06-01,12:03,C1151,Green Tea,Tea,140,4,Hot,37,36,Energetic,Card,Takeaway,560
+1548,2025-01-21,21:55,C1260,Muffin,Dessert,130,4,Sunny,30,48,Stressed,UPI,Dine-In,520
+1549,2025-02-21,09:47,C1267,Pasta,Meal,320,3,Sunny,32,48,Romantic,Card,Dine-In,960
+1550,2025-08-18,13:21,C1027,Cold Coffee,Beverage,230,4,Rainy,22,87,Stressed,Cash,Dine-In,920
+1551,2025-08-13,19:31,C1035,Masala Tea,Tea,120,1,Cloudy,28,74,Energetic,UPI,Takeaway,120
+1552,2025-06-19,17:45,C1197,Brownie,Dessert,160,3,Sunny,29,46,Energetic,Card,Takeaway,480
+1553,2025-04-23,07:02,C1100,Iced Coffee,Coffee,210,1,Hot,35,41,Energetic,Card,Dine-In,210
+1554,2025-08-07,15:36,C1020,Iced Coffee,Coffee,210,2,Sunny,28,47,Tired,Card,Takeaway,420
+1555,2025-02-03,10:29,C1236,Lemonade,Beverage,150,2,Hot,37,36,Happy,Card,Takeaway,300
+1556,2025-08-29,11:36,C1267,Cheesecake,Dessert,240,3,Cloudy,26,73,Relaxed,Cash,Takeaway,720
+1557,2025-11-01,19:57,C1169,Hot Chocolate,Beverage,220,2,Windy,25,62,Stressed,Cash,Takeaway,440
+1558,2025-09-13,18:25,C1076,Cappuccino,Coffee,180,3,Windy,24,56,Tired,Cash,Dine-In,540
+1559,2025-04-23,21:15,C1212,Brownie,Dessert,160,2,Hot,38,43,Stressed,Cash,Takeaway,320
+1560,2025-08-03,16:21,C1034,Iced Coffee,Coffee,210,1,Sunny,32,52,Romantic,Card,Dine-In,210
+1561,2025-08-12,13:52,C1061,Masala Tea,Tea,120,2,Rainy,20,88,Stressed,Card,Dine-In,240
+1562,2025-09-07,21:31,C1121,Lemonade,Beverage,150,4,Cloudy,27,71,Tired,Card,Dine-In,600
+1563,2025-11-09,19:10,C1043,Green Tea,Tea,140,2,Cloudy,28,71,Tired,UPI,Dine-In,280
+1564,2025-02-12,19:47,C1078,Cappuccino,Coffee,180,2,Cloudy,27,66,Tired,UPI,Dine-In,360
+1565,2025-08-30,09:02,C1183,Espresso,Coffee,150,3,Hot,36,45,Romantic,Cash,Dine-In,450
+1566,2025-01-21,09:57,C1001,Iced Coffee,Coffee,210,3,Sunny,32,46,Happy,UPI,Dine-In,630
+1567,2025-07-20,20:31,C1146,Latte,Coffee,200,3,Cloudy,28,73,Happy,UPI,Dine-In,600
+1568,2025-08-25,16:54,C1115,Iced Coffee,Coffee,210,2,Cloudy,28,66,Sad,Cash,Takeaway,420
+1569,2025-01-17,13:54,C1157,Green Tea,Tea,140,2,Cloudy,27,70,Energetic,Card,Takeaway,280
+1570,2025-08-03,19:59,C1077,Hot Chocolate,Beverage,220,3,Cloudy,25,68,Sad,Cash,Dine-In,660
+1571,2025-01-19,08:03,C1038,Veg Sandwich,Snack,180,1,Sunny,31,47,Relaxed,Card,Takeaway,180
+1572,2025-12-19,12:37,C1283,Hot Chocolate,Beverage,220,4,Rainy,20,93,Romantic,Cash,Takeaway,880
+1573,2025-12-30,10:57,C1034,Brownie,Dessert,160,1,Rainy,23,86,Stressed,UPI,Dine-In,160
+1574,2025-05-10,13:11,C1069,Muffin,Dessert,130,4,Rainy,23,88,Sad,Card,Takeaway,520
+1575,2025-12-04,12:58,C1048,Cold Coffee,Beverage,230,2,Sunny,29,49,Sad,Card,Takeaway,460
+1576,2025-03-17,07:56,C1093,Espresso,Coffee,150,2,Cloudy,27,69,Relaxed,Card,Dine-In,300
+1577,2025-01-05,17:23,C1054,Pasta,Meal,320,3,Windy,24,60,Happy,Card,Dine-In,960
+1578,2025-04-19,09:21,C1101,Chicken Sandwich,Snack,240,3,Cloudy,28,74,Energetic,Card,Dine-In,720
+1579,2025-08-21,18:37,C1171,Cheesecake,Dessert,240,3,Cloudy,27,65,Stressed,UPI,Takeaway,720
+1580,2025-10-29,17:50,C1293,Latte,Coffee,200,4,Windy,25,62,Energetic,UPI,Takeaway,800
+1581,2025-10-30,10:28,C1297,Iced Coffee,Coffee,210,3,Hot,34,38,Romantic,Card,Takeaway,630
+1582,2025-05-16,07:33,C1002,Hot Chocolate,Beverage,220,1,Sunny,31,48,Sad,Card,Dine-In,220
+1583,2025-02-08,19:51,C1027,Iced Coffee,Coffee,210,4,Sunny,30,54,Romantic,Card,Dine-In,840
+1584,2025-10-01,17:35,C1169,Iced Coffee,Coffee,210,1,Hot,37,43,Romantic,UPI,Dine-In,210
+1585,2025-01-08,17:27,C1067,Latte,Coffee,200,3,Cloudy,27,65,Happy,Cash,Takeaway,600
+1586,2025-03-28,17:18,C1084,Chicken Sandwich,Snack,240,3,Rainy,23,86,Romantic,Card,Dine-In,720
+1587,2025-05-28,11:34,C1002,Pasta,Meal,320,1,Sunny,29,46,Tired,UPI,Dine-In,320
+1588,2025-05-19,09:07,C1262,Cold Coffee,Beverage,230,4,Rainy,24,91,Sad,UPI,Takeaway,920
+1589,2025-12-09,16:17,C1199,Cold Coffee,Beverage,230,1,Rainy,20,88,Relaxed,UPI,Takeaway,230
+1590,2025-01-10,21:58,C1083,Veg Sandwich,Snack,180,1,Hot,35,37,Stressed,Cash,Dine-In,180
+1591,2025-09-03,21:48,C1263,Chicken Sandwich,Snack,240,3,Sunny,31,51,Happy,Card,Dine-In,720
+1592,2025-03-27,10:39,C1254,Chicken Sandwich,Snack,240,4,Windy,22,58,Tired,Cash,Takeaway,960
+1593,2025-07-18,12:41,C1002,Green Tea,Tea,140,2,Hot,34,42,Relaxed,Cash,Takeaway,280
+1594,2025-01-09,17:59,C1238,Green Tea,Tea,140,3,Rainy,20,88,Tired,UPI,Dine-In,420
+1595,2025-02-19,16:33,C1283,Cheesecake,Dessert,240,1,Cloudy,27,72,Energetic,Cash,Takeaway,240
+1596,2025-03-03,16:51,C1020,Cappuccino,Coffee,180,3,Sunny,32,51,Stressed,UPI,Dine-In,540
+1597,2025-06-03,17:08,C1211,Pasta,Meal,320,3,Windy,23,59,Stressed,UPI,Takeaway,960
+1598,2025-02-08,14:19,C1095,Pasta,Meal,320,3,Rainy,20,87,Stressed,Cash,Dine-In,960
+1599,2025-03-12,21:33,C1171,Veg Sandwich,Snack,180,1,Rainy,20,87,Tired,Card,Dine-In,180
+1600,2025-04-04,16:13,C1282,Veg Sandwich,Snack,180,1,Sunny,30,49,Tired,Cash,Dine-In,180
+1601,2025-12-31,15:59,C1021,Veg Sandwich,Snack,180,3,Hot,36,36,Sad,Card,Takeaway,540
+1602,2025-02-17,17:21,C1055,Iced Coffee,Coffee,210,1,Sunny,28,54,Happy,Card,Dine-In,210
+1603,2025-08-29,19:23,C1127,Masala Tea,Tea,120,1,Sunny,32,53,Tired,UPI,Takeaway,120
+1604,2025-03-28,09:41,C1065,Lemonade,Beverage,150,1,Cloudy,24,72,Relaxed,UPI,Dine-In,150
+1605,2025-07-28,07:43,C1122,Cheesecake,Dessert,240,3,Cloudy,25,72,Energetic,UPI,Takeaway,720
+1606,2025-04-19,16:42,C1208,Masala Tea,Tea,120,2,Windy,24,60,Relaxed,Cash,Takeaway,240
+1607,2025-10-24,11:17,C1255,Hot Chocolate,Beverage,220,1,Cloudy,26,75,Energetic,UPI,Dine-In,220
+1608,2025-07-27,16:12,C1298,Pasta,Meal,320,3,Cloudy,28,67,Tired,UPI,Dine-In,960
+1609,2025-03-09,18:02,C1069,Hot Chocolate,Beverage,220,2,Cloudy,24,75,Sad,UPI,Takeaway,440
+1610,2025-02-27,16:00,C1175,Chicken Sandwich,Snack,240,2,Cloudy,24,71,Happy,UPI,Takeaway,480
+1611,2025-03-15,09:46,C1266,Chicken Sandwich,Snack,240,1,Hot,36,41,Sad,Cash,Takeaway,240
+1612,2025-08-16,17:12,C1125,Muffin,Dessert,130,2,Sunny,30,48,Tired,Card,Takeaway,260
+1613,2025-05-21,13:03,C1031,Iced Coffee,Coffee,210,1,Rainy,21,83,Tired,Cash,Takeaway,210
+1614,2025-09-26,11:13,C1091,Masala Tea,Tea,120,1,Hot,35,39,Stressed,Card,Dine-In,120
+1615,2025-08-31,19:48,C1115,Cheesecake,Dessert,240,1,Cloudy,26,69,Romantic,Card,Dine-In,240
+1616,2025-12-19,20:17,C1113,Muffin,Dessert,130,4,Hot,36,37,Sad,Card,Dine-In,520
+1617,2025-01-09,19:15,C1075,Chicken Sandwich,Snack,240,4,Rainy,24,91,Romantic,UPI,Takeaway,960
+1618,2025-07-09,15:16,C1207,Pasta,Meal,320,1,Sunny,32,49,Romantic,UPI,Dine-In,320
+1619,2025-10-18,21:06,C1295,Hot Chocolate,Beverage,220,3,Sunny,29,55,Energetic,Cash,Dine-In,660
+1620,2025-11-18,14:33,C1291,Cappuccino,Coffee,180,2,Hot,36,43,Sad,Card,Dine-In,360
+1621,2025-09-04,10:11,C1140,Latte,Coffee,200,3,Cloudy,27,69,Romantic,Cash,Dine-In,600
+1622,2025-11-18,13:42,C1126,Muffin,Dessert,130,3,Sunny,31,54,Relaxed,Card,Dine-In,390
+1623,2025-06-22,12:30,C1288,Cold Coffee,Beverage,230,2,Cloudy,27,68,Sad,UPI,Dine-In,460
+1624,2025-02-22,16:57,C1212,Espresso,Coffee,150,2,Rainy,20,86,Sad,Cash,Dine-In,300
+1625,2025-02-22,17:35,C1050,Brownie,Dessert,160,2,Sunny,29,48,Stressed,UPI,Takeaway,320
+1626,2025-01-06,21:37,C1048,Masala Tea,Tea,120,1,Hot,38,42,Relaxed,Card,Dine-In,120
+1627,2025-11-10,08:05,C1124,Cold Coffee,Beverage,230,3,Windy,26,65,Tired,UPI,Takeaway,690
+1628,2025-12-19,11:34,C1211,Espresso,Coffee,150,1,Hot,37,38,Tired,Card,Dine-In,150
+1629,2025-02-15,15:37,C1232,Hot Chocolate,Beverage,220,3,Sunny,30,50,Tired,Cash,Dine-In,660
+1630,2025-01-14,18:06,C1081,Chicken Sandwich,Snack,240,1,Cloudy,25,67,Tired,UPI,Dine-In,240
+1631,2025-04-02,10:52,C1231,Hot Chocolate,Beverage,220,2,Sunny,31,45,Romantic,UPI,Dine-In,440
+1632,2025-01-17,08:46,C1079,Lemonade,Beverage,150,2,Rainy,22,93,Sad,Cash,Dine-In,300
+1633,2025-03-23,14:24,C1216,Cappuccino,Coffee,180,2,Rainy,24,85,Romantic,UPI,Dine-In,360
+1634,2025-03-22,10:04,C1267,Espresso,Coffee,150,4,Sunny,29,47,Stressed,Cash,Takeaway,600
+1635,2025-08-20,09:53,C1228,Veg Sandwich,Snack,180,2,Hot,37,37,Energetic,Card,Takeaway,360
+1636,2025-05-14,16:13,C1275,Lemonade,Beverage,150,1,Sunny,30,51,Tired,Card,Dine-In,150
+1637,2025-10-25,08:50,C1058,Pasta,Meal,320,2,Hot,35,43,Tired,Cash,Takeaway,640
+1638,2025-07-22,21:41,C1065,Veg Sandwich,Snack,180,2,Sunny,29,53,Relaxed,UPI,Dine-In,360
+1639,2025-09-18,20:38,C1269,Cheesecake,Dessert,240,1,Sunny,32,46,Stressed,Cash,Dine-In,240
+1640,2025-05-13,11:21,C1106,Cheesecake,Dessert,240,2,Windy,22,61,Sad,UPI,Dine-In,480
+1641,2025-12-24,17:05,C1280,Cheesecake,Dessert,240,2,Cloudy,24,71,Romantic,UPI,Takeaway,480
+1642,2025-08-24,09:43,C1013,Iced Coffee,Coffee,210,3,Sunny,28,45,Tired,Cash,Dine-In,630
+1643,2025-02-12,12:10,C1051,Cold Coffee,Beverage,230,1,Sunny,29,52,Tired,Card,Takeaway,230
+1644,2025-01-30,19:40,C1059,Pasta,Meal,320,1,Cloudy,26,70,Sad,Cash,Takeaway,320
+1645,2025-05-30,11:10,C1148,Latte,Coffee,200,2,Cloudy,28,73,Sad,Card,Dine-In,400
+1646,2025-03-19,09:52,C1241,Cold Coffee,Beverage,230,3,Cloudy,24,70,Sad,UPI,Takeaway,690
+1647,2025-08-28,07:02,C1177,Veg Sandwich,Snack,180,1,Sunny,30,48,Sad,Cash,Takeaway,180
+1648,2025-02-15,12:46,C1063,Cheesecake,Dessert,240,3,Cloudy,27,71,Energetic,UPI,Takeaway,720
+1649,2025-03-18,19:17,C1188,Cheesecake,Dessert,240,2,Hot,36,45,Happy,Card,Dine-In,480
+1650,2025-10-23,13:46,C1124,Cappuccino,Coffee,180,1,Cloudy,24,71,Relaxed,Card,Takeaway,180
+1651,2025-11-13,12:50,C1025,Cappuccino,Coffee,180,2,Sunny,28,49,Tired,UPI,Takeaway,360
+1652,2025-05-10,20:33,C1281,Latte,Coffee,200,1,Sunny,30,55,Relaxed,Card,Takeaway,200
+1653,2025-05-08,15:12,C1125,Masala Tea,Tea,120,2,Cloudy,24,71,Stressed,UPI,Dine-In,240
+1654,2025-03-14,18:25,C1158,Veg Sandwich,Snack,180,3,Cloudy,28,74,Romantic,Card,Takeaway,540
+1655,2025-03-23,07:15,C1271,Lemonade,Beverage,150,4,Windy,23,60,Romantic,Card,Dine-In,600
+1656,2025-02-23,11:49,C1200,Iced Coffee,Coffee,210,1,Rainy,20,89,Stressed,UPI,Takeaway,210
+1657,2025-07-11,19:18,C1175,Muffin,Dessert,130,1,Sunny,29,55,Stressed,Cash,Dine-In,130
+1658,2025-05-31,10:55,C1211,Lemonade,Beverage,150,1,Cloudy,27,71,Stressed,Card,Takeaway,150
+1659,2025-09-20,16:52,C1285,Cheesecake,Dessert,240,1,Windy,22,60,Relaxed,Cash,Dine-In,240
+1660,2025-05-22,12:46,C1175,Espresso,Coffee,150,4,Cloudy,24,75,Romantic,UPI,Takeaway,600
+1661,2025-12-18,17:03,C1182,Muffin,Dessert,130,3,Sunny,29,48,Tired,UPI,Takeaway,390
+1662,2025-10-28,12:56,C1053,Pasta,Meal,320,1,Rainy,21,85,Tired,UPI,Dine-In,320
+1663,2025-12-31,16:29,C1102,Cheesecake,Dessert,240,4,Cloudy,24,73,Happy,UPI,Dine-In,960
+1664,2025-11-20,17:12,C1209,Brownie,Dessert,160,2,Sunny,30,48,Happy,UPI,Dine-In,320
+1665,2025-02-12,21:48,C1237,Veg Sandwich,Snack,180,4,Windy,24,61,Happy,Cash,Takeaway,720
+1666,2025-10-10,18:55,C1014,Cheesecake,Dessert,240,1,Sunny,29,48,Tired,UPI,Dine-In,240
+1667,2025-06-21,19:26,C1194,Latte,Coffee,200,2,Windy,26,55,Relaxed,Card,Takeaway,400
+1668,2025-11-23,18:31,C1213,Iced Coffee,Coffee,210,3,Windy,26,56,Romantic,UPI,Dine-In,630
+1669,2025-07-20,12:39,C1037,Cold Coffee,Beverage,230,3,Sunny,28,46,Stressed,UPI,Takeaway,690
+1670,2025-02-25,15:18,C1014,Hot Chocolate,Beverage,220,2,Rainy,23,88,Tired,Cash,Dine-In,440
+1671,2025-07-28,10:10,C1076,Muffin,Dessert,130,2,Hot,38,44,Energetic,UPI,Dine-In,260
+1672,2025-08-20,11:21,C1151,Green Tea,Tea,140,4,Sunny,30,45,Romantic,UPI,Takeaway,560
+1673,2025-01-22,20:23,C1203,Chicken Sandwich,Snack,240,1,Windy,24,58,Sad,Card,Takeaway,240
+1674,2025-01-24,15:44,C1099,Latte,Coffee,200,1,Cloudy,27,65,Happy,UPI,Dine-In,200
+1675,2025-07-04,13:25,C1234,Lemonade,Beverage,150,1,Windy,22,61,Relaxed,UPI,Takeaway,150
+1676,2025-04-19,08:11,C1221,Cold Coffee,Beverage,230,2,Sunny,30,50,Happy,Cash,Dine-In,460
+1677,2025-08-12,16:06,C1108,Brownie,Dessert,160,4,Rainy,24,93,Relaxed,Cash,Takeaway,640
+1678,2025-05-29,18:02,C1271,Latte,Coffee,200,2,Rainy,24,83,Tired,Card,Dine-In,400
+1679,2025-06-25,11:15,C1192,Brownie,Dessert,160,2,Rainy,21,86,Romantic,Cash,Dine-In,320
+1680,2025-01-28,08:42,C1025,Green Tea,Tea,140,4,Cloudy,24,74,Tired,Cash,Takeaway,560
+1681,2025-10-17,16:45,C1232,Latte,Coffee,200,3,Sunny,29,45,Romantic,Card,Dine-In,600
+1682,2025-07-26,19:38,C1152,Pasta,Meal,320,4,Windy,26,61,Tired,Cash,Takeaway,1280
+1683,2025-02-15,21:33,C1292,Iced Coffee,Coffee,210,2,Cloudy,26,74,Sad,UPI,Dine-In,420
+1684,2025-06-19,16:06,C1100,Iced Coffee,Coffee,210,1,Windy,24,64,Energetic,UPI,Dine-In,210
+1685,2025-02-25,09:53,C1289,Cold Coffee,Beverage,230,2,Sunny,29,51,Sad,Cash,Dine-In,460
+1686,2025-07-28,16:44,C1214,Cappuccino,Coffee,180,4,Sunny,28,52,Tired,UPI,Takeaway,720
+1687,2025-03-31,18:13,C1186,Iced Coffee,Coffee,210,2,Cloudy,25,70,Romantic,Cash,Dine-In,420
+1688,2025-09-24,09:42,C1209,Lemonade,Beverage,150,1,Windy,24,55,Stressed,Cash,Dine-In,150
+1689,2025-03-14,21:44,C1184,Veg Sandwich,Snack,180,4,Rainy,24,85,Sad,Cash,Dine-In,720
+1690,2025-08-11,17:17,C1038,Latte,Coffee,200,4,Cloudy,26,71,Romantic,UPI,Dine-In,800
+1691,2025-10-15,14:51,C1271,Masala Tea,Tea,120,1,Cloudy,25,68,Tired,Card,Takeaway,120
+1692,2025-03-03,11:53,C1160,Hot Chocolate,Beverage,220,3,Rainy,21,86,Energetic,Cash,Takeaway,660
+1693,2025-11-17,21:02,C1115,Muffin,Dessert,130,1,Windy,23,62,Tired,UPI,Dine-In,130
+1694,2025-12-08,20:32,C1060,Masala Tea,Tea,120,4,Hot,37,36,Happy,Card,Dine-In,480
+1695,2025-02-08,08:42,C1193,Hot Chocolate,Beverage,220,3,Windy,22,55,Happy,Cash,Dine-In,660
+1696,2025-11-10,17:17,C1233,Latte,Coffee,200,3,Cloudy,24,70,Happy,Card,Dine-In,600
+1697,2025-11-19,15:12,C1189,Muffin,Dessert,130,4,Cloudy,25,65,Romantic,UPI,Takeaway,520
+1698,2025-05-19,07:57,C1030,Brownie,Dessert,160,4,Rainy,22,89,Relaxed,Cash,Takeaway,640
+1699,2025-03-13,18:25,C1010,Cold Coffee,Beverage,230,4,Cloudy,28,67,Stressed,Cash,Dine-In,920
+1700,2025-09-09,18:40,C1035,Muffin,Dessert,130,4,Hot,34,37,Energetic,Card,Dine-In,520
+1701,2025-07-23,21:33,C1233,Chicken Sandwich,Snack,240,3,Sunny,29,48,Relaxed,UPI,Dine-In,720
+1702,2025-03-09,21:20,C1279,Green Tea,Tea,140,2,Sunny,31,46,Sad,UPI,Takeaway,280
+1703,2025-01-06,10:54,C1001,Lemonade,Beverage,150,2,Cloudy,24,74,Relaxed,Card,Dine-In,300
+1704,2025-04-23,19:27,C1177,Hot Chocolate,Beverage,220,3,Sunny,31,53,Energetic,Card,Dine-In,660
+1705,2025-04-08,10:28,C1087,Latte,Coffee,200,3,Rainy,24,83,Romantic,Cash,Takeaway,600
+1706,2025-01-25,09:55,C1146,Masala Tea,Tea,120,3,Cloudy,24,71,Stressed,UPI,Dine-In,360
+1707,2025-08-20,10:43,C1238,Iced Coffee,Coffee,210,1,Rainy,24,84,Relaxed,Cash,Takeaway,210
+1708,2025-12-08,15:10,C1252,Lemonade,Beverage,150,2,Sunny,29,55,Happy,Cash,Dine-In,300
+1709,2025-02-22,17:12,C1252,Iced Coffee,Coffee,210,4,Sunny,32,50,Romantic,Cash,Takeaway,840
+1710,2025-04-30,19:27,C1264,Muffin,Dessert,130,2,Hot,38,38,Happy,UPI,Takeaway,260
+1711,2025-07-29,07:21,C1279,Hot Chocolate,Beverage,220,4,Hot,34,42,Tired,Cash,Takeaway,880
+1712,2025-07-26,17:59,C1255,Latte,Coffee,200,4,Rainy,20,89,Tired,UPI,Takeaway,800
+1713,2025-09-23,19:51,C1074,Espresso,Coffee,150,1,Rainy,20,89,Energetic,UPI,Dine-In,150
+1714,2025-04-03,10:40,C1188,Green Tea,Tea,140,3,Cloudy,24,71,Romantic,UPI,Takeaway,420
+1715,2025-10-04,14:59,C1090,Latte,Coffee,200,3,Rainy,21,84,Energetic,UPI,Dine-In,600
+1716,2025-06-17,16:25,C1121,Brownie,Dessert,160,1,Cloudy,28,75,Stressed,Card,Takeaway,160
+1717,2025-10-07,20:01,C1018,Espresso,Coffee,150,2,Hot,34,40,Tired,Cash,Dine-In,300
+1718,2025-12-06,20:34,C1153,Masala Tea,Tea,120,3,Cloudy,26,75,Relaxed,Cash,Takeaway,360
+1719,2025-11-09,15:35,C1280,Chicken Sandwich,Snack,240,1,Cloudy,26,70,Sad,Cash,Takeaway,240
+1720,2025-01-19,18:41,C1206,Brownie,Dessert,160,1,Rainy,21,86,Energetic,Card,Takeaway,160
+1721,2025-09-02,10:34,C1195,Cold Coffee,Beverage,230,2,Sunny,32,52,Stressed,UPI,Dine-In,460
+1722,2025-11-18,17:29,C1224,Brownie,Dessert,160,4,Rainy,21,92,Energetic,Cash,Takeaway,640
+1723,2025-03-20,20:53,C1020,Espresso,Coffee,150,3,Cloudy,25,72,Romantic,Cash,Takeaway,450
+1724,2025-12-15,15:00,C1138,Masala Tea,Tea,120,2,Cloudy,25,70,Happy,UPI,Takeaway,240
+1725,2025-07-19,13:46,C1064,Veg Sandwich,Snack,180,3,Cloudy,28,65,Happy,UPI,Takeaway,540
+1726,2025-10-05,09:49,C1269,Pasta,Meal,320,3,Hot,36,39,Relaxed,Card,Takeaway,960
+1727,2025-10-31,13:12,C1127,Espresso,Coffee,150,3,Windy,26,59,Relaxed,Cash,Dine-In,450
+1728,2025-12-16,15:47,C1294,Veg Sandwich,Snack,180,3,Windy,23,58,Energetic,UPI,Takeaway,540
+1729,2025-07-27,09:16,C1176,Latte,Coffee,200,3,Sunny,30,52,Relaxed,Card,Dine-In,600
+1730,2025-10-22,09:25,C1190,Veg Sandwich,Snack,180,2,Hot,35,40,Energetic,UPI,Dine-In,360
+1731,2025-09-16,08:35,C1266,Pasta,Meal,320,4,Rainy,20,93,Sad,Card,Takeaway,1280
+1732,2025-10-14,12:01,C1004,Veg Sandwich,Snack,180,3,Windy,24,59,Relaxed,UPI,Takeaway,540
+1733,2025-11-18,16:07,C1248,Lemonade,Beverage,150,1,Hot,34,42,Energetic,UPI,Dine-In,150
+1734,2025-04-12,15:53,C1187,Pasta,Meal,320,3,Cloudy,26,65,Happy,UPI,Takeaway,960
+1735,2025-06-07,08:20,C1111,Iced Coffee,Coffee,210,4,Sunny,30,48,Happy,Cash,Dine-In,840
+1736,2025-07-07,16:56,C1219,Hot Chocolate,Beverage,220,4,Rainy,24,84,Relaxed,Card,Takeaway,880
+1737,2025-01-24,07:39,C1045,Iced Coffee,Coffee,210,2,Cloudy,24,69,Tired,UPI,Takeaway,420
+1738,2025-04-01,14:24,C1031,Veg Sandwich,Snack,180,1,Cloudy,28,72,Energetic,Cash,Dine-In,180
+1739,2025-09-02,07:17,C1179,Green Tea,Tea,140,2,Sunny,32,53,Energetic,Card,Dine-In,280
+1740,2025-03-12,21:21,C1213,Cheesecake,Dessert,240,4,Rainy,22,92,Energetic,Card,Takeaway,960
+1741,2025-05-24,11:55,C1144,Espresso,Coffee,150,2,Rainy,22,91,Stressed,Cash,Takeaway,300
+1742,2025-10-29,13:23,C1258,Cold Coffee,Beverage,230,3,Windy,26,59,Relaxed,UPI,Takeaway,690
+1743,2025-11-11,21:07,C1004,Latte,Coffee,200,4,Hot,34,37,Tired,UPI,Dine-In,800
+1744,2025-03-21,19:19,C1068,Green Tea,Tea,140,2,Cloudy,25,66,Relaxed,Cash,Dine-In,280
+1745,2025-06-16,20:20,C1268,Latte,Coffee,200,2,Sunny,30,52,Happy,UPI,Takeaway,400
+1746,2025-10-12,18:11,C1197,Chicken Sandwich,Snack,240,1,Sunny,30,53,Energetic,Card,Takeaway,240
+1747,2025-03-15,14:54,C1212,Pasta,Meal,320,2,Rainy,23,87,Romantic,UPI,Dine-In,640
+1748,2025-03-08,12:54,C1270,Cheesecake,Dessert,240,2,Hot,36,38,Happy,UPI,Dine-In,480
+1749,2025-12-29,15:51,C1103,Muffin,Dessert,130,1,Cloudy,25,66,Relaxed,Cash,Dine-In,130
+1750,2025-11-27,07:40,C1126,Iced Coffee,Coffee,210,1,Sunny,28,46,Energetic,Card,Takeaway,210
+1751,2025-09-08,09:13,C1242,Pasta,Meal,320,4,Rainy,24,85,Tired,Card,Dine-In,1280
+1752,2025-12-07,14:11,C1134,Cold Coffee,Beverage,230,2,Hot,37,42,Stressed,Cash,Takeaway,460
+1753,2025-10-15,17:17,C1073,Brownie,Dessert,160,2,Rainy,24,83,Stressed,Cash,Dine-In,320
+1754,2025-09-19,20:49,C1053,Muffin,Dessert,130,4,Rainy,24,86,Romantic,Card,Dine-In,520
+1755,2025-10-09,20:11,C1235,Pasta,Meal,320,4,Hot,37,37,Happy,Cash,Dine-In,1280
+1756,2025-04-12,14:50,C1015,Pasta,Meal,320,2,Hot,38,37,Tired,Card,Dine-In,640
+1757,2025-03-30,09:36,C1219,Veg Sandwich,Snack,180,2,Cloudy,25,66,Romantic,Card,Dine-In,360
+1758,2025-11-24,11:15,C1187,Cheesecake,Dessert,240,2,Sunny,29,50,Romantic,Cash,Dine-In,480
+1759,2025-10-23,20:57,C1063,Cheesecake,Dessert,240,2,Rainy,22,87,Sad,Card,Takeaway,480
+1760,2025-09-10,10:10,C1134,Cold Coffee,Beverage,230,4,Sunny,28,54,Stressed,Card,Takeaway,920
+1761,2025-11-09,18:46,C1002,Latte,Coffee,200,2,Hot,38,44,Sad,UPI,Dine-In,400
+1762,2025-08-14,08:10,C1270,Cappuccino,Coffee,180,3,Sunny,32,52,Tired,Card,Dine-In,540
+1763,2025-04-20,14:45,C1067,Lemonade,Beverage,150,3,Sunny,32,53,Relaxed,UPI,Dine-In,450
+1764,2025-12-12,19:06,C1089,Espresso,Coffee,150,3,Rainy,20,91,Relaxed,UPI,Dine-In,450
+1765,2025-05-16,19:35,C1179,Brownie,Dessert,160,4,Cloudy,28,74,Sad,Cash,Dine-In,640
+1766,2025-12-21,18:46,C1274,Pasta,Meal,320,3,Cloudy,26,67,Relaxed,Card,Dine-In,960
+1767,2025-01-21,10:01,C1294,Iced Coffee,Coffee,210,3,Sunny,31,55,Happy,Cash,Takeaway,630
+1768,2025-02-26,14:04,C1077,Green Tea,Tea,140,2,Hot,38,36,Happy,Cash,Dine-In,280
+1769,2025-10-28,18:22,C1262,Chicken Sandwich,Snack,240,1,Sunny,29,52,Stressed,UPI,Dine-In,240
+1770,2025-11-10,20:12,C1256,Lemonade,Beverage,150,1,Cloudy,27,66,Relaxed,UPI,Dine-In,150
+1771,2025-03-16,13:03,C1061,Chicken Sandwich,Snack,240,2,Cloudy,24,68,Relaxed,Cash,Takeaway,480
+1772,2025-07-29,14:48,C1060,Chicken Sandwich,Snack,240,2,Sunny,32,55,Happy,UPI,Takeaway,480
+1773,2025-07-26,08:08,C1070,Lemonade,Beverage,150,2,Sunny,32,45,Sad,Cash,Takeaway,300
+1774,2025-12-05,18:59,C1110,Cheesecake,Dessert,240,4,Hot,35,44,Romantic,UPI,Takeaway,960
+1775,2025-10-20,10:27,C1234,Masala Tea,Tea,120,3,Sunny,28,55,Relaxed,Cash,Takeaway,360
+1776,2025-09-24,08:09,C1286,Cold Coffee,Beverage,230,3,Sunny,28,49,Happy,Cash,Takeaway,690
+1777,2025-11-17,15:08,C1069,Lemonade,Beverage,150,3,Hot,38,45,Stressed,UPI,Takeaway,450
+1778,2025-07-12,09:01,C1195,Muffin,Dessert,130,2,Cloudy,26,70,Romantic,UPI,Dine-In,260
+1779,2025-04-20,18:42,C1009,Veg Sandwich,Snack,180,3,Sunny,32,52,Tired,UPI,Dine-In,540
+1780,2025-08-21,08:09,C1277,Iced Coffee,Coffee,210,2,Rainy,22,91,Stressed,Card,Takeaway,420
+1781,2025-06-07,19:59,C1080,Espresso,Coffee,150,2,Windy,24,56,Romantic,UPI,Dine-In,300
+1782,2025-09-04,21:03,C1286,Masala Tea,Tea,120,1,Rainy,21,90,Relaxed,Card,Takeaway,120
+1783,2025-01-31,09:38,C1012,Veg Sandwich,Snack,180,1,Rainy,20,89,Sad,Card,Dine-In,180
+1784,2025-03-08,09:55,C1004,Iced Coffee,Coffee,210,1,Rainy,22,85,Tired,UPI,Takeaway,210
+1785,2025-01-17,10:03,C1232,Latte,Coffee,200,1,Cloudy,27,72,Energetic,Card,Takeaway,200
+1786,2025-06-07,16:04,C1218,Green Tea,Tea,140,4,Cloudy,26,70,Stressed,UPI,Dine-In,560
+1787,2025-05-09,14:53,C1002,Latte,Coffee,200,2,Windy,24,62,Sad,UPI,Dine-In,400
+1788,2025-10-12,07:49,C1118,Latte,Coffee,200,1,Sunny,28,51,Energetic,UPI,Takeaway,200
+1789,2025-07-24,11:48,C1007,Latte,Coffee,200,4,Sunny,32,45,Energetic,Cash,Dine-In,800
+1790,2025-12-10,12:28,C1032,Latte,Coffee,200,2,Cloudy,24,70,Romantic,Card,Dine-In,400
+1791,2025-04-11,15:02,C1118,Masala Tea,Tea,120,4,Sunny,28,52,Romantic,Card,Dine-In,480
+1792,2025-01-25,20:55,C1103,Iced Coffee,Coffee,210,3,Hot,36,42,Stressed,Card,Dine-In,630
+1793,2025-02-28,18:12,C1271,Cappuccino,Coffee,180,1,Cloudy,25,70,Energetic,Cash,Takeaway,180
+1794,2025-08-17,13:45,C1003,Masala Tea,Tea,120,3,Rainy,21,84,Energetic,Card,Dine-In,360
+1795,2025-12-10,19:55,C1224,Cold Coffee,Beverage,230,2,Cloudy,25,72,Stressed,Card,Takeaway,460
+1796,2025-03-18,08:22,C1017,Veg Sandwich,Snack,180,1,Cloudy,25,72,Happy,UPI,Takeaway,180
+1797,2025-07-26,13:27,C1035,Latte,Coffee,200,3,Hot,38,35,Tired,UPI,Dine-In,600
+1798,2025-08-17,16:31,C1135,Chicken Sandwich,Snack,240,4,Sunny,30,45,Happy,Cash,Dine-In,960
+1799,2025-10-06,19:35,C1034,Latte,Coffee,200,3,Cloudy,26,68,Romantic,Card,Dine-In,600
+1800,2025-01-22,11:39,C1255,Veg Sandwich,Snack,180,1,Windy,24,65,Tired,Card,Takeaway,180
+1801,2025-11-24,10:41,C1213,Latte,Coffee,200,2,Rainy,23,93,Happy,Card,Takeaway,400
+1802,2025-02-22,13:58,C1249,Masala Tea,Tea,120,1,Sunny,31,49,Happy,Card,Takeaway,120
+1803,2025-05-08,10:53,C1149,Espresso,Coffee,150,3,Rainy,21,91,Romantic,Cash,Dine-In,450
+1804,2025-11-09,14:51,C1072,Cappuccino,Coffee,180,1,Cloudy,26,67,Sad,UPI,Dine-In,180
+1805,2025-08-28,07:32,C1082,Brownie,Dessert,160,2,Sunny,31,45,Tired,Cash,Dine-In,320
+1806,2025-11-19,19:42,C1190,Chicken Sandwich,Snack,240,3,Sunny,32,46,Relaxed,Cash,Takeaway,720
+1807,2025-03-17,21:07,C1149,Latte,Coffee,200,4,Hot,38,43,Romantic,Cash,Dine-In,800
+1808,2025-02-06,15:59,C1062,Masala Tea,Tea,120,3,Rainy,21,85,Tired,Card,Takeaway,360
+1809,2025-09-25,15:47,C1225,Lemonade,Beverage,150,2,Cloudy,27,73,Stressed,UPI,Dine-In,300
+1810,2025-02-01,19:01,C1048,Iced Coffee,Coffee,210,1,Rainy,22,90,Romantic,UPI,Dine-In,210
+1811,2025-07-14,16:05,C1256,Iced Coffee,Coffee,210,4,Sunny,28,47,Energetic,Cash,Takeaway,840
+1812,2025-03-26,16:42,C1245,Masala Tea,Tea,120,2,Rainy,23,92,Romantic,Cash,Dine-In,240
+1813,2025-05-17,07:37,C1298,Green Tea,Tea,140,2,Cloudy,26,66,Tired,Card,Dine-In,280
+1814,2025-07-01,13:02,C1284,Brownie,Dessert,160,2,Sunny,30,55,Tired,Cash,Dine-In,320
+1815,2025-06-20,18:24,C1204,Green Tea,Tea,140,1,Windy,25,64,Tired,UPI,Takeaway,140
+1816,2025-11-24,07:56,C1197,Veg Sandwich,Snack,180,4,Cloudy,26,74,Sad,Cash,Dine-In,720
+1817,2025-05-16,21:39,C1034,Masala Tea,Tea,120,1,Sunny,32,49,Relaxed,Card,Dine-In,120
+1818,2025-03-20,15:21,C1125,Latte,Coffee,200,4,Sunny,30,54,Tired,Cash,Takeaway,800
+1819,2025-05-21,15:34,C1274,Espresso,Coffee,150,1,Cloudy,28,68,Stressed,Card,Dine-In,150
+1820,2025-11-11,07:56,C1270,Masala Tea,Tea,120,2,Hot,37,42,Relaxed,Card,Dine-In,240
+1821,2025-08-06,07:39,C1058,Muffin,Dessert,130,1,Sunny,28,48,Tired,Cash,Dine-In,130
+1822,2025-07-03,17:48,C1120,Veg Sandwich,Snack,180,2,Hot,35,41,Happy,UPI,Takeaway,360
+1823,2025-07-28,21:00,C1285,Green Tea,Tea,140,2,Hot,34,39,Stressed,Cash,Dine-In,280
+1824,2025-07-25,12:49,C1155,Muffin,Dessert,130,1,Hot,36,39,Tired,Card,Dine-In,130
+1825,2025-05-15,08:39,C1149,Latte,Coffee,200,4,Rainy,20,86,Romantic,Card,Dine-In,800
+1826,2025-10-18,13:25,C1265,Muffin,Dessert,130,1,Rainy,23,84,Tired,UPI,Takeaway,130
+1827,2025-11-01,15:36,C1283,Cold Coffee,Beverage,230,1,Cloudy,24,71,Sad,UPI,Dine-In,230
+1828,2025-05-20,08:28,C1168,Iced Coffee,Coffee,210,4,Cloudy,24,68,Tired,Cash,Dine-In,840
+1829,2025-07-21,17:24,C1128,Iced Coffee,Coffee,210,4,Cloudy,28,74,Tired,Cash,Takeaway,840
+1830,2025-12-23,16:35,C1047,Brownie,Dessert,160,3,Hot,37,44,Stressed,Card,Takeaway,480
+1831,2025-10-29,11:20,C1093,Cold Coffee,Beverage,230,1,Sunny,32,47,Romantic,UPI,Takeaway,230
+1832,2025-07-04,10:44,C1037,Lemonade,Beverage,150,4,Hot,34,40,Happy,Card,Dine-In,600
+1833,2025-08-05,17:46,C1203,Cappuccino,Coffee,180,2,Windy,26,63,Tired,UPI,Takeaway,360
+1834,2025-06-10,10:26,C1191,Pasta,Meal,320,2,Sunny,32,49,Stressed,Cash,Dine-In,640
+1835,2025-07-14,14:00,C1070,Cappuccino,Coffee,180,1,Cloudy,28,69,Tired,Card,Takeaway,180
+1836,2025-04-02,07:18,C1223,Lemonade,Beverage,150,4,Hot,36,43,Energetic,Card,Takeaway,600
+1837,2025-07-30,07:20,C1217,Cold Coffee,Beverage,230,4,Sunny,28,49,Stressed,Card,Takeaway,920
+1838,2025-08-15,12:34,C1099,Lemonade,Beverage,150,1,Cloudy,26,70,Relaxed,Cash,Dine-In,150
+1839,2025-08-06,09:15,C1067,Muffin,Dessert,130,3,Sunny,31,51,Tired,Cash,Dine-In,390
+1840,2025-08-03,12:44,C1178,Iced Coffee,Coffee,210,1,Sunny,30,54,Energetic,UPI,Dine-In,210
+1841,2025-01-05,18:59,C1078,Chicken Sandwich,Snack,240,4,Sunny,29,46,Relaxed,Card,Dine-In,960
+1842,2025-08-20,13:56,C1035,Brownie,Dessert,160,4,Rainy,21,88,Energetic,Card,Dine-In,640
+1843,2025-02-23,08:11,C1265,Iced Coffee,Coffee,210,1,Sunny,32,49,Energetic,Cash,Takeaway,210
+1844,2025-01-31,07:48,C1247,Lemonade,Beverage,150,1,Sunny,32,53,Sad,Cash,Takeaway,150
+1845,2025-10-14,09:12,C1007,Muffin,Dessert,130,1,Sunny,32,50,Sad,Card,Takeaway,130
+1846,2025-03-11,18:26,C1057,Cold Coffee,Beverage,230,3,Hot,37,36,Relaxed,UPI,Dine-In,690
+1847,2025-04-15,15:16,C1198,Hot Chocolate,Beverage,220,4,Rainy,23,88,Romantic,Cash,Dine-In,880
+1848,2025-08-25,15:22,C1159,Muffin,Dessert,130,2,Rainy,22,91,Relaxed,UPI,Dine-In,260
+1849,2025-12-10,15:44,C1138,Cold Coffee,Beverage,230,2,Cloudy,26,70,Tired,UPI,Dine-In,460
+1850,2025-12-13,13:16,C1075,Iced Coffee,Coffee,210,3,Sunny,31,50,Romantic,UPI,Dine-In,630
+1851,2025-02-27,09:12,C1252,Espresso,Coffee,150,4,Sunny,32,54,Tired,Cash,Dine-In,600
+1852,2025-08-19,14:57,C1086,Cold Coffee,Beverage,230,4,Windy,23,65,Stressed,Card,Dine-In,920
+1853,2025-01-16,10:55,C1007,Muffin,Dessert,130,4,Cloudy,24,72,Stressed,Cash,Dine-In,520
+1854,2025-02-04,16:50,C1100,Masala Tea,Tea,120,2,Windy,24,60,Romantic,UPI,Takeaway,240
+1855,2025-11-08,19:14,C1118,Green Tea,Tea,140,2,Sunny,29,50,Tired,Card,Dine-In,280
+1856,2025-01-19,20:58,C1259,Muffin,Dessert,130,1,Cloudy,27,72,Sad,Card,Dine-In,130
+1857,2025-08-06,12:11,C1219,Iced Coffee,Coffee,210,3,Sunny,30,49,Stressed,UPI,Dine-In,630
+1858,2025-10-01,21:23,C1283,Pasta,Meal,320,1,Rainy,24,86,Sad,UPI,Dine-In,320
+1859,2025-11-25,17:41,C1275,Cold Coffee,Beverage,230,3,Sunny,32,46,Relaxed,Card,Takeaway,690
+1860,2025-10-03,18:24,C1080,Cold Coffee,Beverage,230,4,Hot,38,43,Tired,Cash,Dine-In,920
+1861,2025-06-06,12:30,C1231,Veg Sandwich,Snack,180,2,Windy,22,59,Tired,Cash,Dine-In,360
+1862,2025-05-10,13:14,C1196,Cappuccino,Coffee,180,1,Hot,38,43,Romantic,Cash,Takeaway,180
+1863,2025-03-31,11:08,C1084,Lemonade,Beverage,150,2,Windy,23,64,Sad,Cash,Dine-In,300
+1864,2025-05-02,16:50,C1201,Latte,Coffee,200,2,Hot,38,42,Happy,UPI,Dine-In,400
+1865,2025-03-30,15:55,C1075,Cheesecake,Dessert,240,1,Cloudy,28,68,Relaxed,UPI,Dine-In,240
+1866,2025-03-01,07:11,C1268,Hot Chocolate,Beverage,220,2,Hot,34,36,Romantic,Card,Takeaway,440
+1867,2025-08-11,13:07,C1286,Cappuccino,Coffee,180,1,Cloudy,28,75,Tired,Cash,Takeaway,180
+1868,2025-07-17,08:00,C1048,Cheesecake,Dessert,240,1,Windy,23,60,Sad,Card,Dine-In,240
+1869,2025-05-01,21:35,C1025,Iced Coffee,Coffee,210,3,Cloudy,24,74,Energetic,Card,Takeaway,630
+1870,2025-08-04,19:48,C1162,Cold Coffee,Beverage,230,2,Sunny,30,51,Tired,Cash,Dine-In,460
+1871,2025-01-18,07:12,C1190,Pasta,Meal,320,1,Rainy,23,85,Happy,Card,Takeaway,320
+1872,2025-10-29,13:28,C1200,Muffin,Dessert,130,1,Rainy,20,89,Sad,Card,Takeaway,130
+1873,2025-02-17,08:00,C1047,Lemonade,Beverage,150,4,Hot,36,36,Romantic,Cash,Dine-In,600
+1874,2025-05-25,07:51,C1241,Brownie,Dessert,160,3,Sunny,32,54,Stressed,UPI,Dine-In,480
+1875,2025-07-08,19:35,C1284,Cold Coffee,Beverage,230,2,Rainy,24,86,Stressed,UPI,Takeaway,460
+1876,2025-10-01,18:36,C1008,Veg Sandwich,Snack,180,4,Sunny,32,52,Tired,Cash,Dine-In,720
+1877,2025-10-04,13:35,C1187,Cheesecake,Dessert,240,1,Rainy,23,92,Happy,UPI,Takeaway,240
+1878,2025-10-30,13:11,C1012,Green Tea,Tea,140,4,Windy,26,62,Sad,Cash,Dine-In,560
+1879,2025-03-06,07:05,C1268,Espresso,Coffee,150,4,Hot,36,42,Tired,Cash,Dine-In,600
+1880,2025-07-14,07:19,C1038,Latte,Coffee,200,1,Windy,26,60,Relaxed,Card,Takeaway,200
+1881,2025-06-21,15:20,C1071,Latte,Coffee,200,4,Rainy,22,84,Romantic,Card,Takeaway,800
+1882,2025-07-17,16:11,C1048,Cold Coffee,Beverage,230,1,Sunny,32,47,Stressed,Cash,Takeaway,230
+1883,2025-03-12,13:17,C1039,Espresso,Coffee,150,2,Sunny,31,50,Energetic,Card,Dine-In,300
+1884,2025-12-29,21:58,C1054,Lemonade,Beverage,150,3,Cloudy,26,69,Relaxed,Cash,Takeaway,450
+1885,2025-12-15,11:23,C1296,Brownie,Dessert,160,1,Rainy,24,85,Happy,UPI,Dine-In,160
+1886,2025-07-07,14:53,C1205,Cappuccino,Coffee,180,1,Hot,34,36,Romantic,UPI,Takeaway,180
+1887,2025-07-29,11:03,C1241,Brownie,Dessert,160,2,Sunny,29,49,Tired,UPI,Dine-In,320
+1888,2025-10-14,16:20,C1265,Lemonade,Beverage,150,3,Sunny,28,52,Energetic,UPI,Dine-In,450
+1889,2025-12-19,11:45,C1278,Brownie,Dessert,160,2,Sunny,31,46,Sad,Card,Dine-In,320
+1890,2025-09-04,08:03,C1295,Cold Coffee,Beverage,230,3,Hot,34,36,Happy,Card,Dine-In,690
+1891,2025-11-09,09:54,C1219,Brownie,Dessert,160,1,Hot,34,40,Relaxed,UPI,Dine-In,160
+1892,2025-07-05,10:52,C1023,Muffin,Dessert,130,4,Sunny,32,47,Relaxed,UPI,Takeaway,520
+1893,2025-02-06,19:27,C1045,Veg Sandwich,Snack,180,3,Cloudy,24,72,Stressed,Cash,Takeaway,540
+1894,2025-10-15,18:20,C1240,Pasta,Meal,320,3,Sunny,29,54,Energetic,Card,Dine-In,960
+1895,2025-07-31,12:08,C1046,Veg Sandwich,Snack,180,3,Sunny,31,46,Sad,Cash,Dine-In,540
+1896,2025-08-31,10:51,C1171,Iced Coffee,Coffee,210,1,Sunny,28,45,Stressed,UPI,Dine-In,210
+1897,2025-06-30,19:35,C1152,Chicken Sandwich,Snack,240,4,Sunny,29,46,Sad,UPI,Takeaway,960
+1898,2025-08-13,11:33,C1031,Cold Coffee,Beverage,230,2,Rainy,21,89,Energetic,Card,Takeaway,460
+1899,2025-10-07,13:02,C1129,Pasta,Meal,320,4,Rainy,24,91,Relaxed,Card,Dine-In,1280
+1900,2025-10-08,11:11,C1277,Green Tea,Tea,140,2,Rainy,22,89,Relaxed,UPI,Takeaway,280
+1901,2025-06-21,07:28,C1230,Muffin,Dessert,130,4,Hot,34,41,Stressed,Cash,Takeaway,520
+1902,2025-06-30,08:23,C1018,Masala Tea,Tea,120,2,Sunny,29,45,Energetic,Cash,Takeaway,240
+1903,2025-06-16,08:02,C1052,Brownie,Dessert,160,3,Cloudy,28,66,Relaxed,UPI,Dine-In,480
+1904,2025-08-25,19:32,C1152,Masala Tea,Tea,120,1,Cloudy,24,67,Stressed,Cash,Takeaway,120
+1905,2025-12-16,13:03,C1190,Chicken Sandwich,Snack,240,2,Sunny,28,51,Romantic,UPI,Takeaway,480
+1906,2025-05-18,18:05,C1094,Chicken Sandwich,Snack,240,2,Hot,34,45,Relaxed,Card,Takeaway,480
+1907,2025-10-17,12:55,C1164,Cappuccino,Coffee,180,1,Sunny,31,45,Happy,UPI,Takeaway,180
+1908,2025-04-20,20:46,C1133,Lemonade,Beverage,150,2,Hot,36,45,Romantic,Card,Takeaway,300
+1909,2025-01-17,14:18,C1067,Cappuccino,Coffee,180,4,Sunny,31,48,Tired,Card,Dine-In,720
+1910,2025-07-01,18:47,C1034,Veg Sandwich,Snack,180,3,Cloudy,25,75,Tired,UPI,Dine-In,540
+1911,2025-07-21,11:43,C1297,Veg Sandwich,Snack,180,2,Hot,34,38,Romantic,UPI,Dine-In,360
+1912,2025-05-23,12:08,C1146,Cappuccino,Coffee,180,2,Rainy,24,92,Romantic,UPI,Dine-In,360
+1913,2025-10-05,11:40,C1090,Veg Sandwich,Snack,180,1,Hot,36,44,Energetic,Cash,Takeaway,180
+1914,2025-06-27,19:48,C1186,Hot Chocolate,Beverage,220,3,Cloudy,26,67,Happy,Card,Dine-In,660
+1915,2025-01-18,07:26,C1281,Brownie,Dessert,160,1,Cloudy,27,74,Sad,UPI,Dine-In,160
+1916,2025-10-07,13:45,C1137,Brownie,Dessert,160,4,Sunny,29,52,Energetic,Cash,Dine-In,640
+1917,2025-04-22,17:12,C1002,Veg Sandwich,Snack,180,3,Rainy,22,86,Happy,Card,Takeaway,540
+1918,2025-08-23,13:48,C1179,Muffin,Dessert,130,2,Rainy,20,86,Relaxed,UPI,Dine-In,260
+1919,2025-09-10,10:24,C1055,Green Tea,Tea,140,3,Sunny,31,47,Stressed,Card,Takeaway,420
+1920,2025-04-05,16:03,C1114,Chicken Sandwich,Snack,240,2,Cloudy,28,67,Relaxed,Card,Takeaway,480
+1921,2025-02-18,08:00,C1183,Pasta,Meal,320,1,Cloudy,27,75,Happy,UPI,Dine-In,320
+1922,2025-11-23,19:34,C1060,Cheesecake,Dessert,240,4,Cloudy,25,65,Relaxed,UPI,Takeaway,960
+1923,2025-07-21,14:14,C1172,Cold Coffee,Beverage,230,2,Cloudy,24,69,Romantic,Card,Takeaway,460
+1924,2025-10-16,15:50,C1088,Cheesecake,Dessert,240,4,Rainy,24,85,Happy,Cash,Takeaway,960
+1925,2025-06-09,09:25,C1092,Cappuccino,Coffee,180,2,Hot,35,41,Romantic,UPI,Dine-In,360
+1926,2025-08-23,12:22,C1065,Cheesecake,Dessert,240,2,Sunny,31,52,Happy,UPI,Takeaway,480
+1927,2025-02-28,08:51,C1097,Green Tea,Tea,140,2,Sunny,32,45,Relaxed,Card,Dine-In,280
+1928,2025-02-20,17:50,C1294,Veg Sandwich,Snack,180,2,Sunny,32,46,Energetic,Card,Dine-In,360
+1929,2025-12-18,12:36,C1109,Latte,Coffee,200,4,Sunny,28,53,Sad,Cash,Takeaway,800
+1930,2025-06-20,15:35,C1049,Latte,Coffee,200,3,Cloudy,27,72,Relaxed,Card,Dine-In,600
+1931,2025-12-29,07:48,C1111,Cold Coffee,Beverage,230,3,Hot,37,43,Tired,UPI,Takeaway,690
+1932,2025-11-08,09:32,C1160,Lemonade,Beverage,150,4,Hot,38,39,Stressed,UPI,Dine-In,600
+1933,2025-09-21,09:10,C1110,Pasta,Meal,320,4,Sunny,28,47,Energetic,Cash,Takeaway,1280
+1934,2025-10-02,09:40,C1046,Lemonade,Beverage,150,2,Sunny,29,45,Stressed,Card,Takeaway,300
+1935,2025-09-07,11:41,C1216,Hot Chocolate,Beverage,220,2,Hot,38,36,Happy,Card,Dine-In,440
+1936,2025-12-25,07:43,C1077,Espresso,Coffee,150,1,Sunny,29,45,Stressed,UPI,Dine-In,150
+1937,2025-03-08,18:28,C1191,Brownie,Dessert,160,3,Hot,35,36,Relaxed,Cash,Dine-In,480
+1938,2025-01-22,21:49,C1209,Cold Coffee,Beverage,230,2,Cloudy,27,70,Happy,Card,Takeaway,460
+1939,2025-04-11,07:43,C1226,Muffin,Dessert,130,1,Rainy,24,86,Tired,Card,Takeaway,130
+1940,2025-07-02,13:57,C1037,Veg Sandwich,Snack,180,1,Cloudy,25,67,Tired,Cash,Dine-In,180
+1941,2025-11-30,09:38,C1194,Latte,Coffee,200,4,Cloudy,24,72,Stressed,Cash,Dine-In,800
+1942,2025-03-23,16:47,C1278,Cheesecake,Dessert,240,2,Sunny,28,49,Relaxed,Card,Dine-In,480
+1943,2025-11-14,13:25,C1250,Espresso,Coffee,150,2,Cloudy,25,66,Sad,UPI,Dine-In,300
+1944,2025-07-07,13:35,C1021,Lemonade,Beverage,150,3,Hot,37,41,Sad,Card,Dine-In,450
+1945,2025-12-25,13:59,C1031,Espresso,Coffee,150,1,Cloudy,27,70,Stressed,Card,Takeaway,150
+1946,2025-05-11,11:41,C1157,Cappuccino,Coffee,180,4,Hot,37,38,Romantic,Cash,Dine-In,720
+1947,2025-04-26,16:26,C1233,Green Tea,Tea,140,1,Rainy,24,89,Relaxed,UPI,Dine-In,140
+1948,2025-03-28,13:08,C1211,Masala Tea,Tea,120,1,Sunny,29,49,Relaxed,Cash,Dine-In,120
+1949,2025-06-25,17:35,C1264,Pasta,Meal,320,3,Sunny,29,46,Romantic,Cash,Dine-In,960
+1950,2025-10-01,18:31,C1123,Veg Sandwich,Snack,180,1,Cloudy,27,67,Romantic,Cash,Takeaway,180
+1951,2025-12-31,08:42,C1123,Veg Sandwich,Snack,180,4,Sunny,29,53,Stressed,UPI,Takeaway,720
+1952,2025-08-24,09:56,C1134,Green Tea,Tea,140,1,Rainy,21,86,Relaxed,UPI,Dine-In,140
+1953,2025-12-20,10:04,C1015,Latte,Coffee,200,3,Windy,26,62,Sad,Card,Takeaway,600
+1954,2025-07-09,20:29,C1256,Cold Coffee,Beverage,230,4,Hot,38,45,Stressed,Card,Takeaway,920
+1955,2025-07-25,16:45,C1123,Lemonade,Beverage,150,3,Cloudy,26,68,Stressed,Card,Takeaway,450
+1956,2025-10-16,14:54,C1033,Iced Coffee,Coffee,210,4,Rainy,24,91,Sad,Card,Dine-In,840
+1957,2025-05-24,09:05,C1005,Espresso,Coffee,150,3,Sunny,28,53,Romantic,Cash,Takeaway,450
+1958,2025-11-13,21:19,C1074,Cheesecake,Dessert,240,1,Windy,23,61,Energetic,Card,Takeaway,240
+1959,2025-10-22,13:25,C1142,Iced Coffee,Coffee,210,4,Sunny,29,45,Sad,UPI,Dine-In,840
+1960,2025-07-08,19:45,C1147,Veg Sandwich,Snack,180,1,Sunny,31,46,Tired,UPI,Takeaway,180
+1961,2025-11-30,15:37,C1060,Hot Chocolate,Beverage,220,2,Windy,23,61,Tired,Card,Takeaway,440
+1962,2025-06-08,10:45,C1235,Cold Coffee,Beverage,230,1,Rainy,23,86,Romantic,UPI,Dine-In,230
+1963,2025-12-15,21:01,C1073,Cappuccino,Coffee,180,1,Rainy,24,88,Relaxed,UPI,Dine-In,180
+1964,2025-07-08,18:35,C1081,Brownie,Dessert,160,1,Hot,38,39,Stressed,UPI,Takeaway,160
+1965,2025-12-03,11:47,C1137,Lemonade,Beverage,150,2,Rainy,24,90,Stressed,Cash,Takeaway,300
+1966,2025-01-25,08:31,C1175,Hot Chocolate,Beverage,220,2,Hot,34,43,Sad,Cash,Dine-In,440
+1967,2025-04-24,21:28,C1166,Brownie,Dessert,160,4,Sunny,31,51,Romantic,Card,Dine-In,640
+1968,2025-04-10,14:00,C1183,Latte,Coffee,200,3,Hot,34,45,Romantic,UPI,Takeaway,600
+1969,2025-10-02,08:01,C1019,Lemonade,Beverage,150,3,Rainy,24,93,Happy,UPI,Dine-In,450
+1970,2025-09-05,20:43,C1100,Espresso,Coffee,150,2,Sunny,29,50,Sad,UPI,Takeaway,300
+1971,2025-01-14,16:19,C1045,Hot Chocolate,Beverage,220,1,Windy,23,61,Energetic,Card,Dine-In,220
+1972,2025-01-18,10:07,C1201,Hot Chocolate,Beverage,220,4,Cloudy,26,67,Energetic,UPI,Dine-In,880
+1973,2025-11-04,17:11,C1192,Veg Sandwich,Snack,180,4,Windy,24,57,Romantic,Cash,Takeaway,720
+1974,2025-12-04,17:13,C1227,Lemonade,Beverage,150,2,Sunny,29,55,Romantic,UPI,Dine-In,300
+1975,2025-09-25,16:38,C1182,Espresso,Coffee,150,1,Sunny,31,48,Tired,UPI,Dine-In,150
+1976,2025-04-27,13:27,C1026,Latte,Coffee,200,3,Hot,37,41,Happy,Cash,Takeaway,600
+1977,2025-01-24,15:11,C1082,Masala Tea,Tea,120,4,Windy,22,63,Tired,UPI,Takeaway,480
+1978,2025-01-20,08:00,C1284,Brownie,Dessert,160,1,Sunny,28,50,Romantic,UPI,Dine-In,160
+1979,2025-12-28,08:54,C1133,Brownie,Dessert,160,4,Hot,36,43,Tired,Card,Takeaway,640
+1980,2025-04-13,12:28,C1079,Cold Coffee,Beverage,230,3,Sunny,29,48,Romantic,UPI,Dine-In,690
+1981,2025-12-31,15:01,C1178,Chicken Sandwich,Snack,240,1,Windy,24,59,Relaxed,Cash,Dine-In,240
+1982,2025-12-07,17:40,C1194,Muffin,Dessert,130,2,Sunny,30,51,Happy,UPI,Takeaway,260
+1983,2025-04-19,12:41,C1059,Cappuccino,Coffee,180,4,Sunny,31,48,Happy,Cash,Dine-In,720
+1984,2025-05-20,13:43,C1162,Cold Coffee,Beverage,230,4,Sunny,29,45,Sad,UPI,Takeaway,920
+1985,2025-03-04,17:35,C1198,Green Tea,Tea,140,2,Sunny,28,48,Tired,UPI,Takeaway,280
+1986,2025-12-05,07:32,C1243,Cold Coffee,Beverage,230,3,Cloudy,25,74,Tired,Cash,Takeaway,690
+1987,2025-07-17,08:20,C1129,Pasta,Meal,320,3,Windy,22,60,Stressed,Cash,Dine-In,960
+1988,2025-03-31,21:40,C1040,Chicken Sandwich,Snack,240,1,Rainy,23,87,Happy,Cash,Takeaway,240
+1989,2025-06-18,13:17,C1165,Cappuccino,Coffee,180,1,Cloudy,27,74,Relaxed,Card,Takeaway,180
+1990,2025-07-03,19:11,C1087,Cappuccino,Coffee,180,4,Windy,23,55,Stressed,Card,Dine-In,720
+1991,2025-12-08,07:04,C1038,Veg Sandwich,Snack,180,4,Sunny,28,47,Stressed,UPI,Dine-In,720
+1992,2025-08-09,21:39,C1290,Masala Tea,Tea,120,4,Cloudy,27,71,Happy,Cash,Takeaway,480
+1993,2025-04-21,08:10,C1095,Masala Tea,Tea,120,4,Hot,35,36,Tired,UPI,Takeaway,480
+1994,2025-11-30,13:43,C1274,Cold Coffee,Beverage,230,1,Rainy,22,92,Energetic,Cash,Takeaway,230
+1995,2025-11-29,15:26,C1293,Green Tea,Tea,140,2,Windy,23,65,Romantic,Cash,Takeaway,280
+1996,2025-04-14,08:38,C1297,Latte,Coffee,200,4,Rainy,21,83,Energetic,Cash,Takeaway,800
+1997,2025-04-04,10:07,C1013,Espresso,Coffee,150,1,Sunny,32,46,Stressed,Card,Takeaway,150
+1998,2025-07-13,11:18,C1026,Veg Sandwich,Snack,180,4,Windy,24,62,Happy,UPI,Dine-In,720
+1999,2025-08-04,15:29,C1153,Masala Tea,Tea,120,3,Rainy,23,90,Sad,Cash,Takeaway,360
+2000,2025-10-31,14:59,C1219,Iced Coffee,Coffee,210,1,Rainy,21,89,Stressed,Cash,Dine-In,210
