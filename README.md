@@ -119,7 +119,7 @@ The Power BI dashboard provides an interactive overview of café sales and custo
 
 ## 📸 Dashboard Preview
 
-![Cafe Mood Menu Tracker Dashboard](Dashboard/cafe_dashboard.png)
+![Cafe Mood Menu Tracker Dashboard](https://github.com/AbhishiktaMondal/Cafe_Mood_Menu_Tracker/blob/main/Screenshot%202026-08-09%20194121.png)
 
 ---
 
